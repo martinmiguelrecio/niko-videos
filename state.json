@@ -43,21 +43,6 @@
       "fileId": "1O3x788lj0cwZeQoerd8TAqWtFl-fF4Nt",
       "archivo": "20261027_123914.mp4",
       "motivo": "sorteo Día de la Madre, ya pasó"
-    },
-    {
-      "fileId": "1z-2yU5ZPa1I7_yoZmaf9dODhyKnzE3M-",
-      "archivo": "20261024_202025.mp4",
-      "motivo": "grabado con cajas de Via Lola (factos con taza); usar solo si se recorta sin marca"
-    },
-    {
-      "fileId": "1FFpQ-Oy5H-JD1jdV7oLw7nNJCbfH7kT8",
-      "archivo": "20261024_202204.mp4",
-      "motivo": "grabado con cajas de Via Lola"
-    },
-    {
-      "fileId": "1yEonWc4RfjErCguG7JXs7bu3541XB4pe",
-      "archivo": "20261024_202134.mp4",
-      "motivo": "grabado con cajas de Via Lola"
     }
   ],
   "notas_material": [
@@ -97,5 +82,14 @@
       "evaluado": false
     }
   ],
-  "trends": {}
+  "trends": {},
+  "carpetas_locales": {
+    "Niko 1": "1JqOiITCP-pgDfyrXAB7lAWA0G1ykQeAI",
+    "Niko 2 Rocky": "1BVmY9iRxhRUKhxMbGn0QVkeFMmgz6xxM",
+    "Niko 3": "1P4JIVlU36ONmO_ps7qwc__dfVVpuV0vL",
+    "Niko 4": "10opWK1QEikv2QkulceEtlczZNSIvG7Ur",
+    "Niko 7": "1Y94oo6hyDoeXgLhrbXs6mmol0L68tm2P"
+  },
+  "incentivo_desde": "2026-11-02",
+  "conteo_incentivo": {}
 }
