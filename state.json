@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "nota": "Estado del pipeline diario de videos para TikTok de cuentas secundarias de Niko. Lo actualiza la tarea programada.",
+  "cuentas": {
+    "7799818": "Niko ar",
+    "7788943": "Niko 6 (Niko Libertador)",
+    "7798880": "Niko 5 (ex Mendoza, solo tienda online)"
+  },
+  "segmentos_usados": [
+    {
+      "fileId": "1blcHDxYUtrmbNZpbkZgfeEWGQ4uCkXIj",
+      "archivo": "20261026_220356.mp4",
+      "rangos": [
+        [
+          5.9,
+          35.4
+        ],
+        [
+          59.1,
+          66.5
+        ]
+      ],
+      "fecha": "2026-11-01"
+    },
+    {
+      "fileId": "1Sh3dWpQQ8BQZFQg90FqVJIyrgHi793BQ",
+      "archivo": "20261026_220107.mp4",
+      "rangos": [
+        [
+          1.4,
+          34.3
+        ],
+        [
+          44.0,
+          57.0
+        ]
+      ],
+      "fecha": "2026-11-01"
+    }
+  ],
+  "descartados": [
+    {
+      "fileId": "1O3x788lj0cwZeQoerd8TAqWtFl-fF4Nt",
+      "archivo": "20261027_123914.mp4",
+      "motivo": "sorteo Día de la Madre, ya pasó"
+    },
+    {
+      "fileId": "1z-2yU5ZPa1I7_yoZmaf9dODhyKnzE3M-",
+      "archivo": "20261024_202025.mp4",
+      "motivo": "grabado con cajas de Via Lola (factos con taza); usar solo si se recorta sin marca"
+    },
+    {
+      "fileId": "1FFpQ-Oy5H-JD1jdV7oLw7nNJCbfH7kT8",
+      "archivo": "20261024_202204.mp4",
+      "motivo": "grabado con cajas de Via Lola"
+    },
+    {
+      "fileId": "1yEonWc4RfjErCguG7JXs7bu3541XB4pe",
+      "archivo": "20261024_202134.mp4",
+      "motivo": "grabado con cajas de Via Lola"
+    }
+  ],
+  "notas_material": [
+    "Serie Pocito del 27/10 (archivos 20261027_*): ya editada como niko1_pocito_cyber pero NUNCA publicada; habla de Cyber Monday mini 'dura una semana' desde el 27/10 -> verificar vigencia o recortar sin la promo.",
+    "20261026_220715.mp4: sorteo de una texana por Cyber Monday; no usar salvo que Martín confirme que sigue activo.",
+    "20261026_220356.mp4 tramo 66-160 s: gag de '5000 likes y las bajo al 50%'; no usar (promesa)."
+  ],
+  "posts": [
+    {
+      "fecha": "2026-11-01T20:30",
+      "cuenta": "7799818",
+      "metricool_uuid": "-7686147725837842298",
+      "tipo": "precios/recorrida",
+      "gancho": "¿2x70 o 3x50? Mirá lo que entra al Cyber",
+      "musica": "sin música",
+      "origen": "20261026_220356.mp4",
+      "evaluado": false
+    },
+    {
+      "fecha": "2026-11-01T20:30",
+      "cuenta": "7788943",
+      "metricool_uuid": "-5581968700126182763",
+      "tipo": "review producto",
+      "gancho": "Recién llegadas y ya están en 2x70",
+      "musica": "sin música",
+      "origen": "20261026_220107.mp4",
+      "evaluado": false
+    },
+    {
+      "fecha": "2026-11-01T20:30",
+      "cuenta": "7798880",
+      "metricool_id": 413046626,
+      "tipo": "carrusel fotos tienda online",
+      "gancho": "Hacé la cuenta (Cyber Week niko.ar)",
+      "musica": "auto TikTok",
+      "origen": "carrusel niko1 Drive",
+      "evaluado": false
+    }
+  ],
+  "trends": {}
+}
