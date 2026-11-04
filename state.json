@@ -1,95 +1,242 @@
 {
-  "version": 1,
-  "nota": "Estado del pipeline diario de videos para TikTok de cuentas secundarias de Niko. Lo actualiza la tarea programada.",
-  "cuentas": {
-    "7799818": "Niko ar",
-    "7788943": "Niko 6 (Niko Libertador)",
-    "7798880": "Niko 5 (ex Mendoza, solo tienda online)"
+ "version": 1,
+ "nota": "Estado del pipeline diario de videos para TikTok de cuentas secundarias de Niko. Lo actualiza la tarea programada.",
+ "cuentas": {
+  "7799818": "Niko ar",
+  "7788943": "Niko 6 (Niko Libertador)",
+  "7798880": "Niko 5 (ex Mendoza, solo tienda online)"
+ },
+ "segmentos_usados": [
+  {
+   "fileId": "1blcHDxYUtrmbNZpbkZgfeEWGQ4uCkXIj",
+   "archivo": "20261026_220356.mp4",
+   "rangos": [
+    [
+     5.9,
+     35.4
+    ],
+    [
+     59.1,
+     66.5
+    ]
+   ],
+   "fecha": "2026-11-01"
   },
-  "segmentos_usados": [
-    {
-      "fileId": "1blcHDxYUtrmbNZpbkZgfeEWGQ4uCkXIj",
-      "archivo": "20261026_220356.mp4",
-      "rangos": [
-        [
-          5.9,
-          35.4
-        ],
-        [
-          59.1,
-          66.5
-        ]
-      ],
-      "fecha": "2026-11-01"
-    },
-    {
-      "fileId": "1Sh3dWpQQ8BQZFQg90FqVJIyrgHi793BQ",
-      "archivo": "20261026_220107.mp4",
-      "rangos": [
-        [
-          1.4,
-          34.3
-        ],
-        [
-          44.0,
-          57.0
-        ]
-      ],
-      "fecha": "2026-11-01"
-    }
-  ],
-  "descartados": [
-    {
-      "fileId": "1O3x788lj0cwZeQoerd8TAqWtFl-fF4Nt",
-      "archivo": "20261027_123914.mp4",
-      "motivo": "sorteo Día de la Madre, ya pasó"
-    }
-  ],
-  "notas_material": [
-    "Serie Pocito del 27/10 (archivos 20261027_*): ya editada como niko1_pocito_cyber pero NUNCA publicada; habla de Cyber Monday mini 'dura una semana' desde el 27/10 -> verificar vigencia o recortar sin la promo.",
-    "20261026_220715.mp4: sorteo de una texana por Cyber Monday; no usar salvo que Martín confirme que sigue activo.",
-    "20261026_220356.mp4 tramo 66-160 s: gag de '5000 likes y las bajo al 50%'; no usar (promesa)."
-  ],
-  "posts": [
-    {
-      "fecha": "2026-11-01T20:30",
-      "cuenta": "7799818",
-      "metricool_uuid": "-7686147725837842298",
-      "tipo": "precios/recorrida",
-      "gancho": "¿2x70 o 3x50? Mirá lo que entra al Cyber",
-      "musica": "sin música",
-      "origen": "20261026_220356.mp4",
-      "evaluado": false
-    },
-    {
-      "fecha": "2026-11-01T20:30",
-      "cuenta": "7788943",
-      "metricool_uuid": "-5581968700126182763",
-      "tipo": "review producto",
-      "gancho": "Recién llegadas y ya están en 2x70",
-      "musica": "sin música",
-      "origen": "20261026_220107.mp4",
-      "evaluado": false
-    },
-    {
-      "fecha": "2026-11-01T20:30",
-      "cuenta": "7798880",
-      "metricool_id": 413046626,
-      "tipo": "carrusel fotos tienda online",
-      "gancho": "Hacé la cuenta (Cyber Week niko.ar)",
-      "musica": "auto TikTok",
-      "origen": "carrusel niko1 Drive",
-      "evaluado": false
-    }
-  ],
-  "trends": {},
-  "carpetas_locales": {
-    "Niko 1": "1JqOiITCP-pgDfyrXAB7lAWA0G1ykQeAI",
-    "Niko 2 Rocky": "1BVmY9iRxhRUKhxMbGn0QVkeFMmgz6xxM",
-    "Niko 3": "1P4JIVlU36ONmO_ps7qwc__dfVVpuV0vL",
-    "Niko 4": "10opWK1QEikv2QkulceEtlczZNSIvG7Ur",
-    "Niko 7": "1Y94oo6hyDoeXgLhrbXs6mmol0L68tm2P"
+  {
+   "fileId": "1Sh3dWpQQ8BQZFQg90FqVJIyrgHi793BQ",
+   "archivo": "20261026_220107.mp4",
+   "rangos": [
+    [
+     1.4,
+     34.3
+    ],
+    [
+     44.0,
+     57.0
+    ]
+   ],
+   "fecha": "2026-11-01"
+  }
+ ],
+ "descartados": [
+  {
+   "fileId": "1O3x788lj0cwZeQoerd8TAqWtFl-fF4Nt",
+   "archivo": "20261027_123914.mp4",
+   "motivo": "sorteo Día de la Madre, ya pasó"
+  }
+ ],
+ "notas_material": [
+  "Serie Pocito del 27/10 (archivos 20261027_*): ya editada como niko1_pocito_cyber pero NUNCA publicada; habla de Cyber Monday mini 'dura una semana' desde el 27/10 -> verificar vigencia o recortar sin la promo.",
+  "20261026_220715.mp4: sorteo de una texana por Cyber Monday; no usar salvo que Martín confirme que sigue activo.",
+  "20261026_220356.mp4 tramo 66-160 s: gag de '5000 likes y las bajo al 50%'; no usar (promesa)."
+ ],
+ "posts": [
+  {
+   "fecha": "2026-11-01T20:30",
+   "cuenta": "7799818",
+   "metricool_uuid": "-7686147725837842298",
+   "tipo": "precios/recorrida",
+   "gancho": "¿2x70 o 3x50? Mirá lo que entra al Cyber",
+   "musica": "sin música",
+   "origen": "20261026_220356.mp4",
+   "evaluado": false
   },
-  "incentivo_desde": "2026-11-02",
-  "conteo_incentivo": {}
+  {
+   "fecha": "2026-11-01T20:30",
+   "cuenta": "7788943",
+   "metricool_uuid": "-5581968700126182763",
+   "tipo": "review producto",
+   "gancho": "Recién llegadas y ya están en 2x70",
+   "musica": "sin música",
+   "origen": "20261026_220107.mp4",
+   "evaluado": false
+  },
+  {
+   "fecha": "2026-11-01T20:30",
+   "cuenta": "7798880",
+   "metricool_id": 413046626,
+   "tipo": "carrusel fotos tienda online",
+   "gancho": "Hacé la cuenta (Cyber Week niko.ar)",
+   "musica": "auto TikTok",
+   "origen": "carrusel niko1 Drive",
+   "evaluado": false
+  },
+  {
+   "fecha": "2026-11-05T20:30-03:00",
+   "plataforma": "metricool",
+   "cuenta": "7799818",
+   "id": "4010874442218356973",
+   "archivo_final": "videos/2026-11-05/nikoar_humor_nofumas.mp4",
+   "origen": "ig_marketing",
+   "fileId": "1OdvXOs-NfDbdSVV1uNftQ2x72-icuFGw",
+   "origen_archivo": "VID-20261104-WA0020.mp4",
+   "local_origen": "desconocido",
+   "tipo": "humor",
+   "gancho": "SI TRABAJAS EN UN LOCAL ESTO TE PASA",
+   "musica": "original del reel (sin cambios)",
+   "evaluado": false
+  },
+  {
+   "fecha": "2026-11-05T20:30-03:00",
+   "plataforma": "metricool",
+   "cuenta": "7788943",
+   "id": "756361585072426482",
+   "archivo_final": "videos/2026-11-05/niko6_sandalias_primavera.mp4",
+   "origen": "ig_marketing",
+   "fileId": "1IHcvI_Gs0MtxPDpQ1zYXMlEJUVkgep2w",
+   "origen_archivo": "VID-20261021-WA0025.mp4",
+   "local_origen": "desconocido",
+   "tipo": "producto/moda",
+   "gancho": "¿CUÁL TE LLEVARÍAS?",
+   "musica": "original del reel (sin cambios)",
+   "evaluado": false
+  },
+  {
+   "fecha": "2026-11-05T20:30-03:00",
+   "plataforma": "metricool",
+   "cuenta": "7798880",
+   "id": "-7092271433120004690",
+   "archivo_final": "videos/2026-11-05/niko5_sandalias_online.mp4",
+   "origen": "ig_marketing",
+   "fileId": "1RxySQqI2aXNpYsbn1Ir544rv3VSaUUkX",
+   "origen_archivo": "VID-20261104-WA0004.mp4",
+   "local_origen": "desconocido",
+   "tipo": "producto/online",
+   "gancho": "SANDALIAS DE VERANO ENVÍOS A TODO EL PAÍS",
+   "musica": "original del reel (sin cambios)",
+   "evaluado": false
+  },
+  {
+   "fecha": "2026-11-05T23:30Z",
+   "plataforma": "nuelink",
+   "cuenta": "nuelink:325777 Niko calzados corp. (col 109587)",
+   "id": "5264172",
+   "archivo_final": "videos/2026-11-05/corp_humor_deudas.mp4",
+   "origen": "ig_marketing",
+   "fileId": "1dc01MZYv7W4ScuNRIFuexx9QnvZZoAK2",
+   "origen_archivo": "VID-20261021-WA0001.mp4",
+   "local_origen": "desconocido",
+   "tipo": "humor",
+   "gancho": "EL MEJOR PLAN FINANCIERO",
+   "musica": "original del reel (sin cambios)",
+   "evaluado": false
+  },
+  {
+   "fecha": "2026-11-05T23:30Z",
+   "plataforma": "nuelink",
+   "cuenta": "nuelink:325785 Niko calzados (col 109607)",
+   "id": "5264175",
+   "archivo_final": "videos/2026-11-05/niko_sandalias_negras.mp4",
+   "origen": "ig_marketing",
+   "fileId": "1IKMunQjmSO9PohDggiYZ5ozGBjFIq4uL",
+   "origen_archivo": "VID-20261104-WA0018.mp4",
+   "local_origen": "desconocido",
+   "tipo": "producto/moda",
+   "gancho": "LAS SANDALIAS QUE TODAS PIDEN",
+   "musica": "original del reel (sin cambios)",
+   "evaluado": false
+  },
+  {
+   "fecha": "2026-11-05T23:30Z",
+   "plataforma": "nuelink",
+   "cuenta": "nuelink:325823 Niko calzados SJ-SL-MZA (col 109608)",
+   "id": "5264176",
+   "archivo_final": "videos/2026-11-05/sjslmza_look_verano.mp4",
+   "origen": "ig_marketing",
+   "fileId": "1c2wHjxcXP23P9L0a1b-MFeIrc3MxhUio",
+   "origen_archivo": "VID-20261009-WA0018.mp4",
+   "local_origen": "desconocido",
+   "tipo": "moda/look",
+   "gancho": "LOOK DE VERANO COMPLETO",
+   "musica": "original del reel (sin cambios)",
+   "evaluado": false
+  },
+  {
+   "fecha": "2026-11-05T23:30Z",
+   "plataforma": "nuelink",
+   "cuenta": "nuelink:325831 Niko calzados Martin (col 109616)",
+   "id": "5264177",
+   "archivo_final": "videos/2026-11-05/martin_sandalias_lunares.mp4",
+   "origen": "ig_marketing",
+   "fileId": "1ZihzuhkGmfBot_cZ1_yBTqItyGoM96EF",
+   "origen_archivo": "VID-20261104-WA0031.mp4",
+   "local_origen": "desconocido",
+   "tipo": "producto/moda",
+   "gancho": "OUTFIT + SANDALIAS UN COMBO PERFECTO",
+   "musica": "original del reel (sin cambios)",
+   "evaluado": false
+  }
+ ],
+ "trends": {
+  "2026-11-05": "No se investigó (sin tiempo/ahorro de uso); se aplicó gancho de texto rojo en los primeros 3 s y cierre niko.ar."
+ },
+ "carpetas_locales": {
+  "Niko 1": "1JqOiITCP-pgDfyrXAB7lAWA0G1ykQeAI",
+  "Niko 2 Rocky": "1BVmY9iRxhRUKhxMbGn0QVkeFMmgz6xxM",
+  "Niko 3": "1P4JIVlU36ONmO_ps7qwc__dfVVpuV0vL",
+  "Niko 4": "10opWK1QEikv2QkulceEtlczZNSIvG7Ur",
+  "Niko 7": "1Y94oo6hyDoeXgLhrbXs6mmol0L68tm2P"
+ },
+ "incentivo_desde": "2026-11-02",
+ "conteo_incentivo": {
+  "2026-11-02": {
+   "Niko 1": {
+    "validos": 0
+   },
+   "Niko 2 Rocky": {
+    "validos": 0
+   },
+   "Niko 3": {
+    "validos": 3,
+    "nota": "3 subidos 3/11, sin verificar duración"
+   },
+   "Niko 4": {
+    "validos": 0
+   },
+   "Niko 7": {
+    "validos": 9,
+    "nota": "7 el 2/11, 1 el 3/11, 1 el 4/11; sin verificar duración/calidad (varios >50MB)"
+   },
+   "corte": "2026-11-04"
+  }
+ },
+ "ig_marketing": {
+  "usados": [
+   "VID-20261104-WA0020",
+   "VID-20261021-WA0025",
+   "VID-20261104-WA0004",
+   "VID-20261021-WA0001",
+   "VID-20261104-WA0018",
+   "VID-20261009-WA0018",
+   "VID-20261104-WA0031"
+  ],
+  "descartados": {
+   "VID-20261104-WA0092": "Halloween 'próximamente' vencido",
+   "VID-20261104-WA0094": "Cyber Monday vencido",
+   "VID-20261104-WA0096": "sorteo ya hecho",
+   "VID-20261010-WA0000": "Rocky horario/fecha vencida",
+   "VID-20261010-WA0008": "reserva (9s, Via Lola), no usado"
+  },
+  "nota": "Revisados ~12 de ~48. Sin cargar aún: el resto de la raíz. Drive: descargas >10MB sólo por curl y el proxy bloquea drive.usercontent.google.com; sin whisper (HF bloqueado). Se revisó el contenido por contact sheet."
+ }
 }
