@@ -606,6 +606,7 @@
   "06/11/2026 (Martín): Para el incentivo contá también las subcarpetas dentro de la carpeta de cada local (ej. 'Niko 2 Rocky' tiene la subcarpeta 'Niko Rocky' id 1UUBeX_YQSOngARNv6cW62WpaTW2FzPAx). Mismo nombre y tamaño subido dos veces = cuenta uno.",
   "06/11/2026 (Martín): REGISTRO. Al empezar, hacé git fetch origin y uní en tu state.json lo de cualquier rama claude/* más nueva que main. Al terminar, pusheá videos y state.json a main (git push origin HEAD:main con fetch+rebase); si no podés, avisá en el cierre en qué rama quedó.",
   "06/11/2026 (Martín): El Cyber de niko.ar se extendió hasta el domingo 08/11/2026; desde el 09/11 está vencido.",
-  "06/11/2026: Los cortes con origen 'mica_5-11' ya se editaron a mano; no repitas esos tramos (ver segmentos_usados)."
+  "06/11/2026: Los cortes con origen 'mica_5-11' ya se editaron a mano; no repitas esos tramos (ver segmentos_usados).",
+  "06/11/2026 (Martín): La carpeta C:\\IA de la notebook de Martín ahora se sincroniza con Google Drive (cuenta martinmiguelrecio@gmail.com): carpeta 'IA' id 1WVSXPgyM3d_FfUAj59kBmBZ1f--0mwXR (subcarpetas Niko, Via Lola, Veo360, Balances locales). Ahí están las sesiones de fotos de Via Lola (C:\\IA\\Via Lola, ~630 JPG) y los banners/fotos de Niko: usalas como fuente de fotos. NO uses ni publiques nada de 'Balances locales' ni de 'Veo360'."
  ]
 }
