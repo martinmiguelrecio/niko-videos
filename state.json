@@ -59,7 +59,13 @@
    "gancho": "¿2x70 o 3x50? Mirá lo que entra al Cyber",
    "musica": "sin música",
    "origen": "20261026_220356.mp4",
-   "evaluado": false
+   "evaluado": true,
+   "evaluacion": {
+    "fecha": "2026-11-06",
+    "vistas": 0,
+    "likes": 0,
+    "resultado": "NORMAL"
+   }
   },
   {
    "fecha": "2026-11-01T20:30",
@@ -69,7 +75,13 @@
    "gancho": "Recién llegadas y ya están en 2x70",
    "musica": "sin música",
    "origen": "20261026_220107.mp4",
-   "evaluado": false
+   "evaluado": true,
+   "evaluacion": {
+    "fecha": "2026-11-06",
+    "vistas": 1257,
+    "likes": 23,
+    "resultado": "NORMAL"
+   }
   },
   {
    "fecha": "2026-11-01T20:30",
@@ -79,7 +91,13 @@
    "gancho": "Hacé la cuenta (Cyber Week niko.ar)",
    "musica": "auto TikTok",
    "origen": "carrusel niko1 Drive",
-   "evaluado": false
+   "evaluado": true,
+   "evaluacion": {
+    "fecha": "2026-11-06",
+    "vistas": 376,
+    "likes": 3,
+    "resultado": "NORMAL"
+   }
   },
   {
    "fecha": "2026-11-05T20:30-03:00",
@@ -185,10 +203,119 @@
    "gancho": "OUTFIT + SANDALIAS UN COMBO PERFECTO",
    "musica": "original del reel (sin cambios)",
    "evaluado": false
+  },
+  {
+   "fecha": "2026-11-07T20:30-03:00",
+   "plataforma": "metricool",
+   "cuenta": "7799818",
+   "id": "418435283",
+   "archivo_final": "videos/2026-11-07/nikoar_totalblack.mp4",
+   "origen": "ig_marketing",
+   "fileId": "1t9Rd1fYarfyNYHgTw2JR0vT4AeTkJ9mm",
+   "origen_archivo": "VID-20261023-WA0031.mp4",
+   "local_origen": "desconocido",
+   "tipo": "moda/look",
+   "gancho": "TOTAL BLACK + SANDALIAS",
+   "musica": "original del reel (sin cambios)",
+   "evaluado": false,
+   "uuid": "-1891042284093291886"
+  },
+  {
+   "fecha": "2026-11-07T20:30-03:00",
+   "plataforma": "metricool",
+   "cuenta": "7788943",
+   "id": "418435294",
+   "archivo_final": "videos/2026-11-07/niko6_look_negro.mp4",
+   "origen": "ig_marketing",
+   "fileId": "1-u-xrLLfSLvrf8OKZpN0HfdOyh_jvU_F",
+   "origen_archivo": "VID-20261023-WA0039.mp4",
+   "local_origen": "desconocido",
+   "tipo": "moda/look",
+   "gancho": "¿LO USARÍAS ASÍ?",
+   "musica": "original del reel (sin cambios)",
+   "evaluado": false,
+   "uuid": "-6628295755768641128"
+  },
+  {
+   "fecha": "2026-11-07T20:30-03:00",
+   "plataforma": "metricool",
+   "cuenta": "7798880",
+   "id": "418435306",
+   "archivo_final": "videos/2026-11-07/niko5_doradas_online.mp4",
+   "origen": "ig_marketing",
+   "fileId": "1p5f2JDNmuc8Ss2o-QSYpq8a5OAYFZT4W",
+   "origen_archivo": "VID-20261026-WA0036.mp4",
+   "local_origen": "desconocido",
+   "tipo": "producto/online",
+   "gancho": "DORADAS - ENVÍOS A TODO EL PAÍS",
+   "musica": "original del reel (sin cambios)",
+   "evaluado": false,
+   "uuid": "-1154828323066720481"
+  },
+  {
+   "fecha": "2026-11-07T20:30-03:00",
+   "plataforma": "nuelink",
+   "cuenta": "325777 (col 109587)",
+   "id": "5271407",
+   "archivo_final": "videos/2026-11-07/corp_rojo_pasion.mp4",
+   "origen": "ig_marketing",
+   "fileId": "1PkoWsWCep42TPkMVD1p3j53G4ALc3gy7",
+   "origen_archivo": "VID-20261030-WA0021.mp4",
+   "local_origen": "desconocido",
+   "tipo": "moda/look",
+   "gancho": "ROJO - NO PASA DESAPERCIBIDO",
+   "musica": "original del reel (sin cambios)",
+   "evaluado": false
+  },
+  {
+   "fecha": "2026-11-07T20:30-03:00",
+   "plataforma": "nuelink",
+   "cuenta": "325785 (col 109607)",
+   "id": "5271408",
+   "archivo_final": "videos/2026-11-07/niko_neutros.mp4",
+   "origen": "ig_marketing",
+   "fileId": "1w92hWodooHpGoOixw6sFKI4cTAkP9GLy",
+   "origen_archivo": "VID-20261030-WA0069.mp4",
+   "local_origen": "desconocido",
+   "tipo": "moda/look",
+   "gancho": "NEUTROS QUE NUNCA FALLAN",
+   "musica": "original del reel (sin cambios)",
+   "evaluado": false
+  },
+  {
+   "fecha": "2026-11-07T20:30-03:00",
+   "plataforma": "nuelink",
+   "cuenta": "325823 (col 109608)",
+   "id": "5271409",
+   "archivo_final": "videos/2026-11-07/sjslmza_azul_fiesta.mp4",
+   "origen": "ig_marketing",
+   "fileId": "1hClTKsWQOzZ_eUY8IRZIHEJi-w5nAYVD",
+   "origen_archivo": "VID-20261030-WA0108.mp4",
+   "local_origen": "desconocido",
+   "tipo": "moda/look",
+   "gancho": "AZUL + NEGRO COMBO DE FIESTA",
+   "musica": "original del reel (sin cambios)",
+   "evaluado": false
+  },
+  {
+   "fecha": "2026-11-07T20:30-03:00",
+   "plataforma": "nuelink",
+   "cuenta": "325831 (col 109616)",
+   "id": "5271410",
+   "archivo_final": "videos/2026-11-07/martin_rayas.mp4",
+   "origen": "ig_marketing",
+   "fileId": "1D7jCj6IeMMMAbj2qVPwhc-nvZOl7zkr9",
+   "origen_archivo": "VID-20261031-WA0009.mp4",
+   "local_origen": "desconocido",
+   "tipo": "moda/look",
+   "gancho": "RAYAS + SANDALIAS",
+   "musica": "original del reel (sin cambios)",
+   "evaluado": false
   }
  ],
  "trends": {
-  "2026-11-05": "No se investigó (sin tiempo/ahorro de uso); se aplicó gancho de texto rojo en los primeros 3 s y cierre niko.ar."
+  "2026-11-05": "No se investigó (sin tiempo/ahorro de uso); se aplicó gancho de texto rojo en los primeros 3 s y cierre niko.ar.",
+  "2026-11-06": "No se investigó (ahorro de uso). Se aplicó gancho de texto en primeros 3 s, reencuadre y variantes de texto/color."
  },
  "carpetas_locales": {
   "Niko 1": "1JqOiITCP-pgDfyrXAB7lAWA0G1ykQeAI",
@@ -204,20 +331,22 @@
     "validos": 0
    },
    "Niko 2 Rocky": {
-    "validos": 0
+    "validos": 0,
+    "nota": "sólo una subcarpeta 'Niko Rocky' creada 4/11, sin contar su contenido"
    },
    "Niko 3": {
-    "validos": 3,
-    "nota": "3 subidos 3/11, sin verificar duración"
+    "validos": 5,
+    "invalidos": "1 duplicado (20261104_205153 subido 2 veces)",
+    "nota": "sin verificar duración"
    },
    "Niko 4": {
     "validos": 0
    },
    "Niko 7": {
     "validos": 9,
-    "nota": "7 el 2/11, 1 el 3/11, 1 el 4/11; sin verificar duración/calidad (varios >50MB)"
+    "nota": "7 el 2/11, 1 el 3/11, 1 el 4/11; sin verificar duración"
    },
-   "corte": "2026-11-04"
+   "corte": "2026-11-06 (nada subido el 5 y 6/11)"
   }
  },
  "ig_marketing": {
@@ -228,15 +357,23 @@
    "VID-20261021-WA0001",
    "VID-20261104-WA0018",
    "VID-20261009-WA0018",
-   "VID-20261104-WA0031"
+   "VID-20261104-WA0031",
+   "VID-20261023-WA0031",
+   "VID-20261023-WA0039",
+   "VID-20261026-WA0036",
+   "VID-20261030-WA0021",
+   "VID-20261030-WA0069",
+   "VID-20261030-WA0108",
+   "VID-20261031-WA0009"
   ],
   "descartados": {
    "VID-20261104-WA0092": "Halloween 'próximamente' vencido",
    "VID-20261104-WA0094": "Cyber Monday vencido",
    "VID-20261104-WA0096": "sorteo ya hecho",
    "VID-20261010-WA0000": "Rocky horario/fecha vencida",
-   "VID-20261010-WA0008": "reserva (9s, Via Lola), no usado"
+   "VID-20261010-WA0008": "reserva (9s, Via Lola), no usado",
+   "VID-20261030-WA0051": "Cyber Monday vencido"
   },
-  "nota": "Revisados ~12 de ~48. Sin cargar aún: el resto de la raíz. Drive: descargas >10MB sólo por curl y el proxy bloquea drive.usercontent.google.com; sin whisper (HF bloqueado). Se revisó el contenido por contact sheet."
+  "nota": "Revisados ~12 de ~48. Sin cargar aún: el resto de la raíz. Drive: descargas >10MB sólo por curl y el proxy bloquea drive.usercontent.google.com; sin whisper (HF bloqueado). Se revisó el contenido por contact sheet. 06/11: bajados vía conector Drive download_file_content (<10MB, base64 en archivo). URLs raw usan la rama claude/sleepy-babbage-wcygpx (main no recibe push). Candidatos sin usar <10MB: VID-20261026-WA0039, VID-20261030-WA0010 (+ ~35 sin revisar)."
  }
 }
