@@ -472,6 +472,61 @@
    "gancho": "RAYAS + SANDALIAS",
    "musica": "original del reel (sin cambios)",
    "evaluado": false
+  },
+  {
+   "fecha": "2026-11-07T13:15-03:00",
+   "cuenta": "7799818",
+   "plataforma": "metricool",
+   "post_id": "418877906",
+   "origen": "mica_5-11",
+   "archivo": "videos/2026-11-07/mica/niko_china.mp4",
+   "tipo": "historia/opinión (Martín)",
+   "gancho": "FUI A CHINA ESPERANDO VER ROBOTS",
+   "evaluado": false
+  },
+  {
+   "fecha": "2026-11-07T13:15-03:00",
+   "cuenta": "7788943",
+   "plataforma": "metricool",
+   "post_id": "418877933",
+   "origen": "mica_5-11",
+   "archivo": "videos/2026-11-07/mica/niko_vialola.mp4",
+   "tipo": "historia/opinión (Martín)",
+   "gancho": "¿POR QUÉ NO TRAEMOS LOS ZAPATOS DE CHINA?",
+   "evaluado": false
+  },
+  {
+   "fecha": "2026-11-07T13:15-03:00",
+   "cuenta": "nuelink:325785 Niko calzados (col 109607)",
+   "plataforma": "nuelink",
+   "post_id": "5273554",
+   "origen": "mica_5-11",
+   "archivo": "videos/2026-11-07/mica/niko_historia.mp4",
+   "tipo": "historia/opinión (Martín)",
+   "gancho": "CRECÍ ADENTRO DE UNA FÁBRICA DE ZAPATOS",
+   "evaluado": false
+  },
+  {
+   "fecha": "2026-11-07T13:15-03:00",
+   "cuenta": "nuelink:325831 Niko calzados Martin (col 109616)",
+   "plataforma": "nuelink",
+   "post_id": "5273555",
+   "origen": "mica_5-11",
+   "archivo": "videos/2026-11-07/mica/niko_curva.mp4",
+   "tipo": "historia/opinión (Martín)",
+   "gancho": "LA TRAMPA DE IMPORTAR: 12 PARES SÍ O SÍ",
+   "evaluado": false
+  },
+  {
+   "fecha": "2026-11-07T13:15-03:00",
+   "cuenta": "nuelink:325823 Niko calzados SJ-SL-MZA (col 109608)",
+   "plataforma": "nuelink",
+   "post_id": "5273556",
+   "origen": "mica_5-11",
+   "archivo": "videos/2026-11-07/mica/niko_viajante.mp4",
+   "tipo": "humor",
+   "gancho": "¿PLAZO? EL PLAZO NO EXISTE MÁS",
+   "evaluado": false
   }
  ],
  "trends": {
