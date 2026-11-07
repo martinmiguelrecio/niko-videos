@@ -684,43 +684,43 @@
    "evaluado": false
   },
   {
-   "fecha": "2026-11-08T13:15-03:00",
+   "fecha": "2026-11-07T01:20-03:00",
    "plataforma": "metricool",
    "cuenta": "7799818",
-   "id": "419649016",
+   "id": "419652152",
    "archivo_final": "videos/2026-11-08/mati/mati_ia.mp4",
    "origen": "mica_06-11 (charla Martín + Mati, dueño de Stone y Calcio)",
    "tipo": "charla/reflexión",
    "gancho": "AUTOMATIZÓ TODO CON IA / Y AHORA LABURA MÁS",
    "evaluado": false,
-   "nota": "Test de viralidad pedido por Martín (07/11): 6 videos de la charla con Mati, uno por cuenta, misma hora."
+   "nota": "Test de viralidad pedido por Martín (07/11): 6 videos de la charla con Mati, uno por cuenta, misma hora. Adelantado a pedido de Martín: publicado 07/11 01:20."
   },
   {
-   "fecha": "2026-11-08T13:15-03:00",
+   "fecha": "2026-11-07T01:20-03:00",
    "plataforma": "metricool",
    "cuenta": "7788943",
-   "id": "419649026",
+   "id": "419652156",
    "archivo_final": "videos/2026-11-08/mati/mati_viejo.mp4",
    "origen": "mica_06-11 (charla Martín + Mati, dueño de Stone y Calcio)",
    "tipo": "charla/reflexión",
    "gancho": "LABURAR CON TU VIEJO / LO QUE APRENDÍ ESTE AÑO",
    "evaluado": false,
-   "nota": "Test de viralidad pedido por Martín (07/11): 6 videos de la charla con Mati, uno por cuenta, misma hora."
+   "nota": "Test de viralidad pedido por Martín (07/11): 6 videos de la charla con Mati, uno por cuenta, misma hora. Adelantado a pedido de Martín: publicado 07/11 01:20."
   },
   {
-   "fecha": "2026-11-08T13:15-03:00",
+   "fecha": "2026-11-07T01:20-03:00",
    "plataforma": "metricool",
    "cuenta": "7798880",
-   "id": "419649034",
+   "id": "419652159",
    "archivo_final": "videos/2026-11-08/mati/mati_disfrutar.mp4",
    "origen": "mica_06-11 (charla Martín + Mati, dueño de Stone y Calcio)",
    "tipo": "charla/reflexión",
    "gancho": "LABURÁS 24/7 / ¿Y CUÁNDO DISFRUTÁS?",
    "evaluado": false,
-   "nota": "Test de viralidad pedido por Martín (07/11): 6 videos de la charla con Mati, uno por cuenta, misma hora."
+   "nota": "Test de viralidad pedido por Martín (07/11): 6 videos de la charla con Mati, uno por cuenta, misma hora. Adelantado a pedido de Martín: publicado 07/11 01:20."
   },
   {
-   "fecha": "2026-11-08T13:15-03:00",
+   "fecha": "2026-11-07T01:20-03:00",
    "plataforma": "nuelink",
    "cuenta": "325777 (col 109587)",
    "id": "5277194",
@@ -729,10 +729,10 @@
    "tipo": "charla/reflexión",
    "gancho": "¿QUÉ PRECIO TIENE TU SALUD?",
    "evaluado": false,
-   "nota": "Test de viralidad pedido por Martín (07/11): 6 videos de la charla con Mati, uno por cuenta, misma hora."
+   "nota": "Test de viralidad pedido por Martín (07/11): 6 videos de la charla con Mati, uno por cuenta, misma hora. Adelantado a pedido de Martín: publicado 07/11 01:20."
   },
   {
-   "fecha": "2026-11-08T13:15-03:00",
+   "fecha": "2026-11-07T01:20-03:00",
    "plataforma": "nuelink",
    "cuenta": "325785 (col 109607)",
    "id": "5277195",
@@ -741,10 +741,10 @@
    "tipo": "charla/reflexión",
    "gancho": "2 AÑOS DESPUÉS DE CHINA / ¿QUÉ NOS CAMBIÓ?",
    "evaluado": false,
-   "nota": "Test de viralidad pedido por Martín (07/11): 6 videos de la charla con Mati, uno por cuenta, misma hora."
+   "nota": "Test de viralidad pedido por Martín (07/11): 6 videos de la charla con Mati, uno por cuenta, misma hora. Adelantado a pedido de Martín: publicado 07/11 01:20."
   },
   {
-   "fecha": "2026-11-08T13:15-03:00",
+   "fecha": "2026-11-07T01:20-03:00",
    "plataforma": "nuelink",
    "cuenta": "325831 (col 109616)",
    "id": "5277196",
@@ -753,7 +753,19 @@
    "tipo": "charla/reflexión",
    "gancho": "SE VIENE ALGO DE CHINA / ¿QUÉ ESTAMOS TRAYENDO?",
    "evaluado": false,
-   "nota": "Test de viralidad pedido por Martín (07/11): 6 videos de la charla con Mati, uno por cuenta, misma hora."
+   "nota": "Test de viralidad pedido por Martín (07/11): 6 videos de la charla con Mati, uno por cuenta, misma hora. Adelantado a pedido de Martín: publicado 07/11 01:20."
+  },
+  {
+   "fecha": "2026-11-07T01:20-03:00",
+   "plataforma": "nuelink",
+   "cuenta": "325823 (col 109608)",
+   "id": "5277205",
+   "archivo_final": "videos/2026-11-08/mati/mati_ia.mp4",
+   "origen": "mica_06-11 (charla Martín + Mati, dueño de Stone y Calcio)",
+   "tipo": "charla/reflexión",
+   "gancho": "AUTOMATIZÓ TODO CON IA / Y AHORA LABURA MÁS",
+   "evaluado": false,
+   "nota": "Repetición del de IA (también en Niko ar) para comparar cuentas. Publicado 07/11 01:20 a pedido de Martín."
   }
  ],
  "trends": {
