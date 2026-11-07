@@ -532,6 +532,19 @@
    "gancho": "¿PLAZO? EL PLAZO NO EXISTE MÁS",
    "evaluado": false,
    "nota": "v2: audio completo (la v1 cortaba el audio ~3 s antes; posts v1 de Nuelink quedaron en borrador)"
+  },
+  {
+   "fecha": "2026-11-06T21:50-03:00",
+   "cuenta": "7799818",
+   "plataforma": "metricool",
+   "post_id": "419563844",
+   "tiktok_id": "7705225590399487253",
+   "origen": "ia_ausar",
+   "archivo": "videos/2026-11-06/ia/niko_baile_cyber_logo.mp4",
+   "tipo": "humor IA (Ausar motion control + logo Niko)",
+   "gancho": "Yo cuando me dicen que extendieron el Cyber hasta el domingo",
+   "evaluado": false,
+   "nota": "Test de video IA pedido por Martín: comparar vistas contra los videos reales de Niko ar a los 3 días"
   }
  ],
  "trends": {
