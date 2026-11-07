@@ -545,12 +545,111 @@
    "gancho": "Yo cuando me dicen que extendieron el Cyber hasta el domingo",
    "evaluado": false,
    "nota": "Test de video IA pedido por Martín: comparar vistas contra los videos reales de Niko ar a los 3 días"
+  },
+  {
+   "fecha": "2026-11-08T20:30-03:00",
+   "plataforma": "metricool",
+   "cuenta": "7799818",
+   "id": "419596946",
+   "archivo_final": "videos/2026-11-08/nikoar_sandalias_verano.mp4",
+   "origen": "ig_marketing",
+   "origen_archivo": "VID-20261012-WA0009.mp4",
+   "local_origen": "desconocido",
+   "tipo": "moda/look",
+   "gancho": "SANDALIAS DE VERANO",
+   "musica": "original del reel (sin cambios)",
+   "evaluado": false
+  },
+  {
+   "fecha": "2026-11-08T20:30-03:00",
+   "plataforma": "metricool",
+   "cuenta": "7788943",
+   "id": "419596954",
+   "archivo_final": "videos/2026-11-08/niko6_negras_todo.mp4",
+   "origen": "ig_marketing",
+   "origen_archivo": "VID-20261019-WA0027.mp4",
+   "local_origen": "desconocido",
+   "tipo": "moda/look",
+   "gancho": "LA NEGRA QUE COMBINA CON TODO",
+   "musica": "original del reel (sin cambios)",
+   "evaluado": false
+  },
+  {
+   "fecha": "2026-11-08T20:30-03:00",
+   "plataforma": "metricool",
+   "cuenta": "7798880",
+   "id": "419596971",
+   "archivo_final": "videos/2026-11-08/niko5_hebillas_online.mp4",
+   "origen": "ig_marketing",
+   "origen_archivo": "VID-20261013-WA0035.mp4",
+   "local_origen": "desconocido",
+   "tipo": "producto/online",
+   "gancho": "COMPRALAS ONLINE - ENVIO A TODO EL PAIS",
+   "musica": "original del reel (sin cambios)",
+   "evaluado": false
+  },
+  {
+   "fecha": "2026-11-08T20:30-03:00",
+   "plataforma": "nuelink",
+   "cuenta": "325777 (col 109587)",
+   "id": "5276932",
+   "archivo_final": "videos/2026-11-08/corp_flojera.mp4",
+   "origen": "ig_marketing",
+   "origen_archivo": "VID-20261014-WA0063.mp4",
+   "local_origen": "desconocido",
+   "tipo": "humor",
+   "gancho": "ESPERA EL FINAL - SOLO EN NIKO",
+   "musica": "original del reel (sin cambios)",
+   "evaluado": false
+  },
+  {
+   "fecha": "2026-11-08T20:30-03:00",
+   "plataforma": "nuelink",
+   "cuenta": "325785 (col 109607)",
+   "id": "5276933",
+   "archivo_final": "videos/2026-11-08/niko_plataforma_jardin.mp4",
+   "origen": "ig_marketing",
+   "origen_archivo": "VID-20261014-WA0015.mp4",
+   "local_origen": "desconocido",
+   "tipo": "moda/look",
+   "gancho": "PLATAFORMA PARA TODO EL DIA",
+   "musica": "original del reel (sin cambios)",
+   "evaluado": false
+  },
+  {
+   "fecha": "2026-11-08T20:30-03:00",
+   "plataforma": "nuelink",
+   "cuenta": "325823 (col 109608)",
+   "id": "5276934",
+   "archivo_final": "videos/2026-11-08/sjslmza_fiesta.mp4",
+   "origen": "ig_marketing",
+   "origen_archivo": "VID-20261030-WA0113.mp4",
+   "local_origen": "desconocido",
+   "tipo": "moda/look",
+   "gancho": "LISTA PARA LA FIESTA",
+   "musica": "original del reel (sin cambios)",
+   "evaluado": false
+  },
+  {
+   "fecha": "2026-11-08T20:30-03:00",
+   "plataforma": "nuelink",
+   "cuenta": "325831 (col 109616)",
+   "id": "5276935",
+   "archivo_final": "videos/2026-11-08/martin_hebillas.mp4",
+   "origen": "ig_marketing",
+   "origen_archivo": "VID-20261024-WA0023.mp4",
+   "local_origen": "desconocido",
+   "tipo": "moda/look",
+   "gancho": "HEBILLAS QUE MARCAN ONDA",
+   "musica": "original del reel (sin cambios)",
+   "evaluado": false
   }
  ],
  "trends": {
   "2026-11-05": "No se investigó (sin tiempo/ahorro de uso); se aplicó gancho de texto rojo en los primeros 3 s y cierre niko.ar.",
   "2026-11-05b": "WebSearch sin datos útiles de Argentina/calzado; se aplicó gancho de texto en 3 s, cierre niko.ar o ciudad.",
-  "2026-11-06": "No se investigó (ahorro de uso). Se aplicó gancho de texto en primeros 3 s, reencuadre y variantes de texto/color."
+  "2026-11-06": "No se investigó (ahorro de uso). Se aplicó gancho de texto en primeros 3 s, reencuadre y variantes de texto/color.",
+  "2026-11-06b": "WebSearch sin datos utiles de AR (resultados viejos). Se aplico gancho de texto 3 s, reencuadre, cierre niko.ar. Nota: 11-07 ya tenia posts programados; se completo domingo 11-08."
  },
  "carpetas_locales": {
   "Niko 1": "1JqOiITCP-pgDfyrXAB7lAWA0G1ykQeAI",
@@ -562,26 +661,25 @@
  "incentivo_desde": "2026-11-02",
  "conteo_incentivo": {
   "2026-11-02": {
+   "corte": "2026-11-06 22:50 ART",
    "Niko 1": {
     "validos": 0
    },
    "Niko 2 Rocky": {
-    "validos": 0,
-    "nota": "sólo una subcarpeta 'Niko Rocky' creada 4/11, sin contar su contenido"
+    "validos": 5,
+    "nota": "4 el 4/11 y 1 el 5/11 en subcarpeta Niko Rocky; sin verificar duracion"
    },
    "Niko 3": {
-    "validos": 5,
-    "invalidos": "1 duplicado (20261104_205153 subido 2 veces)",
-    "nota": "sin verificar duración"
+    "validos": 8,
+    "nota": "3 el 3/11, 2 el 4/11, 3 el 6/11; sin verificar duracion"
    },
    "Niko 4": {
     "validos": 0
    },
    "Niko 7": {
-    "validos": 9,
-    "nota": "7 el 2/11, 1 el 3/11, 1 el 4/11; sin verificar duración"
-   },
-   "corte": "2026-11-06 (nada subido el 5 y 6/11)"
+    "validos": 19,
+    "nota": "7 el 2/11, 1 el 3/11, 1 el 4/11, 10 el 6/11 (8 MOV + 2 Cyber); sin verificar duracion"
+   }
   }
  },
  "ig_marketing": {
@@ -602,7 +700,14 @@
    "VID-20261104-WA0004",
    "VID-20261104-WA0018",
    "VID-20261104-WA0020",
-   "VID-20261104-WA0031"
+   "VID-20261104-WA0031",
+   "VID-20261012-WA0009",
+   "VID-20261019-WA0027",
+   "VID-20261013-WA0035",
+   "VID-20261014-WA0063",
+   "VID-20261014-WA0015",
+   "VID-20261030-WA0113",
+   "VID-20261024-WA0023"
   ],
   "descartados": {
    "VID-20261104-WA0092": "Halloween 'próximamente' vencido",
@@ -610,9 +715,10 @@
    "VID-20261104-WA0096": "sorteo ya hecho",
    "VID-20261010-WA0000": "Rocky horario/fecha vencida",
    "VID-20261010-WA0008": "reserva (9s, Via Lola), no usado",
-   "VID-20261030-WA0051": "Cyber Monday vencido"
+   "VID-20261030-WA0051": "Cyber Monday vencido",
+   "VID-20261101-WA0005": "Cyber/promo vencida (war/desarmamos)"
   },
-  "nota": "Revisados ~12 de ~48. Sin cargar aún: el resto de la raíz. Drive: descargas >10MB sólo por curl y el proxy bloquea drive.usercontent.google.com; sin whisper (HF bloqueado). Se revisó el contenido por contact sheet. 06/11: bajados vía conector Drive download_file_content (<10MB, base64 en archivo). URLs raw usan la rama claude/sleepy-babbage-wcygpx (main no recibe push). Candidatos sin usar <10MB: VID-20261026-WA0039, VID-20261030-WA0010 (+ ~35 sin revisar)."
+  "nota": "Revisados ~12 de ~48. Sin cargar aún: el resto de la raíz. Drive: descargas >10MB sólo por curl y el proxy bloquea drive.usercontent.google.com; sin whisper (HF bloqueado). Se revisó el contenido por contact sheet. 06/11: bajados vía conector Drive download_file_content (<10MB, base64 en archivo). URLs raw usan la rama claude/sleepy-babbage-wcygpx (main no recibe push). Candidatos sin usar <10MB: VID-20261026-WA0039, VID-20261030-WA0010 (+ ~35 sin revisar). | 06/11 noche: 7 variantes para el 08/11 (recortadas end card Via Lola, reencuadre, gancho 3s, cierre). Descargas via conector (curl bloqueado). Restan sin usar ~20 (varios >10MB: 1025-WA0008, 1031-WA0035/0042, 1101-WA0004, 1104-WA0006/0039/0101/0103, 1011-WA0000/0001, 1012-WA0013, 1014-WA0064, 1020-WA0022, 1013-WA0040, 1014-WA0017, 1016-WA0000, 1017-WA0017/0018, 1019-WA0021, 1026-WA0009, 1030-WA0119, 1031-WA0024)."
  },
  "instrucciones_martin": [
   "06/11/2026 (Martín): Recorré TODAS las subcarpetas de 'NIKO - PARA EDITAR' de forma recursiva. Hay una carpeta 'Mica' (id 1blbmM6CwsRIk-sGArYM_467bx8fRHDcU) con subcarpetas por fecha (ej. '5-11'): es material de marketing de Martín, usalo con prioridad; no cuenta para el incentivo de ningún local.",
