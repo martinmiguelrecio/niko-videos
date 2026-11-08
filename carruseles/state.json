@@ -22,9 +22,33 @@
    "metricool_id": 418451687,
    "metricool_uuid": "-954030905655604624",
    "evaluado": false
+  },
+  {
+   "fecha_publicacion": "2026-11-08",
+   "hora": "20:45",
+   "marca": "vialola",
+   "formato": "Votación 1-2-3-4 'Necesitamos que nos ayudes' (gancho Ganga Home) + carrusel mixto foto/video (estilo Sarkany)",
+   "tendencia": "sandalias verano: negra con hebilla, bordada con piedras, blanca básica, cuña cruzada",
+   "gancho": "NECESITAMOS QUE NOS AYUDES ¿Cuál es LA sandalia de este verano?",
+   "fotos": [
+    "Luz Pintor: IMG idx 61 (portada), 66, 13, 111, 55, 21, 64, 6",
+    "video Luz 1QH-mHIWmFKB1pm4P2e-7U7EgTiNKGiQg (slide 4 en IG)"
+   ],
+   "promo": "envío gratis desde $100.000",
+   "metricool_id_ig": 420363990,
+   "metricool_uuid_ig": "1490909047596859460",
+   "metricool_id_fb_tt": 420364030,
+   "metricool_uuid_fb_tt": "-6278253107885748589",
+   "evaluado": false,
+   "hecho_por": "chat con Martín 07/11"
   }
  ],
  "instrucciones_martin": [
   "06/11/2026 (Martín): La carpeta C:\\IA de la notebook de Martín ahora se sincroniza con Google Drive (cuenta martinmiguelrecio@gmail.com): carpeta 'IA' id 1WVSXPgyM3d_FfUAj59kBmBZ1f--0mwXR (subcarpetas Niko, Via Lola, Veo360, Balances locales). Ahí están las sesiones de fotos de Via Lola (C:\\IA\\Via Lola, ~630 JPG) y los banners/fotos de Niko: usalas como fuente de fotos. NO uses ni publiques nada de 'Balances locales' ni de 'Veo360'."
- ]
+ ],
+ "referentes": {
+  "fecha": "2026-11-07",
+  "rickysarkany": "Carruseles editoriales de UN producto (nombre del modelo + 'la elegida para este verano'), fotos de modelo + detalle de producto + clips de video mezclados en el mismo carrusel, poco texto sobre la imagen, promo en el copy. Comentarios piden 'precio'.",
+  "ganga.home": "Ganchos con texto grande en cajas de color sobre la imagen: 'NECESITAMOS QUE NOS DIGAN SÍ O NO', 'Depende de ustedes, los leo', 'Comentá si querés que lo subamos a la web', 'DESLIZÁ, te cuento todo', 'POV:', 'Al fin llegó el día de contarles que…', 'Y bueno… salió ofertita'. Piden opinión/voto → miles de comentarios. Tono cercano, mayúsculas y emojis."
+ }
 }
