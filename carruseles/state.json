@@ -1,7 +1,8 @@
 {
   "tendencias_semana": {
-    "fecha": "2026-11-06",
-    "nota": "Estudio parcial (1 búsqueda; niko.ar/vialola.com.ar y vidIQ no accesibles desde la sesión). Tendencia: sandalias plataforma/cuña y años 2000, sandalias con detalles/brillos, verano 2026-27, fiestas de fin de año. Formatos: votación A/B en comentarios."
+    "fecha": "2026-11-08",
+    "nota": "Outliers AR/LatAm (vidIQ, últimos 15 días): reels de producto con close-up + voz ('El zapatito Roxy que TODAS amamos' 10x; botines plataforma 9x; Melissa x Dr Scholl 19x; Crocs plataforma leopardo 30x); '1 prenda, 3 combinaciones' (jean marrón 65x); POV en TikTok AR. Sandalias brillos/plataforma siguen. Noticias de ola de calor/verano anticipado. Cyber terminó 8/11 → volver a contenido de valor + beneficios permanentes. Nuestros carruseles 07-08/11 todavía sin 3 días para evaluar.",
+    "que_hacer": "Más 'X looks con…' y 'la que TODAS…' (sin decir 'más vendido'), POV, close-ups de producto en el video; menos galería."
   },
   "posts": [
     {
@@ -63,6 +64,53 @@
       "metricool_uuid_fb_tt": "67489602181089018",
       "evaluado": false,
       "hecho_por": "chat con Martín 07/11 noche (pidió subir Via Lola desde hoy)"
+    },
+    {
+      "fecha_publicacion": "2026-11-09",
+      "hora": "20:45",
+      "marca": "vialola",
+      "formato": "3 looks / Armá tu look (sandalia negra) + voto 1-2-3 + guardado; carrusel mixto foto/video",
+      "tendencia": "outlier '1 prenda, 3 combinaciones' (pame.manzano 65x); calor/ola de calor; post-Cyber",
+      "gancho": "3 LOOKS DE VERANO con sandalia negra / ¿Cuál te robás? Comentá 1, 2 o 3 / GUARDALO",
+      "fotos": [
+        "Luz Pintor idx82 1EWwj9wte6xoit2Y5smtO_wPnDK0XCtKJ (portada)",
+        "idx62 1s9y2zNjUQkzUBY7t7wsn6Yif8XAjzuKo (solo FB/TT)",
+        "idx77 1QNf_yu8Ju7H8Qbre9PbnQUmeTBuCAB4v (solo FB/TT)",
+        "idx63 1HyBXjgv5r1JsZey8DnOQdcIlhVbktqkT",
+        "idx69 1wd7n8PqenCQEWhL0e8-0DIwM-xbdoRjB"
+      ],
+      "videos": [
+        "Luz v4 1hcdXX9BSoWNiOVknLCRL28FO3Nk3DIRA (0.3-7.3s, slide 2 IG)",
+        "Luz v13 1Oesxx-ne3-VZhw408Wl1l4YXV9l5TJNN (0-7s, slide 3 IG)"
+      ],
+      "promo": "envío gratis desde $100.000 (Cyber Lola terminó 8/11; Tiendanube sin promos activas)",
+      "metricool_id_ig": 421271282,
+      "metricool_uuid_ig": "-244545176425837387",
+      "metricool_id_fb_tt": 421271303,
+      "metricool_uuid_fb_tt": "4172006664500694272",
+      "evaluado": false,
+      "hecho_por": "tarea nocturna 08/11"
+    },
+    {
+      "fecha_publicacion": "2026-11-09",
+      "hora": "20:00",
+      "marca": "niko",
+      "formato": "POV + Top 5 (una sandalia por plan) + comentá del 1 al 5 + guardado",
+      "tendencia": "calor / ola de calor anticipada; POV muy usado en TikTok AR",
+      "gancho": "POV: llegó el calor y no tenés sandalias",
+      "fotos": [
+        "Lali 1P_dMqnRGhWUpc-BCVKWoQ56Z93AVQuB9 WA0073 (portada)",
+        "1Kk7gjbiSay64T-_DuoICCbB0nR48NV2m WA0035",
+        "1dOLJkwX94bMLj4F4xCQu1PWFq1ZXZRRg WA0043",
+        "1d5voU3E6zz9CiyJYaYggatAhrkGWyeOP WA0106",
+        "10MUcDn_Q5y-vMBOKBTQXRBCx_ZKQ_4hS WA0101",
+        "1zdbPqT0lyDK8UNJrRaJiN5dlxlUyMsdB WA0116"
+      ],
+      "promo": "envío gratis desde $100.000 + locales San Juan y San Luis",
+      "metricool_id": 421271332,
+      "metricool_uuid": "7077084320102370056",
+      "evaluado": false,
+      "hecho_por": "tarea nocturna 08/11"
     }
   ],
   "instrucciones_martin": [
@@ -70,8 +118,10 @@
     "07/11/2026 (Martín): desactivó la tarea vieja de carruseles. Via Lola arranca desde hoy (07/11) con carrusel diario. Sesión Candela Jofre todavía sin subir."
   ],
   "referentes": {
-    "fecha": "2026-11-07",
+    "fecha": "2026-11-08",
     "rickysarkany": "Carruseles editoriales de UN producto (nombre del modelo + 'la elegida para este verano'), fotos de modelo + detalle de producto + clips de video mezclados en el mismo carrusel, poco texto sobre la imagen, promo en el copy. Comentarios piden 'precio'.",
-    "ganga.home": "Ganchos con texto grande en cajas de color sobre la imagen: 'NECESITAMOS QUE NOS DIGAN SÍ O NO', 'Depende de ustedes, los leo', 'Comentá si querés que lo subamos a la web', 'DESLIZÁ, te cuento todo', 'POV:', 'Al fin llegó el día de contarles que…', 'Y bueno… salió ofertita'. Piden opinión/voto → miles de comentarios. Tono cercano, mayúsculas y emojis."
+    "ganga.home": "Ganchos con texto grande en cajas de color sobre la imagen: 'NECESITAMOS QUE NOS DIGAN SÍ O NO', 'Depende de ustedes, los leo', 'Comentá si querés que lo subamos a la web', 'DESLIZÁ, te cuento todo', 'POV:', 'Al fin llegó el día de contarles que…', 'Y bueno… salió ofertita'. Piden opinión/voto → miles de comentarios. Tono cercano, mayúsculas y emojis.",
+    "rickysarkany_ult": "04/11 lanzó cápsula SARKANY x ZAIRA (reel 26.6K plays con Ricky + influencer mostrando 2 colores, 'los zapatos definitivos para este verano'); Cyber con unboxings de influencers. Reel top reciente: close-up de zapato en exterior (108K).",
+    "ganga.home_ult": "08/11 cierre de GANGA SALE: muchos reels 'ÚLTIMAS HORAS', 'OFERTITA FLASH', cupón 'SETERMINA', texto blanco/rojo en cajas rojas. Sus récords siguen siendo 'COMENTÁ SI QUERÉS QUE LO SUBAMOS A LA WEB' (7.3M)."
   }
 }
