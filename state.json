@@ -766,13 +766,79 @@
    "gancho": "AUTOMATIZÓ TODO CON IA / Y AHORA LABURA MÁS",
    "evaluado": false,
    "nota": "Repetición del de IA (también en Niko ar) para comparar cuentas. Publicado 07/11 01:20 a pedido de Martín."
+  },
+  {
+   "fecha": "2026-11-09T20:30-03:00",
+   "plataforma": "metricool",
+   "cuenta": "7799818",
+   "id": "421275079",
+   "archivo_final": "videos/2026-11-09/nikoar_negras_verano.mp4",
+   "origen": "ig_marketing VID-20261019-WA0021 (1019 WA0021)",
+   "local_origen": "desconocido",
+   "tipo": "producto/look",
+   "gancho": "NEGRAS PARA TODO",
+   "musica": "original del reel",
+   "evaluado": false
+  },
+  {
+   "fecha": "2026-11-09T20:30-03:00",
+   "plataforma": "metricool",
+   "cuenta": "7788943",
+   "id": "421275101",
+   "archivo_final": "videos/2026-11-09/niko6_blanca_jardin.mp4",
+   "origen": "ig_marketing VID-20261017-WA0017",
+   "local_origen": "desconocido",
+   "tipo": "producto/look",
+   "gancho": "BLANCA Y FRESCA",
+   "musica": "original del reel",
+   "evaluado": false
+  },
+  {
+   "fecha": "2026-11-09T20:30-03:00",
+   "plataforma": "metricool",
+   "cuenta": "7798880",
+   "id": "421275118",
+   "archivo_final": "videos/2026-11-09/niko5_cinco_sandalias.mp4",
+   "origen": "fotos carrusel Niko 2026-11-09 (repo)",
+   "local_origen": "desconocido",
+   "tipo": "producto/slideshow",
+   "gancho": "5 SANDALIAS PARA EL CALOR",
+   "musica": "vidiq latin urban pop original",
+   "evaluado": false
+  },
+  {
+   "fecha": "2026-11-09T20:30-03:00",
+   "plataforma": "nuelink",
+   "cuenta": "325777 (col 109587)",
+   "id": "5287668",
+   "archivo_final": "videos/2026-11-09/corp_noche.mp4",
+   "origen": "fotos carrusel Niko 2026-11-09 (repo)",
+   "local_origen": "desconocido",
+   "tipo": "producto/slideshow",
+   "gancho": "PARA SALIR DE NOCHE",
+   "musica": "vidiq latin urban pop original",
+   "evaluado": false
+  },
+  {
+   "fecha": "2026-11-09T20:30-03:00",
+   "plataforma": "nuelink",
+   "cuenta": "325785 (col 109607)",
+   "id": "5287669",
+   "archivo_final": "videos/2026-11-09/niko_plataformas_dia.mp4",
+   "origen": "fotos carrusel Niko 2026-11-09 (repo)",
+   "local_origen": "desconocido",
+   "tipo": "producto/slideshow",
+   "gancho": "PLATAFORMAS PARA EL DIA",
+   "musica": "vidiq latin urban pop original",
+   "evaluado": false
   }
  ],
  "trends": {
   "2026-11-05": "No se investigó (sin tiempo/ahorro de uso); se aplicó gancho de texto rojo en los primeros 3 s y cierre niko.ar.",
   "2026-11-05b": "WebSearch sin datos útiles de Argentina/calzado; se aplicó gancho de texto en 3 s, cierre niko.ar o ciudad.",
   "2026-11-06": "No se investigó (ahorro de uso). Se aplicó gancho de texto en primeros 3 s, reencuadre y variantes de texto/color.",
-  "2026-11-06b": "WebSearch sin datos utiles de AR (resultados viejos). Se aplico gancho de texto 3 s, reencuadre, cierre niko.ar. Nota: 11-07 ya tenia posts programados; se completo domingo 11-08."
+  "2026-11-06b": "WebSearch sin datos utiles de AR (resultados viejos). Se aplico gancho de texto 3 s, reencuadre, cierre niko.ar. Nota: 11-07 ya tenia posts programados; se completo domingo 11-08.",
+  "2026-11-08": "Sin investigacion nueva (ahorro de uso); se uso tendencia de carruseles/state.json: close-ups de producto + 'X looks'. Musica original latin urban pop. Nuelink: ningun post >=3 dias llega a 1000 vistas (max 542), sin virales."
  },
  "carpetas_locales": {
   "Niko 1": "1JqOiITCP-pgDfyrXAB7lAWA0G1ykQeAI",
@@ -830,7 +896,9 @@
    "VID-20261014-WA0063",
    "VID-20261014-WA0015",
    "VID-20261030-WA0113",
-   "VID-20261024-WA0023"
+   "VID-20261024-WA0023",
+   "VID-20261019-WA0021",
+   "VID-20261017-WA0017"
   ],
   "descartados": {
    "VID-20261104-WA0092": "Halloween 'próximamente' vencido",
@@ -839,9 +907,12 @@
    "VID-20261010-WA0000": "Rocky horario/fecha vencida",
    "VID-20261010-WA0008": "reserva (9s, Via Lola), no usado",
    "VID-20261030-WA0051": "Cyber Monday vencido",
-   "VID-20261101-WA0005": "Cyber/promo vencida (war/desarmamos)"
+   "VID-20261101-WA0005": "Cyber/promo vencida (war/desarmamos)",
+   "VID-20261014-WA0017": "sorteo Dia de la Madre vencido",
+   "VID-20261016-WA0000": "Rocky 'ultima batalla' fecha vencida",
+   "VID-20261017-WA0018": "promo Dia de la Madre 2x$70.000 vencida"
   },
-  "nota": "Revisados ~12 de ~48. Sin cargar aún: el resto de la raíz. Drive: descargas >10MB sólo por curl y el proxy bloquea drive.usercontent.google.com; sin whisper (HF bloqueado). Se revisó el contenido por contact sheet. 06/11: bajados vía conector Drive download_file_content (<10MB, base64 en archivo). URLs raw usan la rama claude/sleepy-babbage-wcygpx (main no recibe push). Candidatos sin usar <10MB: VID-20261026-WA0039, VID-20261030-WA0010 (+ ~35 sin revisar). | 06/11 noche: 7 variantes para el 08/11 (recortadas end card Via Lola, reencuadre, gancho 3s, cierre). Descargas via conector (curl bloqueado). Restan sin usar ~20 (varios >10MB: 1025-WA0008, 1031-WA0035/0042, 1101-WA0004, 1104-WA0006/0039/0101/0103, 1011-WA0000/0001, 1012-WA0013, 1014-WA0064, 1020-WA0022, 1013-WA0040, 1014-WA0017, 1016-WA0000, 1017-WA0017/0018, 1019-WA0021, 1026-WA0009, 1030-WA0119, 1031-WA0024)."
+  "nota": "Revisados ~12 de ~48. Sin cargar aún: el resto de la raíz. Drive: descargas >10MB sólo por curl y el proxy bloquea drive.usercontent.google.com; sin whisper (HF bloqueado). Se revisó el contenido por contact sheet. 06/11: bajados vía conector Drive download_file_content (<10MB, base64 en archivo). URLs raw usan la rama claude/sleepy-babbage-wcygpx (main no recibe push). Candidatos sin usar <10MB: VID-20261026-WA0039, VID-20261030-WA0010 (+ ~35 sin revisar). | 06/11 noche: 7 variantes para el 08/11 (recortadas end card Via Lola, reencuadre, gancho 3s, cierre). Descargas via conector (curl bloqueado). Restan sin usar ~20 (varios >10MB: 1025-WA0008, 1031-WA0035/0042, 1101-WA0004, 1104-WA0006/0039/0101/0103, 1011-WA0000/0001, 1012-WA0013, 1014-WA0064, 1020-WA0022, 1013-WA0040, 1014-WA0017, 1016-WA0000, 1017-WA0017/0018, 1019-WA0021, 1026-WA0009, 1030-WA0119, 1031-WA0024). | 08/11 noche: curl a Drive sigue bloqueado; conector falla (cierra conexion) con archivos >~6MB. Sin usar y >6MB: 1026-WA0009 (6.8MB), 1031-WA0024 (7.8MB), 1013-WA0040(1), 1030-WA0119, 1011-WA0000, 1104-WA0039 + los >10MB listados antes."
  },
  "instrucciones_martin": [
   "06/11/2026 (Martín): Recorré TODAS las subcarpetas de 'NIKO - PARA EDITAR' de forma recursiva. Hay una carpeta 'Mica' (id 1blbmM6CwsRIk-sGArYM_467bx8fRHDcU) con subcarpetas por fecha (ej. '5-11'): es material de marketing de Martín, usalo con prioridad; no cuenta para el incentivo de ningún local.",
