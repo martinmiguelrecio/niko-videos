@@ -831,6 +831,32 @@
    "gancho": "PLATAFORMAS PARA EL DIA",
    "musica": "vidiq latin urban pop original",
    "evaluado": false
+  },
+  {
+   "fecha": "2026-11-09T20:30-03:00",
+   "plataforma": "nuelink",
+   "cuenta": "325831 (col 109616)",
+   "id": "5287700",
+   "archivo_final": "videos/2026-11-09/martin_madre_sandalias.mp4",
+   "origen": "ig_marketing VID-20261011-WA0000",
+   "local_origen": "desconocido",
+   "tipo": "humor",
+   "gancho": "MI MADRE Y SUS SANDALIAS",
+   "musica": "original del reel (sin cambios)",
+   "evaluado": false
+  },
+  {
+   "fecha": "2026-11-09T20:30-03:00",
+   "plataforma": "nuelink",
+   "cuenta": "325823 (col 109608)",
+   "id": "5287701",
+   "archivo_final": "videos/2026-11-09/sjslmza_sin_edicion.mp4",
+   "origen": "ig_marketing VID-20261013-WA0040(1)",
+   "local_origen": "desconocido",
+   "tipo": "humor",
+   "gancho": "NO LO EDITE Y QUEDO ASI",
+   "musica": "original del reel (sin cambios)",
+   "evaluado": false
   }
  ],
  "trends": {
@@ -898,7 +924,9 @@
    "VID-20261030-WA0113",
    "VID-20261024-WA0023",
    "VID-20261019-WA0021",
-   "VID-20261017-WA0017"
+   "VID-20261017-WA0017",
+   "VID-20261011-WA0000",
+   "VID-20261013-WA0040"
   ],
   "descartados": {
    "VID-20261104-WA0092": "Halloween 'próximamente' vencido",
@@ -910,9 +938,12 @@
    "VID-20261101-WA0005": "Cyber/promo vencida (war/desarmamos)",
    "VID-20261014-WA0017": "sorteo Dia de la Madre vencido",
    "VID-20261016-WA0000": "Rocky 'ultima batalla' fecha vencida",
-   "VID-20261017-WA0018": "promo Dia de la Madre 2x$70.000 vencida"
+   "VID-20261017-WA0018": "promo Dia de la Madre 2x$70.000 vencida",
+   "VID-20261030-WA0119": "Halloween vencido",
+   "VID-20261031-WA0024": "Halloween vencido",
+   "VID-20261104-WA0039": "precios por terminar, promo vencida"
   },
-  "nota": "Revisados ~12 de ~48. Sin cargar aún: el resto de la raíz. Drive: descargas >10MB sólo por curl y el proxy bloquea drive.usercontent.google.com; sin whisper (HF bloqueado). Se revisó el contenido por contact sheet. 06/11: bajados vía conector Drive download_file_content (<10MB, base64 en archivo). URLs raw usan la rama claude/sleepy-babbage-wcygpx (main no recibe push). Candidatos sin usar <10MB: VID-20261026-WA0039, VID-20261030-WA0010 (+ ~35 sin revisar). | 06/11 noche: 7 variantes para el 08/11 (recortadas end card Via Lola, reencuadre, gancho 3s, cierre). Descargas via conector (curl bloqueado). Restan sin usar ~20 (varios >10MB: 1025-WA0008, 1031-WA0035/0042, 1101-WA0004, 1104-WA0006/0039/0101/0103, 1011-WA0000/0001, 1012-WA0013, 1014-WA0064, 1020-WA0022, 1013-WA0040, 1014-WA0017, 1016-WA0000, 1017-WA0017/0018, 1019-WA0021, 1026-WA0009, 1030-WA0119, 1031-WA0024). | 08/11 noche: curl a Drive sigue bloqueado; conector falla (cierra conexion) con archivos >~6MB. Sin usar y >6MB: 1026-WA0009 (6.8MB), 1031-WA0024 (7.8MB), 1013-WA0040(1), 1030-WA0119, 1011-WA0000, 1104-WA0039 + los >10MB listados antes."
+  "nota": "Revisados ~12 de ~48. Sin cargar aún: el resto de la raíz. Drive: descargas >10MB sólo por curl y el proxy bloquea drive.usercontent.google.com; sin whisper (HF bloqueado). Se revisó el contenido por contact sheet. 06/11: bajados vía conector Drive download_file_content (<10MB, base64 en archivo). URLs raw usan la rama claude/sleepy-babbage-wcygpx (main no recibe push). Candidatos sin usar <10MB: VID-20261026-WA0039, VID-20261030-WA0010 (+ ~35 sin revisar). | 06/11 noche: 7 variantes para el 08/11 (recortadas end card Via Lola, reencuadre, gancho 3s, cierre). Descargas via conector (curl bloqueado). Restan sin usar ~20 (varios >10MB: 1025-WA0008, 1031-WA0035/0042, 1101-WA0004, 1104-WA0006/0039/0101/0103, 1011-WA0000/0001, 1012-WA0013, 1014-WA0064, 1020-WA0022, 1013-WA0040, 1014-WA0017, 1016-WA0000, 1017-WA0017/0018, 1019-WA0021, 1026-WA0009, 1030-WA0119, 1031-WA0024). | 08/11 noche: curl a Drive sigue bloqueado; conector falla (cierra conexion) con archivos >~6MB. Sin usar y >6MB: 1026-WA0009 (6.8MB), 1031-WA0024 (7.8MB), 1013-WA0040(1), 1030-WA0119, 1011-WA0000, 1104-WA0039 + los >10MB listados antes. | 09/11: red del entorno habilitada (curl a Drive funciona). Sin revisar aun: 1026-WA0009 (limpiando vidrio, dudoso) y los >10MB."
  },
  "instrucciones_martin": [
   "06/11/2026 (Martín): Recorré TODAS las subcarpetas de 'NIKO - PARA EDITAR' de forma recursiva. Hay una carpeta 'Mica' (id 1blbmM6CwsRIk-sGArYM_467bx8fRHDcU) con subcarpetas por fecha (ej. '5-11'): es material de marketing de Martín, usalo con prioridad; no cuenta para el incentivo de ningún local.",
