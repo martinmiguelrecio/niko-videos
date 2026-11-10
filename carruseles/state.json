@@ -111,6 +111,34 @@
       "metricool_uuid": "7077084320102370056",
       "evaluado": false,
       "hecho_por": "tarea nocturna 08/11"
+    },
+    {
+      "fecha_publicacion": "2026-11-10",
+      "hora": "20:45",
+      "marca": "vialola",
+      "formato": "Depende de ustedes: ¿blanca o negra? (mismo modelo jaula plataforma en 2 colores, voto en comentarios) + carrusel mixto foto/video",
+      "tendencia": "post-Cyber, contenido de voto/opinión estilo Ganga; calor; sin promos activas en Tiendanube",
+      "gancho": "DEPENDE DE USTEDES ¿BLANCA O NEGRA? / Comentá BLANCA O NEGRA",
+      "fotos": [
+        "Luz lista#131 (jpg idx116) 1psWnZHfNIR4Iidt-e005Q0FiojLmbFFp (portada izq)",
+        "Luz lista#106 (jpg idx91) 1nCYaD2L-LpagROILOAU_XIF07SKfSvqC (portada der)",
+        "Luz lista#127 (jpg idx112) 1sgo0xwvjPQ0pKgC8d-mL_sHRw9K7pHrE",
+        "Luz lista#104 (jpg idx89) 1YlI9KMKVNC_ra8XYSF4_CMnHUlTLbGHn",
+        "Luz lista#84 (jpg idx69) 1wd7n8PqenCQEWhL0e8-0DIwM-xbdoRjB",
+        "Luz lista#60 (jpg idx45) 1-PfnZL9x4rwDujFsGZ6YhyiAeq7pQ9dO",
+        "Luz lista#143 (jpg idx128) 1hfs2nXa9EcZA4PHyV_uuZNPp8Yiw6Mxn",
+        "Luz lista#120 (jpg idx105) 1TqagILI6Mek5Qyd2vOY5dFQ9gwi6REuz (solo FB/TT slide 2)"
+      ],
+      "videos": [
+        "Luz v8 1gSMxHqxHwOqkKJkcIU7HrZeEqKPBi-VT (0-6.2s, slide 2 IG)"
+      ],
+      "promo": "envío gratis desde $100.000 (Tiendanube sin promos activas)",
+      "metricool_id_ig": 422620923,
+      "metricool_uuid_ig": "-5731832051394001076",
+      "metricool_id_fb_tt": 422621037,
+      "metricool_uuid_fb_tt": "4749411871096523793",
+      "evaluado": false,
+      "hecho_por": "tarea nocturna 09/11"
     }
   ],
   "instrucciones_martin": [
@@ -123,5 +151,6 @@
     "ganga.home": "Ganchos con texto grande en cajas de color sobre la imagen: 'NECESITAMOS QUE NOS DIGAN SÍ O NO', 'Depende de ustedes, los leo', 'Comentá si querés que lo subamos a la web', 'DESLIZÁ, te cuento todo', 'POV:', 'Al fin llegó el día de contarles que…', 'Y bueno… salió ofertita'. Piden opinión/voto → miles de comentarios. Tono cercano, mayúsculas y emojis.",
     "rickysarkany_ult": "04/11 lanzó cápsula SARKANY x ZAIRA (reel 26.6K plays con Ricky + influencer mostrando 2 colores, 'los zapatos definitivos para este verano'); Cyber con unboxings de influencers. Reel top reciente: close-up de zapato en exterior (108K).",
     "ganga.home_ult": "08/11 cierre de GANGA SALE: muchos reels 'ÚLTIMAS HORAS', 'OFERTITA FLASH', cupón 'SETERMINA', texto blanco/rojo en cajas rojas. Sus récords siguen siendo 'COMENTÁ SI QUERÉS QUE LO SUBAMOS A LA WEB' (7.3M)."
-  }
+  },
+  "nota_indices": "Luz: 'lista#N' = posición en embeddedfolderview (0-14 videos); 'jpg idxN' = N-15. Usar fileIds como referencia."
 }
