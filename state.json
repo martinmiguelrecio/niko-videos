@@ -204,7 +204,7 @@
    "tipo": "humor",
    "gancho": "SI TRABAJAS EN UN LOCAL ESTO TE PASA",
    "musica": "original del reel (sin cambios)",
-   "evaluado": false
+   "evaluado": true
   },
   {
    "fecha": "2026-11-05T20:30-03:00",
@@ -249,7 +249,7 @@
    "tipo": "humor",
    "gancho": "EL MEJOR PLAN FINANCIERO",
    "musica": "original del reel (sin cambios)",
-   "evaluado": false
+   "evaluado": true
   },
   {
    "fecha": "2026-11-05T23:30Z",
@@ -325,7 +325,7 @@
    "tipo": "producto/moda",
    "gancho": "EL ROJO NUNCA FALLA",
    "musica": "original del reel (sin cambios)",
-   "evaluado": false,
+   "evaluado": true,
    "uuid": "5542180074206545510"
   },
   {
@@ -704,7 +704,7 @@
    "origen": "mica_06-11 (charla Martín + Mati, dueño de Stone y Calcio)",
    "tipo": "charla/reflexión",
    "gancho": "LABURAR CON TU VIEJO / LO QUE APRENDÍ ESTE AÑO",
-   "evaluado": false,
+   "evaluado": true,
    "nota": "Test de viralidad pedido por Martín (07/11): 6 videos de la charla con Mati, uno por cuenta, misma hora. Adelantado a pedido de Martín: publicado 07/11 01:20."
   },
   {
@@ -716,7 +716,7 @@
    "origen": "mica_06-11 (charla Martín + Mati, dueño de Stone y Calcio)",
    "tipo": "charla/reflexión",
    "gancho": "LABURÁS 24/7 / ¿Y CUÁNDO DISFRUTÁS?",
-   "evaluado": false,
+   "evaluado": true,
    "nota": "Test de viralidad pedido por Martín (07/11): 6 videos de la charla con Mati, uno por cuenta, misma hora. Adelantado a pedido de Martín: publicado 07/11 01:20."
   },
   {
@@ -857,6 +857,61 @@
    "gancho": "NO LO EDITE Y QUEDO ASI",
    "musica": "original del reel (sin cambios)",
    "evaluado": false
+  },
+  {
+   "fecha": "2026-11-10T20:30-03:00",
+   "plataforma": "metricool",
+   "cuenta": "7799818",
+   "id": "422629784",
+   "uuid": "7281880202145647080",
+   "archivo_final": "videos/2026-11-10/nikoar_tincho.mp4",
+   "origen": "ig_marketing VID-20261020-WA0022 (fileId 1bt38xl9sDmvluwtgsMqQ208mZjhKLpIS)",
+   "local_origen": "desconocido",
+   "tipo": "humor",
+   "gancho": "TINCHO DESPUES DE 3 DIAS SIN DORMIR",
+   "musica": "original del reel (sin cambios)",
+   "evaluado": false
+  },
+  {
+   "fecha": "2026-11-10T20:30-03:00",
+   "plataforma": "metricool",
+   "cuenta": "7798880",
+   "id": "422629750",
+   "uuid": "-4260329184642904587",
+   "archivo_final": "videos/2026-11-10/niko5_cuna_tostada.mp4",
+   "origen": "fotos sesion verano (carruseles/state 11-07, 5 fotos)",
+   "local_origen": "n/a",
+   "tipo": "producto/slideshow",
+   "gancho": "CUÑA TOSTADA",
+   "musica": "vidiq latin urban pop original",
+   "evaluado": false
+  },
+  {
+   "fecha": "2026-11-10T20:30-03:00",
+   "plataforma": "metricool",
+   "cuenta": "7788943",
+   "id": "422629824",
+   "uuid": "7984670057008219201",
+   "archivo_final": "videos/2026-11-10/niko6_asi_se_trabaja.mp4",
+   "origen": "crudo Niko 3 VID-20261107-WA0080 (fileId 1kZ7GvRAiUv_rWanUvbzbIcGSAUc8pRFe)",
+   "local_origen": "Niko 3",
+   "tipo": "recorrida/ambiente",
+   "gancho": "ASI SE TRABAJA",
+   "musica": "vidiq latin urban pop original",
+   "evaluado": false
+  },
+  {
+   "fecha": "2026-11-10T23:30Z",
+   "plataforma": "nuelink",
+   "cuenta": "nuelink:325777 Niko calzados corp. (col 109587)",
+   "id": "5295514",
+   "archivo_final": "videos/2026-11-10/corp_dia_en_niko.mp4",
+   "origen": "crudo Niko 3 VID-20261107-WA0075 (fileId 14sx0D_TN0EKpe0vYvdrj-oYUjzNVSq7u)",
+   "local_origen": "Niko 3",
+   "tipo": "recorrida/ambiente",
+   "gancho": "UN DIA EN NIKO",
+   "musica": "vidiq latin urban pop original",
+   "evaluado": false
   }
  ],
  "trends": {
@@ -864,7 +919,8 @@
   "2026-11-05b": "WebSearch sin datos útiles de Argentina/calzado; se aplicó gancho de texto en 3 s, cierre niko.ar o ciudad.",
   "2026-11-06": "No se investigó (ahorro de uso). Se aplicó gancho de texto en primeros 3 s, reencuadre y variantes de texto/color.",
   "2026-11-06b": "WebSearch sin datos utiles de AR (resultados viejos). Se aplico gancho de texto 3 s, reencuadre, cierre niko.ar. Nota: 11-07 ya tenia posts programados; se completo domingo 11-08.",
-  "2026-11-08": "Sin investigacion nueva (ahorro de uso); se uso tendencia de carruseles/state.json: close-ups de producto + 'X looks'. Musica original latin urban pop. Nuelink: ningun post >=3 dias llega a 1000 vistas (max 542), sin virales."
+  "2026-11-08": "Sin investigacion nueva (ahorro de uso); se uso tendencia de carruseles/state.json: close-ups de producto + 'X looks'. Musica original latin urban pop. Nuelink: ningun post >=3 dias llega a 1000 vistas (max 542), sin virales.",
+  "2026-11-10": "Sin investigacion nueva (ahorro). Metricool 7 dias: lo que mas rinde son charlas/humor de vendedores y promos de local; producto solo ~80-150 vistas. Nuelink: max 542."
  },
  "carpetas_locales": {
   "Niko 1": "1JqOiITCP-pgDfyrXAB7lAWA0G1ykQeAI",
@@ -895,6 +951,9 @@
     "validos": 19,
     "nota": "7 el 2/11, 1 el 3/11, 1 el 4/11, 10 el 6/11 (8 MOV + 2 Cyber); sin verificar duracion"
    }
+  },
+  "2026-11-09": {
+   "nota": "Semana 9-14/11: no verificada en esta corrida (Drive sin conteo por local); ver cierre."
   }
  },
  "ig_marketing": {
@@ -926,7 +985,8 @@
    "VID-20261019-WA0021",
    "VID-20261017-WA0017",
    "VID-20261011-WA0000",
-   "VID-20261013-WA0040"
+   "VID-20261013-WA0040",
+   "VID-20261020-WA0022"
   ],
   "descartados": {
    "VID-20261104-WA0092": "Halloween 'próximamente' vencido",
@@ -941,9 +1001,18 @@
    "VID-20261017-WA0018": "promo Dia de la Madre 2x$70.000 vencida",
    "VID-20261030-WA0119": "Halloween vencido",
    "VID-20261031-WA0024": "Halloween vencido",
-   "VID-20261104-WA0039": "precios por terminar, promo vencida"
+   "VID-20261104-WA0039": "precios por terminar, promo vencida",
+   "VID-20261011-WA0001": "En vivo IG con evento pasado",
+   "VID-20261012-WA0013": "Dia de la Madre vencido",
+   "VID-20261014-WA0064": "promo Galicia 20% bancaria, dudosa vigencia",
+   "VID-20261025-WA0008": "promo 3x70 / politica, vencido",
+   "VID-20261031-WA0035": "promo 2x70 vencida",
+   "VID-20261031-WA0042": "votacion Halloween vencida",
+   "VID-20261101-WA0004": "sorteo/promo dudosa",
+   "VID-20261104-WA0006": "promo dudosa",
+   "VID-20261104-WA0101": "promo 50% vencida"
   },
-  "nota": "Revisados ~12 de ~48. Sin cargar aún: el resto de la raíz. Drive: descargas >10MB sólo por curl y el proxy bloquea drive.usercontent.google.com; sin whisper (HF bloqueado). Se revisó el contenido por contact sheet. 06/11: bajados vía conector Drive download_file_content (<10MB, base64 en archivo). URLs raw usan la rama claude/sleepy-babbage-wcygpx (main no recibe push). Candidatos sin usar <10MB: VID-20261026-WA0039, VID-20261030-WA0010 (+ ~35 sin revisar). | 06/11 noche: 7 variantes para el 08/11 (recortadas end card Via Lola, reencuadre, gancho 3s, cierre). Descargas via conector (curl bloqueado). Restan sin usar ~20 (varios >10MB: 1025-WA0008, 1031-WA0035/0042, 1101-WA0004, 1104-WA0006/0039/0101/0103, 1011-WA0000/0001, 1012-WA0013, 1014-WA0064, 1020-WA0022, 1013-WA0040, 1014-WA0017, 1016-WA0000, 1017-WA0017/0018, 1019-WA0021, 1026-WA0009, 1030-WA0119, 1031-WA0024). | 08/11 noche: curl a Drive sigue bloqueado; conector falla (cierra conexion) con archivos >~6MB. Sin usar y >6MB: 1026-WA0009 (6.8MB), 1031-WA0024 (7.8MB), 1013-WA0040(1), 1030-WA0119, 1011-WA0000, 1104-WA0039 + los >10MB listados antes. | 09/11: red del entorno habilitada (curl a Drive funciona). Sin revisar aun: 1026-WA0009 (limpiando vidrio, dudoso) y los >10MB."
+  "nota": "Revisados ~12 de ~48. Sin cargar aún: el resto de la raíz. Drive: descargas >10MB sólo por curl y el proxy bloquea drive.usercontent.google.com; sin whisper (HF bloqueado). Se revisó el contenido por contact sheet. 06/11: bajados vía conector Drive download_file_content (<10MB, base64 en archivo). URLs raw usan la rama claude/sleepy-babbage-wcygpx (main no recibe push). Candidatos sin usar <10MB: VID-20261026-WA0039, VID-20261030-WA0010 (+ ~35 sin revisar). | 06/11 noche: 7 variantes para el 08/11 (recortadas end card Via Lola, reencuadre, gancho 3s, cierre). Descargas via conector (curl bloqueado). Restan sin usar ~20 (varios >10MB: 1025-WA0008, 1031-WA0035/0042, 1101-WA0004, 1104-WA0006/0039/0101/0103, 1011-WA0000/0001, 1012-WA0013, 1014-WA0064, 1020-WA0022, 1013-WA0040, 1014-WA0017, 1016-WA0000, 1017-WA0017/0018, 1019-WA0021, 1026-WA0009, 1030-WA0119, 1031-WA0024). | 08/11 noche: curl a Drive sigue bloqueado; conector falla (cierra conexion) con archivos >~6MB. Sin usar y >6MB: 1026-WA0009 (6.8MB), 1031-WA0024 (7.8MB), 1013-WA0040(1), 1030-WA0119, 1011-WA0000, 1104-WA0039 + los >10MB listados antes. | 09/11: red del entorno habilitada (curl a Drive funciona). Sin revisar aun: 1026-WA0009 (limpiando vidrio, dudoso) y los >10MB. | 10/11: revisados los >10MB restantes (curl funciona): casi todos vencidos; se uso 1020-WA0022. Sin usar: 1104-WA0103, 1026-WA0009 (sin revisar). Crudos nuevos Niko 3 (7/11): WA0072 'caja sorpresa' (promo sin verificar, no usado), WA0075 y WA0080 usados mudos con musica. Niko 7 'lo que callamos los vendedores' (6.9s, muy corto). Archivos 20261108_125613 (260MB) y 20261109_152611 (1.1GB) en carpeta 1CvCGj9gYADx_Lx3... no accesibles por link (piden login): pedir a Martin compartirlos. 'Documento de Delia Recio' (quicktime, carpeta 1TlOnICPaBxbIAsxfj9_8oTANGRaBfKv8): no usados, parecen personales."
  },
  "instrucciones_martin": [
   "06/11/2026 (Martín): Recorré TODAS las subcarpetas de 'NIKO - PARA EDITAR' de forma recursiva. Hay una carpeta 'Mica' (id 1blbmM6CwsRIk-sGArYM_467bx8fRHDcU) con subcarpetas por fecha (ej. '5-11'): es material de marketing de Martín, usalo con prioridad; no cuenta para el incentivo de ningún local.",
@@ -952,5 +1021,49 @@
   "06/11/2026 (Martín): El Cyber de niko.ar se extendió hasta el domingo 08/11/2026; desde el 09/11 está vencido.",
   "06/11/2026: Los cortes con origen 'mica_5-11' ya se editaron a mano; no repitas esos tramos (ver segmentos_usados).",
   "06/11/2026 (Martín): La carpeta C:\\IA de la notebook de Martín ahora se sincroniza con Google Drive (cuenta martinmiguelrecio@gmail.com): carpeta 'IA' id 1WVSXPgyM3d_FfUAj59kBmBZ1f--0mwXR (subcarpetas Niko, Via Lola, Veo360, Balances locales). Ahí están las sesiones de fotos de Via Lola (C:\\IA\\Via Lola, ~630 JPG) y los banners/fotos de Niko: usalas como fuente de fotos. NO uses ni publiques nada de 'Balances locales' ni de 'Veo360'."
- ]
+ ],
+ "evaluaciones": {
+  "2026-11-10": [
+   {
+    "cuenta": "7799818",
+    "video": "videos/2026-11-05/nikoar_humor_nofumas.mp4",
+    "vistas": 546,
+    "likes": 24,
+    "shares": 2,
+    "veredicto": "PROMETEDOR"
+   },
+   {
+    "cuenta": "7788943",
+    "video": "videos/2026-11-06/niko6_rojo_total.mp4",
+    "vistas": 419,
+    "likes": 7,
+    "veredicto": "PROMETEDOR"
+   },
+   {
+    "cuenta": "7788943",
+    "video": "videos/2026-11-08/mati/mati_viejo.mp4",
+    "vistas": 433,
+    "likes": 4,
+    "veredicto": "PROMETEDOR"
+   },
+   {
+    "cuenta": "7798880",
+    "video": "videos/2026-11-08/mati/mati_disfrutar.mp4",
+    "vistas": 420,
+    "likes": 15,
+    "veredicto": "PROMETEDOR"
+   },
+   {
+    "cuenta": "nuelink 325777",
+    "video": "videos/2026-11-05/corp_humor_deudas.mp4",
+    "vistas": 542,
+    "likes": 21,
+    "shares": 1,
+    "veredicto": "PROMETEDOR"
+   },
+   {
+    "nota": "Ninguno llega a 5000 vistas: sin virales. Nuelink 11/05-11/07 max 542."
+   }
+  ]
+ }
 }
