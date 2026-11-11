@@ -130,6 +130,11 @@
    "fileId": "1O3x788lj0cwZeQoerd8TAqWtFl-fF4Nt",
    "archivo": "20261027_123914.mp4",
    "motivo": "sorteo Día de la Madre, ya pasó"
+  },
+  {
+   "fileId": "1wTR_nARev_EVs-bT9Xaxug_xvWnUEpnQ",
+   "archivo": "VID-20261026-WA0009",
+   "motivo": "Cyber/2x50 vencido"
   }
  ],
  "notas_material": [
@@ -140,7 +145,8 @@
   "06/11/2026: Los cortes con origen 'mica_5-11' ya se editaron a mano; no repitas esos tramos (ver segmentos_usados).",
   "Serie Pocito del 27/10 (archivos 20261027_*): ya editada como niko1_pocito_cyber pero NUNCA publicada; habla de Cyber Monday mini 'dura una semana' desde el 27/10 -> verificar vigencia o recortar sin la promo.",
   "20261026_220715.mp4: sorteo de una texana por Cyber Monday; no usar salvo que Martín confirme que sigue activo.",
-  "20261026_220356.mp4 tramo 66-160 s: gag de '5000 likes y las bajo al 50%'; no usar (promesa)."
+  "20261026_220356.mp4 tramo 66-160 s: gag de '5000 likes y las bajo al 50%'; no usar (promesa).",
+  "11/11: carpeta 'POR EL PAIS' (owner hola@gokreativa.com, ~20 videos Tinogasta/La Rioja) y 'Viaje norte' (20261109_152120, no accesible por link) no usados; pedir a Martin si son para las cuentas de prueba."
  ],
  "posts": [
   {
@@ -912,6 +918,93 @@
    "gancho": "UN DIA EN NIKO",
    "musica": "vidiq latin urban pop original",
    "evaluado": false
+  },
+  {
+   "fecha": "2026-11-11T20:30-03:00",
+   "plataforma": "metricool",
+   "cuenta": "7799818",
+   "id": "423910910",
+   "archivo_final": "videos/2026-11-12/nikoar_zapas_negras.mp4",
+   "origen": "crudo Niko 2 Rocky VID_20261110_213252 (fileId 1FZWgAzVLB7di6inZFBJnk2Q968hx23dW) 0.5-26.5s",
+   "local_origen": "Niko 2 Rocky",
+   "tipo": "recorrida/producto",
+   "gancho": "ZAPATILLAS NEGRAS PARA TODO EL DIA",
+   "musica": "vidiq cumbia/trap original",
+   "evaluado": false,
+   "nota": "Carpeta se llama 2026-11-12 pero se publica el 11/11 (ART).",
+   "uuid": "3605260993276953401"
+  },
+  {
+   "fecha": "2026-11-11T20:30-03:00",
+   "plataforma": "metricool",
+   "cuenta": "7788943",
+   "id": "423910927",
+   "archivo_final": "videos/2026-11-12/niko6_abrimos_caja_greep.mp4",
+   "origen": "crudo Niko 2 Rocky VID_20261110_212952 (1AcHdmCNCGCST7ghdSEfYrAVEfTYQaTGr) 0.5-21.5s",
+   "local_origen": "Niko 2 Rocky",
+   "tipo": "producto/unboxing",
+   "gancho": "ABRIMOS LA CAJA: ZAPATILLAS GREEP",
+   "musica": "vidiq tropical house original",
+   "evaluado": false,
+   "nota": "Carpeta se llama 2026-11-12 pero se publica el 11/11 (ART).",
+   "uuid": "-7807991875611835245"
+  },
+  {
+   "fecha": "2026-11-11T20:30-03:00",
+   "plataforma": "metricool",
+   "cuenta": "7798880",
+   "id": "423910951",
+   "archivo_final": "videos/2026-11-12/niko5_que_sandalia_sos.mp4",
+   "origen": "fotos carrusel Niko 2026-11-11 (01-05)",
+   "local_origen": "n/a",
+   "tipo": "producto/slideshow test A-B-C-D",
+   "gancho": "QUE ESTILO DE SANDALIA SOS",
+   "musica": "vidiq tropical house original",
+   "evaluado": false,
+   "nota": "Carpeta se llama 2026-11-12 pero se publica el 11/11 (ART).",
+   "uuid": "2134358880748653864"
+  },
+  {
+   "fecha": "2026-11-11T23:30Z",
+   "plataforma": "nuelink",
+   "cuenta": "nuelink:325777 (col 109587)",
+   "id": "5303154",
+   "archivo_final": "videos/2026-11-12/corp_mocasines_borlas.mp4",
+   "origen": "crudo Niko 2 Rocky VID_20261110_213121 (10kkebzK5exxSfpbrdKUvLivMhpV-B8ZD) 0.5-17.5s",
+   "local_origen": "Niko 2 Rocky",
+   "tipo": "producto",
+   "gancho": "MOCASINES CON BORLAS",
+   "musica": "vidiq cumbia/trap original",
+   "evaluado": false,
+   "nota": "Carpeta se llama 2026-11-12 pero se publica el 11/11 (ART)."
+  },
+  {
+   "fecha": "2026-11-11T23:30Z",
+   "plataforma": "nuelink",
+   "cuenta": "nuelink:325785 (col 109607)",
+   "id": "5303155",
+   "archivo_final": "videos/2026-11-12/nuelink109607_mochilas.mp4",
+   "origen": "crudo Niko 2 Rocky VID_20261110_212754 (1HWGVkhh28QNCoLmDpY5xzwuGsGqz60pA) 0-13s",
+   "local_origen": "Niko 2 Rocky",
+   "tipo": "precios/vuelta a clases",
+   "gancho": "VUELTA A CLASES MOCHILAS 2x50",
+   "musica": "vidiq tropical house original",
+   "evaluado": false,
+   "nota": "Carpeta se llama 2026-11-12 pero se publica el 11/11 (ART)."
+  },
+  {
+   "fecha": "2026-11-11T23:30Z",
+   "plataforma": "nuelink",
+   "cuenta": "nuelink:325823 (col 109608)",
+   "id": "5303156",
+   "archivo_final": "videos/2026-11-12/nuelink109608_utiles.mp4",
+   "origen": "crudo Niko 2 Rocky VID_20261110_212844 (1jlbz2jh5KzytQIvJNti-KPek_RAJkbka) 0.5-24.5s",
+   "local_origen": "Niko 2 Rocky",
+   "tipo": "precios/vuelta a clases",
+   "gancho": "CARTUCHERAS 2x20 Y MOCHILAS 2x50",
+   "musica": "vidiq cumbia/trap original",
+   "evaluado": false,
+   "nota": "Carpeta se llama 2026-11-12 pero se publica el 11/11 (ART)."
   }
  ],
  "trends": {
@@ -920,7 +1013,8 @@
   "2026-11-06": "No se investigó (ahorro de uso). Se aplicó gancho de texto en primeros 3 s, reencuadre y variantes de texto/color.",
   "2026-11-06b": "WebSearch sin datos utiles de AR (resultados viejos). Se aplico gancho de texto 3 s, reencuadre, cierre niko.ar. Nota: 11-07 ya tenia posts programados; se completo domingo 11-08.",
   "2026-11-08": "Sin investigacion nueva (ahorro de uso); se uso tendencia de carruseles/state.json: close-ups de producto + 'X looks'. Musica original latin urban pop. Nuelink: ningun post >=3 dias llega a 1000 vistas (max 542), sin virales.",
-  "2026-11-10": "Sin investigacion nueva (ahorro). Metricool 7 dias: lo que mas rinde son charlas/humor de vendedores y promos de local; producto solo ~80-150 vistas. Nuelink: max 542."
+  "2026-11-10": "Sin investigacion nueva (ahorro). Metricool 7 dias: lo que mas rinde son charlas/humor de vendedores y promos de local; producto solo ~80-150 vistas. Nuelink: max 542.",
+  "2026-11-11": "WebSearch sin datos utiles de TikTok AR calzado (ahorro). Se uso: gancho texto rojo 3s, cierre local/liquidacion, musica original cumbia-trap / tropical house, test A-B-C-D en slideshow. Nuelink: ninguno >=3 dias supera 585 vistas (max charla Mati/infancia fabrica); sin virales."
  },
  "carpetas_locales": {
   "Niko 1": "1JqOiITCP-pgDfyrXAB7lAWA0G1ykQeAI",
@@ -953,7 +1047,10 @@
    }
   },
   "2026-11-09": {
-   "nota": "Semana 9-14/11: no verificada en esta corrida (Drive sin conteo por local); ver cierre."
+   "nota": "Semana 9-14/11: no verificada en esta corrida (Drive sin conteo por local); ver cierre.",
+   "Niko 2 Rocky": {
+    "nota": "10/11: 5 videos nuevos en subcarpeta NIKO 2 10 / 11 (todos verticales, 13-27s) -> validos >=5 (conteo semanal completo sin verificar)"
+   }
   }
  },
  "ig_marketing": {
@@ -1010,7 +1107,9 @@
    "VID-20261031-WA0042": "votacion Halloween vencida",
    "VID-20261101-WA0004": "sorteo/promo dudosa",
    "VID-20261104-WA0006": "promo dudosa",
-   "VID-20261104-WA0101": "promo 50% vencida"
+   "VID-20261104-WA0101": "promo 50% vencida",
+   "VID-20261104-WA0103": "Cyber Monday 3x80/3x60 vencido",
+   "VID-20261026-WA0009": "Cyber/2x50 vencido"
   },
   "nota": "Revisados ~12 de ~48. Sin cargar aún: el resto de la raíz. Drive: descargas >10MB sólo por curl y el proxy bloquea drive.usercontent.google.com; sin whisper (HF bloqueado). Se revisó el contenido por contact sheet. 06/11: bajados vía conector Drive download_file_content (<10MB, base64 en archivo). URLs raw usan la rama claude/sleepy-babbage-wcygpx (main no recibe push). Candidatos sin usar <10MB: VID-20261026-WA0039, VID-20261030-WA0010 (+ ~35 sin revisar). | 06/11 noche: 7 variantes para el 08/11 (recortadas end card Via Lola, reencuadre, gancho 3s, cierre). Descargas via conector (curl bloqueado). Restan sin usar ~20 (varios >10MB: 1025-WA0008, 1031-WA0035/0042, 1101-WA0004, 1104-WA0006/0039/0101/0103, 1011-WA0000/0001, 1012-WA0013, 1014-WA0064, 1020-WA0022, 1013-WA0040, 1014-WA0017, 1016-WA0000, 1017-WA0017/0018, 1019-WA0021, 1026-WA0009, 1030-WA0119, 1031-WA0024). | 08/11 noche: curl a Drive sigue bloqueado; conector falla (cierra conexion) con archivos >~6MB. Sin usar y >6MB: 1026-WA0009 (6.8MB), 1031-WA0024 (7.8MB), 1013-WA0040(1), 1030-WA0119, 1011-WA0000, 1104-WA0039 + los >10MB listados antes. | 09/11: red del entorno habilitada (curl a Drive funciona). Sin revisar aun: 1026-WA0009 (limpiando vidrio, dudoso) y los >10MB. | 10/11: revisados los >10MB restantes (curl funciona): casi todos vencidos; se uso 1020-WA0022. Sin usar: 1104-WA0103, 1026-WA0009 (sin revisar). Crudos nuevos Niko 3 (7/11): WA0072 'caja sorpresa' (promo sin verificar, no usado), WA0075 y WA0080 usados mudos con musica. Niko 7 'lo que callamos los vendedores' (6.9s, muy corto). Archivos 20261108_125613 (260MB) y 20261109_152611 (1.1GB) en carpeta 1CvCGj9gYADx_Lx3... no accesibles por link (piden login): pedir a Martin compartirlos. 'Documento de Delia Recio' (quicktime, carpeta 1TlOnICPaBxbIAsxfj9_8oTANGRaBfKv8): no usados, parecen personales."
  },
@@ -1063,6 +1162,11 @@
    },
    {
     "nota": "Ninguno llega a 5000 vistas: sin virales. Nuelink 11/05-11/07 max 542."
+   }
+  ],
+  "2026-11-11": [
+   {
+    "nota": "Nuelink 6-8/11: max 585 vistas (nuelink 325785 historia fabrica), 515 (IA Mati), 499 viajante. Sin VIRAL/PROMETEDOR nuevos; charlas/historias de Martin rinden mejor que producto. Sin FAILED."
    }
   ]
  }
