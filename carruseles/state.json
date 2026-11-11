@@ -1,156 +1,222 @@
 {
-  "tendencias_semana": {
-    "fecha": "2026-11-08",
-    "nota": "Outliers AR/LatAm (vidIQ, últimos 15 días): reels de producto con close-up + voz ('El zapatito Roxy que TODAS amamos' 10x; botines plataforma 9x; Melissa x Dr Scholl 19x; Crocs plataforma leopardo 30x); '1 prenda, 3 combinaciones' (jean marrón 65x); POV en TikTok AR. Sandalias brillos/plataforma siguen. Noticias de ola de calor/verano anticipado. Cyber terminó 8/11 → volver a contenido de valor + beneficios permanentes. Nuestros carruseles 07-08/11 todavía sin 3 días para evaluar.",
-    "que_hacer": "Más 'X looks con…' y 'la que TODAS…' (sin decir 'más vendido'), POV, close-ups de producto en el video; menos galería."
+ "tendencias_semana": {
+  "fecha": "2026-11-10",
+  "nota": "Outliers AR/LatAm (vidIQ 27/10-10/11): reels de UN producto con close-up + voz ('Amooo son una locura' plataformas 103x, 'El zapatito Roxy que TODAS amamos' 11x, Crocs Dylan plataforma 8x, botines 9.5x); '1 prenda, 3 combinaciones' (65x); TikTok: 'No es lo mismo esto...' transformación de outfit 11x. Sin promos activas en Tiendanube (niko.ar). Calor/verano.",
+  "que_hacer": "Ganchos de pregunta directa con SÍ/NO ('¿Te las comprarías?'), tests ('¿Qué estilo sos?'), un solo producto con close-up. Via Lola: nuestros carruseles vienen con poco alcance (267/314) vs posts de la agencia; probar el gancho de pregunta tipo Ganga y revisar horario si sigue flojo."
+ },
+ "posts": [
+  {
+   "fecha_publicacion": "2026-11-07",
+   "hora": "20:00",
+   "marca": "niko",
+   "formato": "Esto vs esto (plana vs plataforma) - comentá A o B",
+   "tendencia": "plataformas/cuñas + sandalias con brillo, verano",
+   "gancho": "¿PLANA O PLATAFORMA? Elegí tu bando",
+   "fotos": [
+    "1Mat6k5aWIM_vAFydHg54A2Ci_l_PUjBA (portada)",
+    "1U8_9Lo3ZYM0wFIzDoChIKXwz_SHtX0NR",
+    "1XDXMAWKAYAwiOJccI72HymNVx2bgqWS9",
+    "1V_xb2PlZd5gWx-ESCQcod1LVreT6cjNU",
+    "1v0fAN3teEAYFqNIkWuFzqCMgiCuyUFQN"
+   ],
+   "promo": "envío gratis desde $100.000",
+   "metricool_id": 418451687,
+   "metricool_uuid": "-954030905655604624",
+   "evaluado": true,
+   "resultado": {
+    "fecha_eval": "2026-11-10",
+    "ig_alcance": 2723,
+    "ig_interacciones": 6,
+    "comentarios": 0,
+    "guardados": 1,
+    "compartidos": 0,
+    "mediana_niko_ig_alcance": 2180,
+    "cyber_ref": "¿Qué estilo sos? 3279 / Hacé la cuenta 3482",
+    "veredicto": "NORMAL",
+    "nota": "alcance 1.25x mediana, pero casi sin comentarios pese al pedido A/B"
+   }
   },
-  "posts": [
-    {
-      "fecha_publicacion": "2026-11-07",
-      "hora": "20:00",
-      "marca": "niko",
-      "formato": "Esto vs esto (plana vs plataforma) - comentá A o B",
-      "tendencia": "plataformas/cuñas + sandalias con brillo, verano",
-      "gancho": "¿PLANA O PLATAFORMA? Elegí tu bando",
-      "fotos": [
-        "1Mat6k5aWIM_vAFydHg54A2Ci_l_PUjBA (portada)",
-        "1U8_9Lo3ZYM0wFIzDoChIKXwz_SHtX0NR",
-        "1XDXMAWKAYAwiOJccI72HymNVx2bgqWS9",
-        "1V_xb2PlZd5gWx-ESCQcod1LVreT6cjNU",
-        "1v0fAN3teEAYFqNIkWuFzqCMgiCuyUFQN"
-      ],
-      "promo": "envío gratis desde $100.000",
-      "metricool_id": 418451687,
-      "metricool_uuid": "-954030905655604624",
-      "evaluado": false
-    },
-    {
-      "fecha_publicacion": "2026-11-08",
-      "hora": "20:45",
-      "marca": "vialola",
-      "formato": "Votación 1-2-3-4 'Necesitamos que nos ayudes' (gancho Ganga Home) + carrusel mixto foto/video (estilo Sarkany)",
-      "tendencia": "sandalias verano: negra con hebilla, bordada con piedras, blanca básica, cuña cruzada",
-      "gancho": "NECESITAMOS QUE NOS AYUDES ¿Cuál es LA sandalia de este verano?",
-      "fotos": [
-        "Luz Pintor: IMG idx 61 (portada), 66, 13, 111, 55, 21, 64, 6",
-        "video Luz 1QH-mHIWmFKB1pm4P2e-7U7EgTiNKGiQg (slide 4 en IG)"
-      ],
-      "promo": "envío gratis desde $100.000",
-      "metricool_id_ig": 420363990,
-      "metricool_uuid_ig": "1490909047596859460",
-      "metricool_id_fb_tt": 420364030,
-      "metricool_uuid_fb_tt": "-6278253107885748589",
-      "evaluado": false,
-      "hecho_por": "chat con Martín 07/11"
-    },
-    {
-      "fecha_publicacion": "2026-11-07",
-      "hora": "23:15",
-      "marca": "vialola",
-      "formato": "LA elegida de este verano (un modelo, estilo Sarkany) + carrusel mixto foto/video",
-      "tendencia": "sandalias plataforma verano",
-      "gancho": "LA ELEGIDA de este verano / ¿La sumás a tu verano? Comentá SÍ o NO",
-      "fotos": [
-        "Lali Castellano: 1Ieft5KCB02Tu7cUjhN4v6s9iNn6oXE0U (portada, idx33)",
-        "1MdAjfzlv1tYaxXRPcslTWt58x7oRLvmW (idx35)",
-        "1NoYxsjZ3Y0UJLx4ErxU7x8qEoCGCTYUo (idx30)",
-        "1KsomvtkGrQRoZcCLlCiDgeCtu_RQbQfZ (idx32)",
-        "video Lali 1HSaCxAF_lxW0S_72jmFZzruXQElwMDAz (0-7s slide 2 IG; frame 9s en FB/TT)"
-      ],
-      "promo": "envío gratis desde $100.000",
-      "metricool_id_ig": 420400385,
-      "metricool_uuid_ig": "1489922192079735640",
-      "metricool_id_fb_tt": 420400395,
-      "metricool_uuid_fb_tt": "67489602181089018",
-      "evaluado": false,
-      "hecho_por": "chat con Martín 07/11 noche (pidió subir Via Lola desde hoy)"
-    },
-    {
-      "fecha_publicacion": "2026-11-09",
-      "hora": "20:45",
-      "marca": "vialola",
-      "formato": "3 looks / Armá tu look (sandalia negra) + voto 1-2-3 + guardado; carrusel mixto foto/video",
-      "tendencia": "outlier '1 prenda, 3 combinaciones' (pame.manzano 65x); calor/ola de calor; post-Cyber",
-      "gancho": "3 LOOKS DE VERANO con sandalia negra / ¿Cuál te robás? Comentá 1, 2 o 3 / GUARDALO",
-      "fotos": [
-        "Luz Pintor idx82 1EWwj9wte6xoit2Y5smtO_wPnDK0XCtKJ (portada)",
-        "idx62 1s9y2zNjUQkzUBY7t7wsn6Yif8XAjzuKo (solo FB/TT)",
-        "idx77 1QNf_yu8Ju7H8Qbre9PbnQUmeTBuCAB4v (solo FB/TT)",
-        "idx63 1HyBXjgv5r1JsZey8DnOQdcIlhVbktqkT",
-        "idx69 1wd7n8PqenCQEWhL0e8-0DIwM-xbdoRjB"
-      ],
-      "videos": [
-        "Luz v4 1hcdXX9BSoWNiOVknLCRL28FO3Nk3DIRA (0.3-7.3s, slide 2 IG)",
-        "Luz v13 1Oesxx-ne3-VZhw408Wl1l4YXV9l5TJNN (0-7s, slide 3 IG)"
-      ],
-      "promo": "envío gratis desde $100.000 (Cyber Lola terminó 8/11; Tiendanube sin promos activas)",
-      "metricool_id_ig": 421271282,
-      "metricool_uuid_ig": "-244545176425837387",
-      "metricool_id_fb_tt": 421271303,
-      "metricool_uuid_fb_tt": "4172006664500694272",
-      "evaluado": false,
-      "hecho_por": "tarea nocturna 08/11"
-    },
-    {
-      "fecha_publicacion": "2026-11-09",
-      "hora": "20:00",
-      "marca": "niko",
-      "formato": "POV + Top 5 (una sandalia por plan) + comentá del 1 al 5 + guardado",
-      "tendencia": "calor / ola de calor anticipada; POV muy usado en TikTok AR",
-      "gancho": "POV: llegó el calor y no tenés sandalias",
-      "fotos": [
-        "Lali 1P_dMqnRGhWUpc-BCVKWoQ56Z93AVQuB9 WA0073 (portada)",
-        "1Kk7gjbiSay64T-_DuoICCbB0nR48NV2m WA0035",
-        "1dOLJkwX94bMLj4F4xCQu1PWFq1ZXZRRg WA0043",
-        "1d5voU3E6zz9CiyJYaYggatAhrkGWyeOP WA0106",
-        "10MUcDn_Q5y-vMBOKBTQXRBCx_ZKQ_4hS WA0101",
-        "1zdbPqT0lyDK8UNJrRaJiN5dlxlUyMsdB WA0116"
-      ],
-      "promo": "envío gratis desde $100.000 + locales San Juan y San Luis",
-      "metricool_id": 421271332,
-      "metricool_uuid": "7077084320102370056",
-      "evaluado": false,
-      "hecho_por": "tarea nocturna 08/11"
-    },
-    {
-      "fecha_publicacion": "2026-11-10",
-      "hora": "20:45",
-      "marca": "vialola",
-      "formato": "Depende de ustedes: ¿blanca o negra? (mismo modelo jaula plataforma en 2 colores, voto en comentarios) + carrusel mixto foto/video",
-      "tendencia": "post-Cyber, contenido de voto/opinión estilo Ganga; calor; sin promos activas en Tiendanube",
-      "gancho": "DEPENDE DE USTEDES ¿BLANCA O NEGRA? / Comentá BLANCA O NEGRA",
-      "fotos": [
-        "Luz lista#131 (jpg idx116) 1psWnZHfNIR4Iidt-e005Q0FiojLmbFFp (portada izq)",
-        "Luz lista#106 (jpg idx91) 1nCYaD2L-LpagROILOAU_XIF07SKfSvqC (portada der)",
-        "Luz lista#127 (jpg idx112) 1sgo0xwvjPQ0pKgC8d-mL_sHRw9K7pHrE",
-        "Luz lista#104 (jpg idx89) 1YlI9KMKVNC_ra8XYSF4_CMnHUlTLbGHn",
-        "Luz lista#84 (jpg idx69) 1wd7n8PqenCQEWhL0e8-0DIwM-xbdoRjB",
-        "Luz lista#60 (jpg idx45) 1-PfnZL9x4rwDujFsGZ6YhyiAeq7pQ9dO",
-        "Luz lista#143 (jpg idx128) 1hfs2nXa9EcZA4PHyV_uuZNPp8Yiw6Mxn",
-        "Luz lista#120 (jpg idx105) 1TqagILI6Mek5Qyd2vOY5dFQ9gwi6REuz (solo FB/TT slide 2)"
-      ],
-      "videos": [
-        "Luz v8 1gSMxHqxHwOqkKJkcIU7HrZeEqKPBi-VT (0-6.2s, slide 2 IG)"
-      ],
-      "promo": "envío gratis desde $100.000 (Tiendanube sin promos activas)",
-      "metricool_id_ig": 422620923,
-      "metricool_uuid_ig": "-5731832051394001076",
-      "metricool_id_fb_tt": 422621037,
-      "metricool_uuid_fb_tt": "4749411871096523793",
-      "evaluado": false,
-      "hecho_por": "tarea nocturna 09/11"
-    }
-  ],
-  "instrucciones_martin": [
-    "06/11/2026 (Martín): La carpeta C:\\IA de la notebook de Martín ahora se sincroniza con Google Drive (cuenta martinmiguelrecio@gmail.com): carpeta 'IA' id 1WVSXPgyM3d_FfUAj59kBmBZ1f--0mwXR (subcarpetas Niko, Via Lola, Veo360, Balances locales). Ahí están las sesiones de fotos de Via Lola (C:\\IA\\Via Lola, ~630 JPG) y los banners/fotos de Niko: usalas como fuente de fotos. NO uses ni publiques nada de 'Balances locales' ni de 'Veo360'.",
-    "07/11/2026 (Martín): desactivó la tarea vieja de carruseles. Via Lola arranca desde hoy (07/11) con carrusel diario. Sesión Candela Jofre todavía sin subir."
-  ],
-  "referentes": {
-    "fecha": "2026-11-08",
-    "rickysarkany": "Carruseles editoriales de UN producto (nombre del modelo + 'la elegida para este verano'), fotos de modelo + detalle de producto + clips de video mezclados en el mismo carrusel, poco texto sobre la imagen, promo en el copy. Comentarios piden 'precio'.",
-    "ganga.home": "Ganchos con texto grande en cajas de color sobre la imagen: 'NECESITAMOS QUE NOS DIGAN SÍ O NO', 'Depende de ustedes, los leo', 'Comentá si querés que lo subamos a la web', 'DESLIZÁ, te cuento todo', 'POV:', 'Al fin llegó el día de contarles que…', 'Y bueno… salió ofertita'. Piden opinión/voto → miles de comentarios. Tono cercano, mayúsculas y emojis.",
-    "rickysarkany_ult": "04/11 lanzó cápsula SARKANY x ZAIRA (reel 26.6K plays con Ricky + influencer mostrando 2 colores, 'los zapatos definitivos para este verano'); Cyber con unboxings de influencers. Reel top reciente: close-up de zapato en exterior (108K).",
-    "ganga.home_ult": "08/11 cierre de GANGA SALE: muchos reels 'ÚLTIMAS HORAS', 'OFERTITA FLASH', cupón 'SETERMINA', texto blanco/rojo en cajas rojas. Sus récords siguen siendo 'COMENTÁ SI QUERÉS QUE LO SUBAMOS A LA WEB' (7.3M)."
+  {
+   "fecha_publicacion": "2026-11-08",
+   "hora": "20:45",
+   "marca": "vialola",
+   "formato": "Votación 1-2-3-4 'Necesitamos que nos ayudes' (gancho Ganga Home) + carrusel mixto foto/video (estilo Sarkany)",
+   "tendencia": "sandalias verano: negra con hebilla, bordada con piedras, blanca básica, cuña cruzada",
+   "gancho": "NECESITAMOS QUE NOS AYUDES ¿Cuál es LA sandalia de este verano?",
+   "fotos": [
+    "Luz Pintor: IMG idx 61 (portada), 66, 13, 111, 55, 21, 64, 6",
+    "video Luz 1QH-mHIWmFKB1pm4P2e-7U7EgTiNKGiQg (slide 4 en IG)"
+   ],
+   "promo": "envío gratis desde $100.000",
+   "metricool_id_ig": 420363990,
+   "metricool_uuid_ig": "1490909047596859460",
+   "metricool_id_fb_tt": 420364030,
+   "metricool_uuid_fb_tt": "-6278253107885748589",
+   "evaluado": false,
+   "hecho_por": "chat con Martín 07/11"
   },
-  "nota_indices": "Luz: 'lista#N' = posición en embeddedfolderview (0-14 videos); 'jpg idxN' = N-15. Usar fileIds como referencia."
+  {
+   "fecha_publicacion": "2026-11-07",
+   "hora": "23:15",
+   "marca": "vialola",
+   "formato": "LA elegida de este verano (un modelo, estilo Sarkany) + carrusel mixto foto/video",
+   "tendencia": "sandalias plataforma verano",
+   "gancho": "LA ELEGIDA de este verano / ¿La sumás a tu verano? Comentá SÍ o NO",
+   "fotos": [
+    "Lali Castellano: 1Ieft5KCB02Tu7cUjhN4v6s9iNn6oXE0U (portada, idx33)",
+    "1MdAjfzlv1tYaxXRPcslTWt58x7oRLvmW (idx35)",
+    "1NoYxsjZ3Y0UJLx4ErxU7x8qEoCGCTYUo (idx30)",
+    "1KsomvtkGrQRoZcCLlCiDgeCtu_RQbQfZ (idx32)",
+    "video Lali 1HSaCxAF_lxW0S_72jmFZzruXQElwMDAz (0-7s slide 2 IG; frame 9s en FB/TT)"
+   ],
+   "promo": "envío gratis desde $100.000",
+   "metricool_id_ig": 420400385,
+   "metricool_uuid_ig": "1489922192079735640",
+   "metricool_id_fb_tt": 420400395,
+   "metricool_uuid_fb_tt": "67489602181089018",
+   "evaluado": true,
+   "hecho_por": "chat con Martín 07/11 noche (pidió subir Via Lola desde hoy)",
+   "resultado": {
+    "fecha_eval": "2026-11-10",
+    "ig_alcance": 267,
+    "ig_interacciones": 6,
+    "comentarios": 0,
+    "guardados": 2,
+    "compartidos": 0,
+    "mediana_vialola_ig_alcance": 900,
+    "cyber_ref": "Un par para cada plan 1775 / 5 sandalias 5287",
+    "veredicto": "FLOJO",
+    "nota": "salió 02:16 (hora mala). Ojo: los carruseles nuestros 08-09/11 también vienen bajos (314 y 53 al día 1) vs ~550-1400 de los posts de la agencia publicados 15-19h"
+   }
+  },
+  {
+   "fecha_publicacion": "2026-11-09",
+   "hora": "20:45",
+   "marca": "vialola",
+   "formato": "3 looks / Armá tu look (sandalia negra) + voto 1-2-3 + guardado; carrusel mixto foto/video",
+   "tendencia": "outlier '1 prenda, 3 combinaciones' (pame.manzano 65x); calor/ola de calor; post-Cyber",
+   "gancho": "3 LOOKS DE VERANO con sandalia negra / ¿Cuál te robás? Comentá 1, 2 o 3 / GUARDALO",
+   "fotos": [
+    "Luz Pintor idx82 1EWwj9wte6xoit2Y5smtO_wPnDK0XCtKJ (portada)",
+    "idx62 1s9y2zNjUQkzUBY7t7wsn6Yif8XAjzuKo (solo FB/TT)",
+    "idx77 1QNf_yu8Ju7H8Qbre9PbnQUmeTBuCAB4v (solo FB/TT)",
+    "idx63 1HyBXjgv5r1JsZey8DnOQdcIlhVbktqkT",
+    "idx69 1wd7n8PqenCQEWhL0e8-0DIwM-xbdoRjB"
+   ],
+   "videos": [
+    "Luz v4 1hcdXX9BSoWNiOVknLCRL28FO3Nk3DIRA (0.3-7.3s, slide 2 IG)",
+    "Luz v13 1Oesxx-ne3-VZhw408Wl1l4YXV9l5TJNN (0-7s, slide 3 IG)"
+   ],
+   "promo": "envío gratis desde $100.000 (Cyber Lola terminó 8/11; Tiendanube sin promos activas)",
+   "metricool_id_ig": 421271282,
+   "metricool_uuid_ig": "-244545176425837387",
+   "metricool_id_fb_tt": 421271303,
+   "metricool_uuid_fb_tt": "4172006664500694272",
+   "evaluado": false,
+   "hecho_por": "tarea nocturna 08/11"
+  },
+  {
+   "fecha_publicacion": "2026-11-09",
+   "hora": "20:00",
+   "marca": "niko",
+   "formato": "POV + Top 5 (una sandalia por plan) + comentá del 1 al 5 + guardado",
+   "tendencia": "calor / ola de calor anticipada; POV muy usado en TikTok AR",
+   "gancho": "POV: llegó el calor y no tenés sandalias",
+   "fotos": [
+    "Lali 1P_dMqnRGhWUpc-BCVKWoQ56Z93AVQuB9 WA0073 (portada)",
+    "1Kk7gjbiSay64T-_DuoICCbB0nR48NV2m WA0035",
+    "1dOLJkwX94bMLj4F4xCQu1PWFq1ZXZRRg WA0043",
+    "1d5voU3E6zz9CiyJYaYggatAhrkGWyeOP WA0106",
+    "10MUcDn_Q5y-vMBOKBTQXRBCx_ZKQ_4hS WA0101",
+    "1zdbPqT0lyDK8UNJrRaJiN5dlxlUyMsdB WA0116"
+   ],
+   "promo": "envío gratis desde $100.000 + locales San Juan y San Luis",
+   "metricool_id": 421271332,
+   "metricool_uuid": "7077084320102370056",
+   "evaluado": false,
+   "hecho_por": "tarea nocturna 08/11"
+  },
+  {
+   "fecha_publicacion": "2026-11-10",
+   "hora": "20:45",
+   "marca": "vialola",
+   "formato": "Depende de ustedes: ¿blanca o negra? (mismo modelo jaula plataforma en 2 colores, voto en comentarios) + carrusel mixto foto/video",
+   "tendencia": "post-Cyber, contenido de voto/opinión estilo Ganga; calor; sin promos activas en Tiendanube",
+   "gancho": "DEPENDE DE USTEDES ¿BLANCA O NEGRA? / Comentá BLANCA O NEGRA",
+   "fotos": [
+    "Luz lista#131 (jpg idx116) 1psWnZHfNIR4Iidt-e005Q0FiojLmbFFp (portada izq)",
+    "Luz lista#106 (jpg idx91) 1nCYaD2L-LpagROILOAU_XIF07SKfSvqC (portada der)",
+    "Luz lista#127 (jpg idx112) 1sgo0xwvjPQ0pKgC8d-mL_sHRw9K7pHrE",
+    "Luz lista#104 (jpg idx89) 1YlI9KMKVNC_ra8XYSF4_CMnHUlTLbGHn",
+    "Luz lista#84 (jpg idx69) 1wd7n8PqenCQEWhL0e8-0DIwM-xbdoRjB",
+    "Luz lista#60 (jpg idx45) 1-PfnZL9x4rwDujFsGZ6YhyiAeq7pQ9dO",
+    "Luz lista#143 (jpg idx128) 1hfs2nXa9EcZA4PHyV_uuZNPp8Yiw6Mxn",
+    "Luz lista#120 (jpg idx105) 1TqagILI6Mek5Qyd2vOY5dFQ9gwi6REuz (solo FB/TT slide 2)"
+   ],
+   "videos": [
+    "Luz v8 1gSMxHqxHwOqkKJkcIU7HrZeEqKPBi-VT (0-6.2s, slide 2 IG)"
+   ],
+   "promo": "envío gratis desde $100.000 (Tiendanube sin promos activas)",
+   "metricool_id_ig": 422620923,
+   "metricool_uuid_ig": "-5731832051394001076",
+   "metricool_id_fb_tt": 422621037,
+   "metricool_uuid_fb_tt": "4749411871096523793",
+   "evaluado": false,
+   "hecho_por": "tarea nocturna 09/11"
+  },
+  {
+   "fecha_publicacion": "2026-11-11",
+   "hora": "20:45",
+   "marca": "vialola",
+   "formato": "¿Te las comprarías? SÍ o NO (pregunta directa estilo Ganga) + un solo modelo editorial estilo Sarkany; carrusel mixto foto/video",
+   "tendencia": "outlier Ganga 'Te comprarías…?' (213 coment.) + reels de un producto en close-up",
+   "gancho": "NECESITAMOS SABER ¿TE LAS COMPRARÍAS? SÍ o NO · te leemos",
+   "modelo": "sandalia nude calada con base baja (sesión Luz, look animal print + chaleco jean)",
+   "fotos": [
+    "Luz lista#142 1QU9g_5uWv26ocB1Ls16ULzpyQR-R52Og (portada)",
+    "Luz lista#117 1W01BRlmaSp1wjr4h58O4HP5dNpzf1_iG",
+    "Luz lista#152 1FGnjjO7RVb32i6nC6IuOXXIbylDqp7KT",
+    "Luz lista#150 1NcAnAAHgpGtkxkoMI8F6xe-fzO7lWcWE",
+    "Luz lista#154 1ZC14eQIv21et1KeZLYa78HSVqJZtoPPF"
+   ],
+   "videos": [
+    "Luz v7 1tzN6tJpN5UNg5kOnsvvoXT7ZJ7t5Cdwb (0.5-7.5s, slide 2 IG; frame 2s en FB/TT)"
+   ],
+   "promo": "envío gratis desde $100.000 (sin promos activas)",
+   "evaluado": false,
+   "hecho_por": "tarea nocturna 10/11"
+  },
+  {
+   "fecha_publicacion": "2026-11-11",
+   "hora": "20:00",
+   "marca": "niko",
+   "formato": "Test '¿Qué estilo de sandalia sos?' A-B-C-D (clásica / brillo / canchera / veraniega) + comentá tu letra + guardado",
+   "tendencia": "tests/preguntas directas (Ganga); revisita del formato Cyber '¿Qué estilo sos?'",
+   "gancho": "TEST ¿QUÉ ESTILO DE SANDALIA SOS? A, B, C o D · comentá tu letra",
+   "fotos": [
+    "Lali WA0090 1lZRUUT-kmBNOWXAgKSLtHP5pRaGyPloF (portada)",
+    "WA0120 1fWGKn2mCKCIG7iUP9MBD_OkrlpLCixBW",
+    "WA0080(1) 1U81RPdinYCkyejHwdU5b-G5D3VUyKGB8",
+    "WA0111(1) 1-LIO7xCAqEnw5Ek-MB7WVJMZsuH3Pfgk",
+    "WA0099 1vj31H52vlzmW0Y7-EWjL9p4y5v5xd19g",
+    "WA0117 1YHV2hOrJRjyuh4ccddXIKoqUYPRMmxfX",
+    "WA0122 1Dz3TLxbeyYaHxH0BJbvLWkltUKl5nqFt"
+   ],
+   "promo": "envío gratis desde $100.000 + locales San Juan y San Luis",
+   "evaluado": false,
+   "hecho_por": "tarea nocturna 10/11"
+  }
+ ],
+ "instrucciones_martin": [
+  "06/11/2026 (Martín): La carpeta C:\\IA de la notebook de Martín ahora se sincroniza con Google Drive (cuenta martinmiguelrecio@gmail.com): carpeta 'IA' id 1WVSXPgyM3d_FfUAj59kBmBZ1f--0mwXR (subcarpetas Niko, Via Lola, Veo360, Balances locales). Ahí están las sesiones de fotos de Via Lola (C:\\IA\\Via Lola, ~630 JPG) y los banners/fotos de Niko: usalas como fuente de fotos. NO uses ni publiques nada de 'Balances locales' ni de 'Veo360'.",
+  "07/11/2026 (Martín): desactivó la tarea vieja de carruseles. Via Lola arranca desde hoy (07/11) con carrusel diario. Sesión Candela Jofre todavía sin subir."
+ ],
+ "referentes": {
+  "fecha": "2026-11-10",
+  "rickysarkany": "Carruseles editoriales de UN producto (nombre del modelo + 'la elegida para este verano'), fotos de modelo + detalle de producto + clips de video mezclados en el mismo carrusel, poco texto sobre la imagen, promo en el copy. Comentarios piden 'precio'.",
+  "ganga.home": "Ganchos con texto grande en cajas de color sobre la imagen: 'NECESITAMOS QUE NOS DIGAN SÍ O NO', 'Depende de ustedes, los leo', 'Comentá si querés que lo subamos a la web', 'DESLIZÁ, te cuento todo', 'POV:', 'Al fin llegó el día de contarles que…', 'Y bueno… salió ofertita'. Piden opinión/voto → miles de comentarios. Tono cercano, mayúsculas y emojis.",
+  "rickysarkany_ult": "Sin reels nuevos desde 04/11 (cápsula SARKANY x ZAIRA, 28K). Su mejor reciente sigue siendo close-up de zapato en exterior (109K).",
+  "ganga.home_ult": "09-10/11 post-sale: preguntas directas al público -> muchos comentarios: 'Te comprarías soportes para huevos?' (184K, 213 coment.), 'Dejame en comentarios qué opinás y si los comprarías' (162K, 138), 'Comentá si querés que sigamos…' (376K, 186). Producto + precio en el texto, 'MEGA TENDENCIA'."
+ },
+ "nota_indices": "Luz: 'lista#N' = posición en embeddedfolderview (0-14 videos); 'jpg idxN' = N-15. Usar fileIds como referencia."
 }
