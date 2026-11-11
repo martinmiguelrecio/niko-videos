@@ -184,7 +184,12 @@
    ],
    "promo": "envío gratis desde $100.000 (sin promos activas)",
    "evaluado": false,
-   "hecho_por": "tarea nocturna 10/11"
+   "hecho_por": "tarea nocturna 10/11",
+   "metricool_id_ig": 423901618,
+   "metricool_uuid_ig": "-8672930153776985203",
+   "metricool_id_fb_tt": 423901642,
+   "metricool_uuid_fb_tt": "-6968084765912445054",
+   "nota": "ese día hay además un borrador (draft) de producto 'VLV 483' 20:30 cargado por otro proceso; no lo tocamos"
   },
   {
    "fecha_publicacion": "2026-11-11",
@@ -204,7 +209,9 @@
    ],
    "promo": "envío gratis desde $100.000 + locales San Juan y San Luis",
    "evaluado": false,
-   "hecho_por": "tarea nocturna 10/11"
+   "hecho_por": "tarea nocturna 10/11",
+   "metricool_id": 423901653,
+   "metricool_uuid": "-8902113312848261863"
   }
  ],
  "instrucciones_martin": [
