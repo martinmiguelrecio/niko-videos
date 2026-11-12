@@ -52,8 +52,20 @@
    "metricool_uuid_ig": "1490909047596859460",
    "metricool_id_fb_tt": 420364030,
    "metricool_uuid_fb_tt": "-6278253107885748589",
-   "evaluado": false,
-   "hecho_por": "chat con Martín 07/11"
+   "evaluado": true,
+   "hecho_por": "chat con Martín 07/11",
+   "resultado": {
+    "fecha_eval": "2026-11-11",
+    "ig_alcance": 331,
+    "ig_interacciones": 9,
+    "comentarios": 0,
+    "guardados": 0,
+    "compartidos": 0,
+    "mediana_vialola_ig_alcance": 623,
+    "cyber_ref": "Un par para cada plan 1813 / 5 sandalias 5356",
+    "veredicto": "FLOJO",
+    "nota": "0.53x mediana. Patrón: nuestros carruseles nocturnos 08-10/11 (331/81/115) rinden 3-7x menos que los posts de la agencia del mismo día (16-20h: 854/231) y no generan comentarios pese al pedido. Probable canibalización (2 posts el mismo día) + horario."
+   }
   },
   {
    "fecha_publicacion": "2026-11-07",
@@ -212,6 +224,34 @@
    "hecho_por": "tarea nocturna 10/11",
    "metricool_id": 423901653,
    "metricool_uuid": "-8902113312848261863"
+  },
+  {
+   "fecha_publicacion": "2026-11-12",
+   "hora": "20:45",
+   "marca": "vialola",
+   "formato": "POV + 'un par para cada plan' en 5 situaciones (trabajo / pile-after / caminar / noche / brillar) + comentá 1-5 + guardado; carrusel mixto foto/video",
+   "tendencia": "primeros 30° de la temporada (pronóstico semana); POV estilo Ganga",
+   "gancho": "POV: ARRANCAN LOS 30° Y TU PLACARD SIGUE EN MODO INVIERNO / ¿Con cuál salís este finde? Comentá 1-5",
+   "fotos": [
+    "Luz lista#88 1NzUo4XBm7SrZ7_-SvfBH8Pmn5swlmo6V (portada)",
+    "Luz lista#134 1fe3_TrB-_i_rpXknDL3Lp7ANsy4E16da",
+    "Luz lista#126 1SLqR3Dmny5KGYxghia6fpUhSaPPk0JhT",
+    "Luz lista#145 1pd4bknSjwPSURwMYuYlX-c8TvcE0T3LL",
+    "Luz lista#137 1QSg3FcCZiLhw44O4A1Y9ZoT-IHqQ4RUn (solo FB/TT slide 5)",
+    "Luz lista#113 1Zu7XBmno-cpN-KEgpO4IMw_y8mrDI5YZ (solo FB/TT slide 6)",
+    "Luz lista#94 1WmQ_NAf7Ol-HgfBxMHjbgYK-p8HYRT7D (cierre)"
+   ],
+   "videos": [
+    "Luz v2 1fx4V0KinLqYg6FVshdzBHE-s1msxs0lE (0.5-7.5s, slide 5 IG)",
+    "Luz v5 1uM-dVIfEXGLZSdtHQH80MQ_QRhdrWFm2 (0.5-7.5s, slide 6 IG)"
+   ],
+   "promo": "envío gratis desde $100.000 (no se pudo leer vialola.com.ar; sin promo confirmada)",
+   "evaluado": false,
+   "hecho_por": "tarea nocturna 11/11",
+   "metricool_id_ig": 425168108,
+   "metricool_uuid_ig": "-7120100461829208253",
+   "metricool_id_fb_tt": 425168124,
+   "metricool_uuid_fb_tt": "-6129893493190602855"
   }
  ],
  "instrucciones_martin": [
