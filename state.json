@@ -146,7 +146,8 @@
   "Serie Pocito del 27/10 (archivos 20261027_*): ya editada como niko1_pocito_cyber pero NUNCA publicada; habla de Cyber Monday mini 'dura una semana' desde el 27/10 -> verificar vigencia o recortar sin la promo.",
   "20261026_220715.mp4: sorteo de una texana por Cyber Monday; no usar salvo que Martín confirme que sigue activo.",
   "20261026_220356.mp4 tramo 66-160 s: gag de '5000 likes y las bajo al 50%'; no usar (promesa).",
-  "11/11: carpeta 'POR EL PAIS' (owner hola@gokreativa.com, ~20 videos Tinogasta/La Rioja) y 'Viaje norte' (20261109_152120, no accesible por link) no usados; pedir a Martin si son para las cuentas de prueba."
+  "11/11: carpeta 'POR EL PAIS' (owner hola@gokreativa.com, ~20 videos Tinogasta/La Rioja) y 'Viaje norte' (20261109_152120, no accesible por link) no usados; pedir a Martin si son para las cuentas de prueba.",
+  "12/11: scheduling para 12/11 20:30 ART (carpeta videos/2026-11-12b). Sin whisper (faster_whisper no instalado): crudos con voz (Niko 3 20261111_125602) no usados."
  ],
  "posts": [
   {
@@ -1005,6 +1006,100 @@
    "musica": "vidiq cumbia/trap original",
    "evaluado": false,
    "nota": "Carpeta se llama 2026-11-12 pero se publica el 11/11 (ART)."
+  },
+  {
+   "fecha": "2026-11-12T20:30-03:00",
+   "plataforma": "metricool",
+   "cuenta": "7799818",
+   "id": "425171568",
+   "archivo_final": "videos/2026-11-12b/nikoar_deposito.mp4",
+   "origen": "crudo VID_20261111_171245 (19sWE_hwpL4yTEAfaswrHr5T1nVdu72sl) 0-22s",
+   "local_origen": "Niko 2 Rocky (carpeta mauricastro)",
+   "tipo": "recorrida/deposito",
+   "gancho": "ASI ES EL DEPOSITO DE NIKO",
+   "musica": "vidiq reggaeton-lite / cumbia-electronica original",
+   "evaluado": false,
+   "uuid": "5278543899558300488"
+  },
+  {
+   "fecha": "2026-11-12T20:30-03:00",
+   "plataforma": "metricool",
+   "cuenta": "7788943",
+   "id": "425171581",
+   "archivo_final": "videos/2026-11-12b/niko6_cuantas_cajas.mp4",
+   "origen": "crudo VID_20261111_193900 (1hgHnmirQW5lcwvKNCwtwk9B2kfoqkzPn) 0-30s",
+   "local_origen": "Niko 2 Rocky (carpeta mauricastro)",
+   "tipo": "recorrida/deposito",
+   "gancho": "CUANTAS CAJAS HAY ACA",
+   "musica": "vidiq reggaeton-lite / cumbia-electronica original",
+   "evaluado": false,
+   "uuid": "8108362083491991514"
+  },
+  {
+   "fecha": "2026-11-12T20:30-03:00",
+   "plataforma": "metricool",
+   "cuenta": "7798880",
+   "id": "425171596",
+   "archivo_final": "videos/2026-11-12b/niko5_pedido_sale.mp4",
+   "origen": "crudo VID-20261111-WA0016 (1L4SuqFhxxLRQDvHDENYD4G_TwMtgjqmX) 0-14.5s",
+   "local_origen": "desconocido",
+   "tipo": "producto/envios",
+   "gancho": "TU PEDIDO SALE DESDE ACA",
+   "musica": "vidiq reggaeton-lite / cumbia-electronica original",
+   "evaluado": false,
+   "uuid": "3379955407768012217"
+  },
+  {
+   "fecha": "2026-11-12T20:30-03:00",
+   "plataforma": "nuelink",
+   "cuenta": "325777 (col 109587)",
+   "id": "5311001",
+   "archivo_final": "videos/2026-11-12b/corp_trabajar_en_niko.mp4",
+   "origen": "crudos WA0184+WA0185 (19p--jRCQD6bSZleofcKlllEbe04kcSWv, 1VRi_HESFGOP13l2jIp_yDByLtVkQo23J)",
+   "local_origen": "desconocido",
+   "tipo": "humor/deposito",
+   "gancho": "TRABAJAR EN NIKO ES ASI",
+   "musica": "vidiq reggaeton-lite / cumbia-electronica original",
+   "evaluado": false
+  },
+  {
+   "fecha": "2026-11-12T20:30-03:00",
+   "plataforma": "nuelink",
+   "cuenta": "325785 (col 109607)",
+   "id": "5311002",
+   "archivo_final": "videos/2026-11-12b/nuelink109607_caja.mp4",
+   "origen": "crudos Niko 3 VID-20261110-WA0062+WA0063 (1UqBCawq1qHO4bcmU1zmCBtEei_38kKl2, 1nDpQ7AQ7dRebUMJDDjBdZ5D4IH-Csi78)",
+   "local_origen": "Niko 3",
+   "tipo": "recorrida/ambiente",
+   "gancho": "ATENCION EN LA CAJA",
+   "musica": "vidiq reggaeton-lite / cumbia-electronica original",
+   "evaluado": false
+  },
+  {
+   "fecha": "2026-11-12T20:30-03:00",
+   "plataforma": "nuelink",
+   "cuenta": "325823 (col 109608)",
+   "id": "5311003",
+   "archivo_final": "videos/2026-11-12b/nuelink109608_atencion.mp4",
+   "origen": "crudo Niko 3 VID-20261110-WA0060 (1bxUxDM53IKcRDjhsb0nRoGNym4AAYxmv) 0-30s",
+   "local_origen": "Niko 3",
+   "tipo": "recorrida/ambiente",
+   "gancho": "ASI SE ATIENDE EN NIKO",
+   "musica": "vidiq reggaeton-lite / cumbia-electronica original",
+   "evaluado": false
+  },
+  {
+   "fecha": "2026-11-12T20:30-03:00",
+   "plataforma": "nuelink",
+   "cuenta": "325831 (col 109616)",
+   "id": "5311005",
+   "archivo_final": "videos/2026-11-12b/nuelink109616_local.mp4",
+   "origen": "crudo Niko 3 VID-20261110-WA0064 (17VMsIqlpFNhPKibHxxxBSX8s7LaSi845)",
+   "local_origen": "Niko 3",
+   "tipo": "recorrida/ambiente",
+   "gancho": "ASI SE VIVE EL LOCAL",
+   "musica": "vidiq reggaeton-lite / cumbia-electronica original",
+   "evaluado": false
   }
  ],
  "trends": {
@@ -1014,7 +1109,8 @@
   "2026-11-06b": "WebSearch sin datos utiles de AR (resultados viejos). Se aplico gancho de texto 3 s, reencuadre, cierre niko.ar. Nota: 11-07 ya tenia posts programados; se completo domingo 11-08.",
   "2026-11-08": "Sin investigacion nueva (ahorro de uso); se uso tendencia de carruseles/state.json: close-ups de producto + 'X looks'. Musica original latin urban pop. Nuelink: ningun post >=3 dias llega a 1000 vistas (max 542), sin virales.",
   "2026-11-10": "Sin investigacion nueva (ahorro). Metricool 7 dias: lo que mas rinde son charlas/humor de vendedores y promos de local; producto solo ~80-150 vistas. Nuelink: max 542.",
-  "2026-11-11": "WebSearch sin datos utiles de TikTok AR calzado (ahorro). Se uso: gancho texto rojo 3s, cierre local/liquidacion, musica original cumbia-trap / tropical house, test A-B-C-D en slideshow. Nuelink: ninguno >=3 dias supera 585 vistas (max charla Mati/infancia fabrica); sin virales."
+  "2026-11-11": "WebSearch sin datos utiles de TikTok AR calzado (ahorro). Se uso: gancho texto rojo 3s, cierre local/liquidacion, musica original cumbia-trap / tropical house, test A-B-C-D en slideshow. Nuelink: ninguno >=3 dias supera 585 vistas (max charla Mati/infancia fabrica); sin virales.",
+  "2026-11-12": "Sin investigacion nueva (ahorro). Videos mudos con musica original y gancho de texto 3s, cierre niko.ar. Nuelink 8-9/11: max 526 vistas, sin virales, sin FAILED. Pendientes sin usar: Niko 3 125602 (vendedor hablando, sin whisper en el entorno), 20261111_*, carpetas 20261110_* en 1ApfGZ..., POR EL PAIS."
  },
  "carpetas_locales": {
   "Niko 1": "1JqOiITCP-pgDfyrXAB7lAWA0G1ykQeAI",
@@ -1167,6 +1263,11 @@
   "2026-11-11": [
    {
     "nota": "Nuelink 6-8/11: max 585 vistas (nuelink 325785 historia fabrica), 515 (IA Mati), 499 viajante. Sin VIRAL/PROMETEDOR nuevos; charlas/historias de Martin rinden mejor que producto. Sin FAILED."
+   }
+  ],
+  "2026-11-12": [
+   {
+    "nota": "Nuelink 8-9/11 max 526 vistas (SJ-SL-MZA, humor sin edicion); sin VIRAL/PROMETEDOR nuevos; sin FAILED."
    }
   ]
  }
