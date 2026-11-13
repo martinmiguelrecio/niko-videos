@@ -147,7 +147,8 @@
   "20261026_220715.mp4: sorteo de una texana por Cyber Monday; no usar salvo que Martín confirme que sigue activo.",
   "20261026_220356.mp4 tramo 66-160 s: gag de '5000 likes y las bajo al 50%'; no usar (promesa).",
   "11/11: carpeta 'POR EL PAIS' (owner hola@gokreativa.com, ~20 videos Tinogasta/La Rioja) y 'Viaje norte' (20261109_152120, no accesible por link) no usados; pedir a Martin si son para las cuentas de prueba.",
-  "12/11: scheduling para 12/11 20:30 ART (carpeta videos/2026-11-12b). Sin whisper (faster_whisper no instalado): crudos con voz (Niko 3 20261111_125602) no usados."
+  "12/11: scheduling para 12/11 20:30 ART (carpeta videos/2026-11-12b). Sin whisper (faster_whisper no instalado): crudos con voz (Niko 3 20261111_125602) no usados.",
+  "13/11: whisper no puede bajar el modelo (HF 403 por proxy); crudos con voz sin usar. Viaje norte parte 1 usada; falta 20261109_152120 (voz) y partes 2+ (10/11)."
  ],
  "posts": [
   {
@@ -1100,6 +1101,100 @@
    "gancho": "ASI SE VIVE EL LOCAL",
    "musica": "vidiq reggaeton-lite / cumbia-electronica original",
    "evaluado": false
+  },
+  {
+   "fecha": "2026-11-13T20:30-03:00",
+   "plataforma": "metricool",
+   "cuenta": "7799818",
+   "id": "426453709",
+   "archivo_final": "videos/2026-11-13/nikoar_parte1.mp4",
+   "origen": "serie Viaje al norte parte 1: 20261109_182537(b) 0-35s, 20261109_182644(c) 0-25s, 20261109_182910(d) 0-34s (ruta/parque eolico; sin voz)",
+   "local_origen": "Viaje norte (Martin)",
+   "tipo": "viaje/serie",
+   "gancho": "VIAJE AL NORTE",
+   "musica": "vidiq tropical-house-cumbia / latin trap original",
+   "evaluado": false,
+   "uuid": "2497525560983241596"
+  },
+  {
+   "fecha": "2026-11-13T20:30-03:00",
+   "plataforma": "metricool",
+   "cuenta": "7788943",
+   "id": "426453731",
+   "archivo_final": "videos/2026-11-13/niko6_parte1.mp4",
+   "origen": "serie Viaje al norte parte 1: 20261109_182537(b) 0-35s, 20261109_182644(c) 0-25s, 20261109_182910(d) 0-34s (ruta/parque eolico; sin voz)",
+   "local_origen": "Viaje norte (Martin)",
+   "tipo": "viaje/serie",
+   "gancho": "SALIMOS RUMBO AL NORTE",
+   "musica": "vidiq tropical-house-cumbia / latin trap original",
+   "evaluado": false,
+   "uuid": "5015412250035767116"
+  },
+  {
+   "fecha": "2026-11-13T20:30-03:00",
+   "plataforma": "metricool",
+   "cuenta": "7798880",
+   "id": "426453746",
+   "archivo_final": "videos/2026-11-13/niko5_parte1.mp4",
+   "origen": "serie Viaje al norte parte 1: 20261109_182537(b) 0-35s, 20261109_182644(c) 0-25s, 20261109_182910(d) 0-34s (ruta/parque eolico; sin voz)",
+   "local_origen": "Viaje norte (Martin)",
+   "tipo": "viaje/serie",
+   "gancho": "¿A DONDE VAMOS?",
+   "musica": "vidiq tropical-house-cumbia / latin trap original",
+   "evaluado": false,
+   "uuid": "-8561853233455018879"
+  },
+  {
+   "fecha": "2026-11-13T20:30-03:00",
+   "plataforma": "nuelink",
+   "cuenta": "325777 (col 109587)",
+   "id": "5319993",
+   "archivo_final": "videos/2026-11-13/corp_parte1.mp4",
+   "origen": "serie Viaje al norte parte 1: 20261109_182537(b) 0-35s, 20261109_182644(c) 0-25s, 20261109_182910(d) 0-34s (ruta/parque eolico; sin voz)",
+   "local_origen": "Viaje norte (Martin)",
+   "tipo": "viaje/serie",
+   "gancho": "LA RUTA NOS ESPERA",
+   "musica": "vidiq tropical-house-cumbia / latin trap original",
+   "evaluado": false
+  },
+  {
+   "fecha": "2026-11-13T20:30-03:00",
+   "plataforma": "nuelink",
+   "cuenta": "325785 (col 109607)",
+   "id": "5319994",
+   "archivo_final": "videos/2026-11-13/n109607_parte1.mp4",
+   "origen": "serie Viaje al norte parte 1: 20261109_182537(b) 0-35s, 20261109_182644(c) 0-25s, 20261109_182910(d) 0-34s (ruta/parque eolico; sin voz)",
+   "local_origen": "Viaje norte (Martin)",
+   "tipo": "viaje/serie",
+   "gancho": "ARRANCO EL VIAJE",
+   "musica": "vidiq tropical-house-cumbia / latin trap original",
+   "evaluado": false
+  },
+  {
+   "fecha": "2026-11-13T20:30-03:00",
+   "plataforma": "nuelink",
+   "cuenta": "325823 (col 109608)",
+   "id": "5319995",
+   "archivo_final": "videos/2026-11-13/n109608_parte1.mp4",
+   "origen": "serie Viaje al norte parte 1: 20261109_182537(b) 0-35s, 20261109_182644(c) 0-25s, 20261109_182910(d) 0-34s (ruta/parque eolico; sin voz)",
+   "local_origen": "Viaje norte (Martin)",
+   "tipo": "viaje/serie",
+   "gancho": "MIRA DONDE ESTAMOS",
+   "musica": "vidiq tropical-house-cumbia / latin trap original",
+   "evaluado": false
+  },
+  {
+   "fecha": "2026-11-13T20:30-03:00",
+   "plataforma": "nuelink",
+   "cuenta": "325831 (col 109616)",
+   "id": "5319996",
+   "archivo_final": "videos/2026-11-13/n109616_parte1.mp4",
+   "origen": "serie Viaje al norte parte 1: 20261109_182537(b) 0-35s, 20261109_182644(c) 0-25s, 20261109_182910(d) 0-34s (ruta/parque eolico; sin voz)",
+   "local_origen": "Viaje norte (Martin)",
+   "tipo": "viaje/serie",
+   "gancho": "RUMBO AL NORTE",
+   "musica": "vidiq tropical-house-cumbia / latin trap original",
+   "evaluado": false
   }
  ],
  "trends": {
@@ -1110,7 +1205,8 @@
   "2026-11-08": "Sin investigacion nueva (ahorro de uso); se uso tendencia de carruseles/state.json: close-ups de producto + 'X looks'. Musica original latin urban pop. Nuelink: ningun post >=3 dias llega a 1000 vistas (max 542), sin virales.",
   "2026-11-10": "Sin investigacion nueva (ahorro). Metricool 7 dias: lo que mas rinde son charlas/humor de vendedores y promos de local; producto solo ~80-150 vistas. Nuelink: max 542.",
   "2026-11-11": "WebSearch sin datos utiles de TikTok AR calzado (ahorro). Se uso: gancho texto rojo 3s, cierre local/liquidacion, musica original cumbia-trap / tropical house, test A-B-C-D en slideshow. Nuelink: ninguno >=3 dias supera 585 vistas (max charla Mati/infancia fabrica); sin virales.",
-  "2026-11-12": "Sin investigacion nueva (ahorro). Videos mudos con musica original y gancho de texto 3s, cierre niko.ar. Nuelink 8-9/11: max 526 vistas, sin virales, sin FAILED. Pendientes sin usar: Niko 3 125602 (vendedor hablando, sin whisper en el entorno), 20261111_*, carpetas 20261110_* en 1ApfGZ..., POR EL PAIS."
+  "2026-11-12": "Sin investigacion nueva (ahorro). Videos mudos con musica original y gancho de texto 3s, cierre niko.ar. Nuelink 8-9/11: max 526 vistas, sin virales, sin FAILED. Pendientes sin usar: Niko 3 125602 (vendedor hablando, sin whisper en el entorno), 20261111_*, carpetas 20261110_* en 1ApfGZ..., POR EL PAIS.",
+  "2026-11-13": "Sin investigacion nueva (ahorro). Serie Viaje al norte Parte 1 en las 7 cuentas: 3 clips de ruta, versiones con otro gancho/orden/zoom/color/musica; texto 3s + cierre 'seguinos para la parte 2'."
  },
  "carpetas_locales": {
   "Niko 1": "1JqOiITCP-pgDfyrXAB7lAWA0G1ykQeAI",
@@ -1271,6 +1367,27 @@
    {
     "nota": "Nuelink 8-9/11 max 526 vistas (SJ-SL-MZA, humor sin edicion); sin VIRAL/PROMETEDOR nuevos; sin FAILED."
    }
+  ],
+  "2026-11-13": [
+   {
+    "nota": "Nuelink 9/11: max 540 vistas (109608 humor sin edicion); sin VIRAL/PROMETEDOR; sin FAILED. Metricool no evaluado esta corrida."
+   }
   ]
+ },
+ "serie_viaje_norte": {
+  "parte_1": {
+   "fecha": "2026-11-13",
+   "archivos": "serie Viaje al norte parte 1: 20261109_182537(b) 0-35s, 20261109_182644(c) 0-25s, 20261109_182910(d) 0-34s (ruta/parque eolico; sin voz)",
+   "nota": "a.mp4 (20261109_152120, 117s, gente hablando) NO usado: sin whisper (modelo HF bloqueado por proxy) no se pudo verificar contenido.",
+   "posts": [
+    "426453709",
+    "426453731",
+    "426453746",
+    "5319993",
+    "5319994",
+    "5319995",
+    "5319996"
+   ]
+  }
  }
 }
