@@ -1,8 +1,9 @@
 {
  "tendencias_semana": {
-  "fecha": "2026-11-10",
-  "nota": "Outliers AR/LatAm (vidIQ 27/10-10/11): reels de UN producto con close-up + voz ('Amooo son una locura' plataformas 103x, 'El zapatito Roxy que TODAS amamos' 11x, Crocs Dylan plataforma 8x, botines 9.5x); '1 prenda, 3 combinaciones' (65x); TikTok: 'No es lo mismo esto...' transformación de outfit 11x. Sin promos activas en Tiendanube (niko.ar). Calor/verano.",
-  "que_hacer": "Ganchos de pregunta directa con SÍ/NO ('¿Te las comprarías?'), tests ('¿Qué estilo sos?'), un solo producto con close-up. Via Lola: nuestros carruseles vienen con poco alcance (267/314) vs posts de la agencia; probar el gancho de pregunta tipo Ganga y revisar horario si sigue flojo."
+  "fecha": "2026-11-12",
+  "nota": "Outliers AR/LatAm 03-12/11 (vidIQ): '@maria.antonia.bags Tips para elegir el calzado según tus jeans' 55x (guía útil, guardable); '@indulac1 plataformas negras close-up + voz' 53x; Crocs Dylan plataforma 7.7x; TikTok 'No es lo mismo esto...' transformación 21x. Patrón: producto en uso en close-up y contenido ÚTIL (qué usar con qué). Tiendanube sin promos activas. Calor/verano.",
+  "que_hacer": "Más guías útiles (según pantalón / según plan / según altura de taco) y preguntas SÍ/NO directas; menos votos numéricos (1-2-3/1-5 dan 0 comentarios). Via Lola desde 13/11 con diseño nuevo (portada editorial + franja fina + TALLE por DM). Nuestros carruseles: 11/11 '¿Te las comprarías? SÍ o NO' 459 al día 1 (le ganó al post de la agencia del día, 395): primer indicio de que la pregunta SÍ/NO funciona.",
+  "datos_nuestros": "VL mediana IG alcance 20/10-12/11: 719. Niko: 2044."
  },
  "posts": [
   {
@@ -124,8 +125,20 @@
    "metricool_uuid_ig": "-244545176425837387",
    "metricool_id_fb_tt": 421271303,
    "metricool_uuid_fb_tt": "4172006664500694272",
-   "evaluado": false,
-   "hecho_por": "tarea nocturna 08/11"
+   "evaluado": true,
+   "hecho_por": "tarea nocturna 08/11",
+   "resultado": {
+    "fecha_eval": "2026-11-12",
+    "ig_alcance": 92,
+    "ig_interacciones": 6,
+    "comentarios": 0,
+    "guardados": 0,
+    "compartidos": 0,
+    "mediana_vialola_ig_alcance": 719,
+    "cyber_ref": "Un par para cada plan 1855 / 5 sandalias 5369",
+    "veredicto": "FLOJO",
+    "nota": "0.13x mediana; el post de la agencia del mismo día (19:19, flecos) hizo 906. Diseño viejo con bloque de color + voto 1-2-3 no funciona."
+   }
   },
   {
    "fecha_publicacion": "2026-11-09",
@@ -145,8 +158,20 @@
    "promo": "envío gratis desde $100.000 + locales San Juan y San Luis",
    "metricool_id": 421271332,
    "metricool_uuid": "7077084320102370056",
-   "evaluado": false,
-   "hecho_por": "tarea nocturna 08/11"
+   "evaluado": true,
+   "hecho_por": "tarea nocturna 08/11",
+   "resultado": {
+    "fecha_eval": "2026-11-12",
+    "ig_alcance": 1652,
+    "ig_interacciones": 9,
+    "comentarios": 0,
+    "guardados": 0,
+    "compartidos": 0,
+    "mediana_niko_ig_alcance": 2044.0,
+    "cyber_ref": "¿Qué estilo sos? 3345 / Hacé la cuenta 3572",
+    "veredicto": "NORMAL",
+    "nota": "0.81x mediana, 0 comentarios pese a pedir 1-5 (los pedidos de número no generan comentarios)"
+   }
   },
   {
    "fecha_publicacion": "2026-11-10",
@@ -252,6 +277,60 @@
    "metricool_uuid_ig": "-7120100461829208253",
    "metricool_id_fb_tt": 425168124,
    "metricool_uuid_fb_tt": "-6129893493190602855"
+  },
+  {
+   "fecha_publicacion": "2026-11-13",
+   "hora": "20:45",
+   "marca": "vialola",
+   "formato": "Guía 'La sandalia según tu pantalón' (5 pantalones → 5 sandalias) con DISEÑO NUEVO aprobado 12/11: portada editorial foto completa + franja fina, texto mínimo, CTA 'Comentá tu TALLE y te pasamos el link por DM'; carrusel mixto foto/video. Sin precio (no se pudo confirmar modelo/precio de cada foto).",
+   "tendencia": "outlier AR 55x '@maria.antonia.bags: tips para elegir el calzado según tus jeans' (contenido útil/guardable)",
+   "gancho": "LA SANDALIA SEGÚN TU PANTALÓN · guía de verano · deslizá » / ¿Cuál es tu pantalón del verano? Comentá tu TALLE",
+   "fotos": [
+    "Lali 019 1dnnp-3rHRqBuDKt-BbSvIfpryrsy9N9h (portada)",
+    "Lali 002 1AqH9Wfsir0-Q0r8apygZITU-S1Ytyqkl (solo FB/TT slide 2)",
+    "Lali 042 15m05h4bsMXsBoir2GF9FGI-jnwqFMCoE (solo FB/TT slide 3)",
+    "Lali 060 1Krj7ewjmgJITNRThZoR-L3y0p3YSwy47",
+    "Lali 062 1OZ6qN4pZcepQdUQF9GpzbnycXitMFwWy",
+    "Lali 032 1NoYxsjZ3Y0UJLx4ErxU7x8qEoCGCTYUo",
+    "Lali 049 10MUcDn_Q5y-vMBOKBTQXRBCx_ZKQ_4hS (cierre)"
+   ],
+   "videos": [
+    "Lali VID-20261030-WA0176 1RaQ_hiI7iNVCfwI6GKt0p-Ay-TQljqQU (1-8s, slide 2 IG, jean)",
+    "Lali VID-20261030-WA0179 1EjCME-h2GTXK8xLHQrMDNkMuYZfgeUWQ (4.5-11.5s, slide 3 IG, palazzo)"
+   ],
+   "promo": "envío gratis desde $100.000 (Tiendanube sin promos activas; vialola.com.ar no se pudo leer)",
+   "collaborators": "no (sesión Lali, sin confirmar indumentaria @desdeelalmasj)",
+   "evaluado": false,
+   "hecho_por": "tarea nocturna 12/11",
+   "metricool_id_ig": 426446093,
+   "metricool_uuid_ig": "5510870999410493571",
+   "metricool_id_fb_tt": 426446106,
+   "metricool_uuid_fb_tt": "-7093421338455227943",
+   "url_base": "https://github.com/martinmiguelrecio/niko-videos/raw/main/carruseles/2026-11-13/vialola/"
+  },
+  {
+   "fecha_publicacion": "2026-11-13",
+   "hora": "20:00",
+   "marca": "niko",
+   "formato": "¿SÍ o NO? por par (5 sandalias, una por slide, voto en comentarios estilo Ganga) + TALLE por DM",
+   "tendencia": "Ganga Home: preguntas directas SÍ/NO = más comentarios; nuestro mejor VL reciente fue '¿Te las comprarías? SÍ o NO' (459 vs 395 agencia)",
+   "gancho": "¿SÍ O NO? 5 sandalias de verano · votá cada una",
+   "fotos": [
+    "Lali 068 1YhdIn0QTTEsacnK4m96nGAEuIG0MPBoa (portada)",
+    "Lali 028 1zzsy_emX7d9Y0Qq5EYwmPcJ84lOlZmIH",
+    "Lali 045 1R9zgpX-Oaqgut_8PxOjn4vExQRQtLwFL",
+    "Lali 070 10W6Ic5lpbLJO2S9KwvnF9982ExAqlprt",
+    "Lali 004 1sv3_GoNYi26RCnh5426OueHT5jy9bMw5",
+    "Lali 041 1Z0C_xOfz5wFlfR5f66y6_m9FXw_tzuYK",
+    "Lali 071 1XDXMAWKAYAwiOJccI72HymNVx2bgqWS9 (cierre)"
+   ],
+   "videos": [],
+   "promo": "envío gratis desde $100.000 + locales San Juan y San Luis",
+   "evaluado": false,
+   "hecho_por": "tarea nocturna 12/11",
+   "metricool_id": 426446123,
+   "metricool_uuid": "-6038113152323992858",
+   "url_base": "https://github.com/martinmiguelrecio/niko-videos/raw/main/carruseles/2026-11-13/niko/"
   }
  ],
  "instrucciones_martin": [
@@ -260,11 +339,11 @@
   "12/11/2026 (Martín aprobó probar TODO esto en Via Lola desde el carrusel del 13/11; el del 12/11 queda como control con el diseño viejo). Evaluar a los 3 días vs control y vs posts de la agencia: (1) PORTADA EDITORIAL: mejor foto de modelo a pantalla completa, sin bloque de color grande; sólo 3-5 palabras en una franja fina abajo (o arriba si tapa producto). Slides internas igual: foto protagonista, texto mínimo en franja. (2) PRECIO + NOMBRE DEL MODELO en cada slide de producto (sacarlos de Tiendanube/vialola.com.ar; si no se pueden confirmar, no poner precio). (3) CTA con respuesta útil: 'Comentá TALLE y te pasamos el link por DM' (en vez de 'comentá 1-5'). (4) Agregar a @desdeelalmasj como colaborador en instagramData.collaborators (sólo cuando la ropa que se ve es de ellos / sesiones con indumentaria @desdeelalmasj). (5) No competir con la agencia: antes de programar, getScheduledPosts del día; si hay post de la agencia (no draft) a la tarde-noche, programar el nuestro a las 12:30; si no hay, 20:45. Seguir publicando todos los días; no frenar."
  ],
  "referentes": {
-  "fecha": "2026-11-10",
+  "fecha": "2026-11-12",
   "rickysarkany": "Carruseles editoriales de UN producto (nombre del modelo + 'la elegida para este verano'), fotos de modelo + detalle de producto + clips de video mezclados en el mismo carrusel, poco texto sobre la imagen, promo en el copy. Comentarios piden 'precio'.",
   "ganga.home": "Ganchos con texto grande en cajas de color sobre la imagen: 'NECESITAMOS QUE NOS DIGAN SÍ O NO', 'Depende de ustedes, los leo', 'Comentá si querés que lo subamos a la web', 'DESLIZÁ, te cuento todo', 'POV:', 'Al fin llegó el día de contarles que…', 'Y bueno… salió ofertita'. Piden opinión/voto → miles de comentarios. Tono cercano, mayúsculas y emojis.",
-  "rickysarkany_ult": "Sin reels nuevos desde 04/11 (cápsula SARKANY x ZAIRA, 28K). Su mejor reciente sigue siendo close-up de zapato en exterior (109K).",
-  "ganga.home_ult": "09-10/11 post-sale: preguntas directas al público -> muchos comentarios: 'Te comprarías soportes para huevos?' (184K, 213 coment.), 'Dejame en comentarios qué opinás y si los comprarías' (162K, 138), 'Comentá si querés que sigamos…' (376K, 186). Producto + precio en el texto, 'MEGA TENDENCIA'."
+  "rickysarkany_ult": "Sin reels nuevos desde 04/11 (SARKANY x ZAIRA 28.9K). Mejor reciente sigue siendo close-up de zapato en exterior (110K, 22/10).",
+  "ganga.home_ult": "12/11: todo a evento en local (reinauguración, 1000 árboles de regalo) con cajas rojas de texto; mejor: 'Juego toalla + toallón $37.990' producto+precio en caja roja (174K); 'Que opinan?' (55K, 42 coment.). Siguen: precio grande en el texto + pregunta corta."
  },
  "nota_indices": "Luz: 'lista#N' = posición en embeddedfolderview (0-14 videos); 'jpg idxN' = N-15. Usar fileIds como referencia."
 }
