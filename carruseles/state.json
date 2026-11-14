@@ -198,8 +198,20 @@
    "metricool_uuid_ig": "-5731832051394001076",
    "metricool_id_fb_tt": 422621037,
    "metricool_uuid_fb_tt": "4749411871096523793",
-   "evaluado": false,
-   "hecho_por": "tarea nocturna 09/11"
+   "evaluado": true,
+   "hecho_por": "tarea nocturna 09/11",
+   "resultado": {
+    "fecha_eval": "2026-11-13",
+    "ig_alcance": 205,
+    "ig_interacciones": 6,
+    "comentarios": 0,
+    "guardados": 1,
+    "compartidos": 0,
+    "mediana_vialola_ig_alcance": 719,
+    "cyber_ref": "Un par para cada plan 1855 / 5 sandalias 5369",
+    "veredicto": "FLOJO",
+    "nota": "0.29x mediana; post agencia mismo día 441. El voto BLANCA/NEGRA (2 opciones de color) no generó comentarios. Dato extra: 11/11 SÍ/NO ya va 806 (1.1x mediana, agencia del día 503) → el SÍ/NO de un solo modelo es lo que mejor anda."
+   }
   },
   {
    "fecha_publicacion": "2026-11-11",
@@ -331,6 +343,31 @@
    "metricool_id": 426446123,
    "metricool_uuid": "-6038113152323992858",
    "url_base": "https://github.com/martinmiguelrecio/niko-videos/raw/main/carruseles/2026-11-13/niko/"
+  },
+  {
+   "fecha_publicacion": "2026-11-14",
+   "hora": "20:45",
+   "marca": "vialola",
+   "formato": "NECESITAMOS SABER ¿SÍ O NO? sobre UN solo modelo (sandalia charol negra taco cuadrado) recorrido editorial estilo Sarkany: portada modelo → video → producto → cómo usarla → detalle → look completo → cierre TALLE por DM; diseño nuevo (franja fina); carrusel mixto foto/video. Sin precio (modelo no identificado en Tiendanube).",
+   "tendencia": "11/11 '¿Te las comprarías? SÍ o NO' 806 (mejor de los nuestros en la semana); Ganga 'NECESITAMOS QUE NOS DIGAN SÍ O NO'; sábado de calor",
+   "gancho": "NECESITAMOS SABER: ¿SÍ O NO? · charol negro + taco cuadrado / ¿SÍ o NO? Comentá + tu TALLE",
+   "fotos": [
+    "Luz lista#153 1eII9bW3TlEiSz027gGJLLI8XkDoAo7HV (portada)",
+    "Luz lista#38 1P37Pl3VK8JXCZfkP21V1yFgg4xRTv6wJ (solo FB/TT slide 2)",
+    "Luz lista#41 1NIKlHcyOKNpLlRMQMfDvIHdKx4Yl1QwS",
+    "Luz lista#139 1f2g0tKF1Y_-71Zk6EupWa-qwEVfDqERq",
+    "Luz lista#40 18OVyydCLuLZJ9WxTwz9w4zEMgUmIT04j",
+    "Luz lista#135 1izawKP8zzDpnh4xhp8wMDny8bUbOIYew",
+    "Luz lista#99 1_AUUE1-NZBm0hII_xSUOxvjAb3cFMrhS (cierre)"
+   ],
+   "videos": [
+    "Luz v9 1b7g4EF2JZA_a9mdP9uogN1etvdL8qcqE (0-8s, slide 2 IG, encuadre completo sobre fondo desenfocado)"
+   ],
+   "promo": "envío gratis desde $100.000 (vialola.com.ar no se pudo leer; Tiendanube conectado es niko.ar: única promo Ámbar 50% hasta 15/11, es de Niko)",
+   "collaborators": "no",
+   "evaluado": false,
+   "hecho_por": "tarea nocturna 13/11",
+   "url_base": "https://github.com/martinmiguelrecio/niko-videos/raw/main/carruseles/2026-11-14/vialola/"
   }
  ],
  "instrucciones_martin": [
