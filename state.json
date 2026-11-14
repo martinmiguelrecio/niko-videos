@@ -1195,6 +1195,97 @@
    "gancho": "RUMBO AL NORTE",
    "musica": "vidiq tropical-house-cumbia / latin trap original",
    "evaluado": false
+  },
+  {
+   "fecha": "2026-11-15T20:30-03:00",
+   "plataforma": "metricool",
+   "cuenta": "7799818",
+   "id": "427661877",
+   "archivo_final": "videos/2026-11-15/nikoar_parte2.mp4",
+   "origen": "serie Viaje al norte parte 2: 20261110_085406 2-28s + 20261110_085201 0-12s (auto, voces; sin subtítulos: sin whisper)",
+   "local_origen": "Viaje norte (Martin)",
+   "tipo": "viaje/serie",
+   "gancho": "DIA 2 EN LA RUTA",
+   "musica": "audio original del auto",
+   "evaluado": false
+  },
+  {
+   "fecha": "2026-11-15T20:30-03:00",
+   "plataforma": "metricool",
+   "cuenta": "7788943",
+   "id": "427661894",
+   "archivo_final": "videos/2026-11-15/niko6_parte2.mp4",
+   "origen": "serie Viaje al norte parte 2: 20261110_085406 2-28s + 20261110_085201 0-12s (auto, voces; sin subtítulos: sin whisper)",
+   "local_origen": "Viaje norte (Martin)",
+   "tipo": "viaje/serie",
+   "gancho": "AMANECIMOS CANTANDO",
+   "musica": "audio original del auto",
+   "evaluado": false
+  },
+  {
+   "fecha": "2026-11-15T20:30-03:00",
+   "plataforma": "metricool",
+   "cuenta": "7798880",
+   "id": "427661910",
+   "archivo_final": "videos/2026-11-15/niko5_parte2.mp4",
+   "origen": "serie Viaje al norte parte 2: 20261110_085406 2-28s + 20261110_085201 0-12s (auto, voces; sin subtítulos: sin whisper)",
+   "local_origen": "Viaje norte (Martin)",
+   "tipo": "viaje/serie",
+   "gancho": "ASI ARRANCA EL DIA",
+   "musica": "audio original del auto",
+   "evaluado": false
+  },
+  {
+   "fecha": "2026-11-15T20:30-03:00",
+   "plataforma": "nuelink",
+   "cuenta": "325777 (col 109587)",
+   "id": "5328727",
+   "archivo_final": "videos/2026-11-15/corp_parte2.mp4",
+   "origen": "serie Viaje al norte parte 2: 20261110_085406 2-28s + 20261110_085201 0-12s (auto, voces; sin subtítulos: sin whisper)",
+   "local_origen": "Viaje norte (Martin)",
+   "tipo": "viaje/serie",
+   "gancho": "KILOMETROS Y MUSICA",
+   "musica": "audio original del auto",
+   "evaluado": false
+  },
+  {
+   "fecha": "2026-11-15T20:30-03:00",
+   "plataforma": "nuelink",
+   "cuenta": "325785 (col 109607)",
+   "id": "5328728",
+   "archivo_final": "videos/2026-11-15/n109607_parte2.mp4",
+   "origen": "serie Viaje al norte parte 2: 20261110_085406 2-28s + 20261110_085201 0-12s (auto, voces; sin subtítulos: sin whisper)",
+   "local_origen": "Viaje norte (Martin)",
+   "tipo": "viaje/serie",
+   "gancho": "ROAD TRIP NIKO",
+   "musica": "audio original del auto",
+   "evaluado": false
+  },
+  {
+   "fecha": "2026-11-15T20:30-03:00",
+   "plataforma": "nuelink",
+   "cuenta": "325823 (col 109608)",
+   "id": "5328729",
+   "archivo_final": "videos/2026-11-15/n109608_parte2.mp4",
+   "origen": "serie Viaje al norte parte 2: 20261110_085406 2-28s + 20261110_085201 0-12s (auto, voces; sin subtítulos: sin whisper)",
+   "local_origen": "Viaje norte (Martin)",
+   "tipo": "viaje/serie",
+   "gancho": "SEGUIMOS RUMBO AL NORTE",
+   "musica": "audio original del auto",
+   "evaluado": false
+  },
+  {
+   "fecha": "2026-11-15T20:30-03:00",
+   "plataforma": "nuelink",
+   "cuenta": "325831 (col 109616)",
+   "id": "5328730",
+   "archivo_final": "videos/2026-11-15/n109616_parte2.mp4",
+   "origen": "serie Viaje al norte parte 2: 20261110_085406 2-28s + 20261110_085201 0-12s (auto, voces; sin subtítulos: sin whisper)",
+   "local_origen": "Viaje norte (Martin)",
+   "tipo": "viaje/serie",
+   "gancho": "QUE VIAJE LOCO",
+   "musica": "audio original del auto",
+   "evaluado": false
   }
  ],
  "trends": {
@@ -1242,7 +1333,8 @@
    "nota": "Semana 9-14/11: no verificada en esta corrida (Drive sin conteo por local); ver cierre.",
    "Niko 2 Rocky": {
     "nota": "10/11: 5 videos nuevos en subcarpeta NIKO 2 10 / 11 (todos verticales, 13-27s) -> validos >=5 (conteo semanal completo sin verificar)"
-   }
+   },
+   "nota_14_11": "Cierre sábado NO verificado en esta corrida (sin acceso a conteo por createdTime)."
   }
  },
  "ig_marketing": {
@@ -1372,6 +1464,11 @@
    {
     "nota": "Nuelink 9/11: max 540 vistas (109608 humor sin edicion); sin VIRAL/PROMETEDOR; sin FAILED. Metricool no evaluado esta corrida."
    }
+  ],
+  "2026-11-14": [
+   {
+    "nota": "Nuelink 10-11/11 max 479 vistas (corp, mocasines). Sin VIRAL/PROMETEDOR; sin FAILED. Metricool no evaluado."
+   }
   ]
  },
  "serie_viaje_norte": {
@@ -1387,6 +1484,19 @@
     "5319994",
     "5319995",
     "5319996"
+   ]
+  },
+  "parte_2": {
+   "fecha": "2026-11-15",
+   "archivos": "serie Viaje al norte parte 2: 20261110_085406 2-28s + 20261110_085201 0-12s (auto, voces; sin subtítulos: sin whisper)",
+   "posts": [
+    "427661877",
+    "427661894",
+    "427661910",
+    "5328727",
+    "5328728",
+    "5328729",
+    "5328730"
    ]
   }
  }
