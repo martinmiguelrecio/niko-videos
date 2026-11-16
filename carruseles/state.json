@@ -307,12 +307,24 @@
         "Luz v5 1uM-dVIfEXGLZSdtHQH80MQ_QRhdrWFm2 (0.5-7.5s, slide 6 IG)"
       ],
       "promo": "envío gratis desde $100.000 (no se pudo leer vialola.com.ar; sin promo confirmada)",
-      "evaluado": false,
+      "evaluado": true,
       "hecho_por": "tarea nocturna 11/11",
       "metricool_id_ig": 425168108,
       "metricool_uuid_ig": "-7120100461829208253",
       "metricool_id_fb_tt": 425168124,
-      "metricool_uuid_fb_tt": "-6129893493190602855"
+      "metricool_uuid_fb_tt": "-6129893493190602855",
+      "resultado": {
+        "fecha_eval": "2026-11-15",
+        "ig_alcance": 398,
+        "ig_interacciones": 8,
+        "comentarios": 0,
+        "guardados": 2,
+        "compartidos": null,
+        "mediana_vialola_ig_alcance": 723,
+        "cyber_ref": "Un par para cada plan / 5 sandalias 5418",
+        "veredicto": "FLOJO",
+        "nota": "0.55x mediana (sólo IG). Patrón fuerte: nuestros carruseles 20:45 (07-14/11) mediana 253 vs posts de la tarde (agencia 12-17h) mediana 1008 = 4x. 13/11 y 14/11 (diseño nuevo) van 172 y 168 al día 1-2."
+      }
     },
     {
       "fecha_publicacion": "2026-11-13",
@@ -452,6 +464,36 @@
       "url_base": "https://github.com/martinmiguelrecio/niko-videos/raw/main/carruseles/2026-11-15/niko/",
       "metricool_id": 428510770,
       "metricool_uuid": "1207363037243329423"
+    },
+    {
+      "fecha_publicacion": "2026-11-16",
+      "hora": "20:45",
+      "marca": "vialola",
+      "formato": "ESTO vs ESTO: ¿CHATA O PLATAFORMA? guía útil alternando close-ups puestos (chata/plataforma) + pregunta 'team chata o team plataforma' + CTA TALLE por DM; diseño banda negra arriba + foto abajo; carrusel mixto foto/video. Sin precio.",
+      "tendencia": "close-up producto puesto + contenido útil/guardable (outliers 07-14/11); formato 'Esto vs esto' sin usar en VL",
+      "gancho": "¿CHATA O PLATAFORMA? deslizá, te cuento cuál conviene / ¿TEAM CHATA O TEAM PLATAFORMA? Comentá tu TALLE",
+      "fotos": [
+        "Luz lista#81 1HB4sef11Cq1bzkfWdYq1kLG5kkn2gwq6 (portada)",
+        "Luz lista#100 1BDgpirJqqjN70WenLviDJfjdDzw84ipo",
+        "Luz lista#129 12cOg0Zg1-a_FsIArW2pX6KJlx-Kp4E_b",
+        "Lali lista#18 1l1q6SUmlG6M3Tl9gSEVNRP9BRbom7HeY (solo FB/TT slide 4)",
+        "Luz lista#128 1Pa9RKRz3CIlScvzYdsWESljPUWc6DiiK",
+        "Luz lista#86 1yyueApYLE7otkxGA06zXSVQMYLWFIdh3",
+        "Luz lista#90 1mylE7sJfuTQ_2nC5fzF_dW-5uWL0rZ7I (cierre)"
+      ],
+      "videos": [
+        "Lali VID-20261030-WA0178 1ih3Lv9V08Dar1ZjON41xtvtzzm9ePqNu (3.5-10.5s, slide 4 IG, plataforma + conjunto blanco, encuadre completo sobre fondo desenfocado)"
+      ],
+      "promo": "envío gratis desde $100.000 (vialola.com.ar no devolvió contenido; sin promo confirmada)",
+      "collaborators": "no",
+      "evaluado": false,
+      "hecho_por": "tarea nocturna 15/11",
+      "url_base": "https://github.com/martinmiguelrecio/niko-videos/raw/main/carruseles/2026-11-16/vialola/",
+      "metricool_id_ig": 429484243,
+      "metricool_uuid_ig": "-8786896042855022025",
+      "metricool_id_fb_tt": 429484255,
+      "metricool_uuid_fb_tt": "-7825468621504229875",
+      "nota_agenda": "agencia: draft 'VLV 484 chatas' 20:30 (draft:true) → 20:45 según regla. Drive: videos de Luz con 'Quota exceeded' al bajar; fotos se bajan por drive.google.com/thumbnail?id=ID&sz=w1600 (resolución completa)."
     }
   ],
   "instrucciones_martin": [
