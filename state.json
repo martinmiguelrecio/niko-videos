@@ -1791,7 +1791,8 @@
     "12/11/2026 (Martín): SERIE 'VIAJE AL NORTE'. Carpeta de Drive 'Viaje norte' id 1ApfGZrXYdbjM3h1SIBp3-H7qax1qCZo4 (dentro de CONTENIDO REDES): ~25 videos + fotos del 09/11 15:21 al 10/11 18:42 (incluye 'Documento de Martin' .mov y dos archivos de 3.7 y 5.3 GB: bajá sólo tramos con ffmpeg -ss sobre la URL o curl -r). Armar episodios en ORDEN CRONOLÓGICO (por la fecha/hora del nombre del archivo), 1 episodio por día, 30-60 s, con texto 'Viaje al norte · Parte N' + gancho, voz/subtítulos si hay habla, cierre 'seguinos para la parte N+1'. Publicar cada episodio en TODAS las cuentas secundarias (las 3 de Metricool: 7799818, 7788943, 7798880 y los 4 canales de Nuelink: col 109587, 109607, 109608, 109616), cada cuenta con una versión distinta (otro gancho, otro orden/corte, leve reencuadre, otro caption) para que TikTok no lo tome como duplicado; ese día el episodio es el video de cada cuenta. Registrar en state.json serie_viaje_norte: {parte, archivos y segundos usados, posts}. Ya existe reels/reel_tinogasta.mp4 (10/11): no repetir esos tramos. La carpeta ya es pública (12/11): listar con embeddedfolderview y bajar con drive.usercontent.",
     "12/11/2026 (Martín): En el mensaje de cierre de cada noche, mandale el LINK de cada video editado (https://github.com/martinmiguelrecio/niko-videos/raw/main/<ruta>), uno por línea con la cuenta y el gancho, para que pueda ver las ediciones desde el celular.",
     "15/11/2026 (Martín, confirmado en el chat): META 44 VIDEOS POR DÍA = 4 por cuenta × 11 cuentas TikTok, a las 10:00, 13:15, 17:45 y 20:30 ART. Metricool 12 (Niko ar 7799818, Niko 6 7788943, Niko 5 7798880 × 4). Nuelink 32 (marca 36745, UTC = ART+3): los 8 canales × 4 → corp. 325777 (col. 109587), Niko calzados 325785 (col. 109607), SJ-SL-MZA 325823 (col. 109608), Martin 325831 (col. 109616), clips 327181, films 327401, reels 327402, capcut 327441 (a los que no tengan colección, creales una con solo ese canal y anotá el id acá). Esto reemplaza la 'meta de 60' del prompt. Material: prioridad Mica (1blbmM6CwsRIk-sGArYM_467bx8fRHDcU), incluida 06-11 con 44 videos crudos; sacá varios cortes distintos de cada video largo, nunca el mismo tramo en dos cuentas. Bajá cada archivo una sola vez (el 15/11 la cuota de descarga de Drive se agotó por muchos pedidos con seek remoto). Control: si la mediana de vistas por video de una cuenta cae >40% durante 3 días seguidos vs antes del 16/11, avisale a Martín y proponé bajar esa cuenta a 2 por día. En el cierre reportá Metricool X/12 y Nuelink Y/32.",
-    "15/11/2026 (Martín): las 4 cuentas nuevas de Nuelink (clips col 110393, films col 110478, reels col 110479, capcut col 110480) ya tienen 4 videos por día el 15/11 y el 16/11, con videos YA EDITADOS del repo (reuso, 32 posts registrados en posts con tipo 'reuso'). Para el 16/11 no edites para esas 4 cuentas: sólo completá las otras 7 (28 videos). Desde el 17/11, en las cuentas nuevas seguí priorizando REUSO de videos ya editados que esa cuenta no haya subido (sin promos vencidas: nada de Cyber, 2x50, 2x72, vuelta a clases) antes de editar nuevos."
+    "15/11/2026 (Martín): las 4 cuentas nuevas de Nuelink (clips col 110393, films col 110478, reels col 110479, capcut col 110480) ya tienen 4 videos por día el 15/11 y el 16/11, con videos YA EDITADOS del repo (reuso, 32 posts registrados en posts con tipo 'reuso'). Para el 16/11 no edites para esas 4 cuentas: sólo completá las otras 7 (28 videos). Desde el 17/11, en las cuentas nuevas seguí priorizando REUSO de videos ya editados que esa cuenta no haya subido (sin promos vencidas: nada de Cyber, 2x50, 2x72, vuelta a clases) antes de editar nuevos.",
+    "16/11/2026 (Martín): los videos de Mica > 'Editados Mica' SÍ se publican en las cuentas secundarias (esto REEMPLAZA la línea del prompt que dice 'No uses ... \"Editados Mica\" como fuente'; no se re-editan, se publican tal cual). Cada video en las 11 cuentas, tal cual vienen, en días distintos y con caption distinto por cuenta. Seguí la rotación y el registro de mica_editados (slot 13:15 desde el 17/11). Registrá cada post en mica_editados.videos[].publicado_en y en posts con tipo 'mica_editado'."
   ],
   "evaluaciones": {
     "2026-11-10": [
@@ -1885,5 +1886,86 @@
         "5328730"
       ]
     }
+  },
+  "mica_editados": {
+    "nota": "Videos YA EDITADOS por Mica (carpeta Mica > 'Editados Mica' 1lg_AsD6mP8qozuJ2KHmOqoebVFrXxz1C). Martín (16/11) pidió subirlos a las 11 cuentas secundarias: CADA video en TODAS las cuentas, se publican tal cual (no re-editar), en días distintos por cuenta, caption distinto en cada cuenta. Rotación: el día d (0 = 16/11) la cuenta a (índice en 'cuentas') publica videos[(a + d) % len(videos)]; así casi nunca hay el mismo archivo en dos cuentas el mismo día. Desde el 17/11 ocupa el slot de las 13:15 de cada cuenta (cuenta dentro de los 4 por día; ese día se editan 3 nuevos por cuenta). El 16/11 se cargaron como post extra a las 15:30. Cuando una cuenta ya publicó los 8, ese slot vuelve a material nuevo. Si Mica agrega videos nuevos a 'Editados Mica', sumalos al final de 'videos' (convertidos a 1080x1920 H.264, en videos/mica/) y repartilos igual. Descartado: 2026-11-09-155323693.mp4 'Extendimos el Cyber Monday' (Cyber vencido).",
+    "cuentas": [
+      "metricool 7799818 Niko ar",
+      "metricool 7788943 Niko 6",
+      "metricool 7798880 Niko 5",
+      "nuelink 325777 corp. (col 109587)",
+      "nuelink 325785 Niko calzados (col 109607)",
+      "nuelink 325823 SJ-SL-MZA (col 109608)",
+      "nuelink 325831 Martin (col 109616)",
+      "nuelink 327181 clips (col 110393)",
+      "nuelink 327401 films (col 110478)",
+      "nuelink 327402 reels (col 110479)",
+      "nuelink 327441 capcut (col 110480)"
+    ],
+    "videos": [
+      {
+        "fileId": "1N3o1_9jh87ylxvhwr47duFDRf-j-jWF6",
+        "archivo": "lv_0_20261108121308.mp4",
+        "gancho": "¿Trabajarán o no trabajarán?",
+        "repo": "videos/mica/mica_02_trabajaran.mp4",
+        "publicado_en": []
+      },
+      {
+        "fileId": "1oK52Lq0BG_TXXNGRnjBOnymJQCoWBHSQ",
+        "archivo": "lv_0_20261109012829.mp4",
+        "gancho": "Apoyando a nuestro equipo",
+        "repo": "videos/mica/mica_03_apoyando_equipo.mp4",
+        "publicado_en": []
+      },
+      {
+        "fileId": "1Tka1VI8UwGdElUDMEHf9yVcLubEukCMC",
+        "archivo": "lv_0_20261110143539.mp4",
+        "gancho": "Cuando tenés un jefe flexible",
+        "repo": "videos/mica/mica_04_jefe_flexible.mp4",
+        "publicado_en": []
+      },
+      {
+        "fileId": "1SGdW-dW51FDZW_L_8EomicRhaUAGXB9l",
+        "archivo": "lv_0_20261111234102.mp4",
+        "gancho": "Planeación del atraco",
+        "repo": "videos/mica/mica_05_atraco_1.mp4",
+        "publicado_en": []
+      },
+      {
+        "fileId": "1pW1O1yun9iQDZRiRPLaZD9SIxhd8ugfn",
+        "archivo": "lv_0_20261112170444.mp4",
+        "gancho": "El atraco · segunda parte",
+        "repo": "videos/mica/mica_06_atraco_2.mp4",
+        "publicado_en": []
+      },
+      {
+        "fileId": "1PPdOwZGtHO-CTgIeBJ1InsA2zwz7nYnH",
+        "archivo": "lv_0_20261113094436.mp4",
+        "gancho": "Locura de precios",
+        "repo": "videos/mica/mica_07_locura_precios.mp4",
+        "publicado_en": []
+      },
+      {
+        "fileId": "1aFKRO6brEjICViJyTNO2g6CpNz4x2CNw",
+        "archivo": "lv_0_20261114151219.mp4",
+        "gancho": "Novedades y reclamos",
+        "repo": "videos/mica/mica_08_novedades_reclamos.mp4",
+        "publicado_en": []
+      },
+      {
+        "fileId": "1yzeclrOksefMW2jnPQ8uSlQg6jjItW_j",
+        "archivo": "lv_0_20261115002723.mp4",
+        "gancho": "Buscando un nombre",
+        "repo": "videos/mica/mica_09_buscando_nombre.mp4",
+        "publicado_en": []
+      }
+    ],
+    "descartados": [
+      {
+        "fileId": "173Uzzrm7Tum2KJChoLxGGnSZ_hBoYqoO",
+        "archivo": "2026-11-09-155323693.mp4",
+        "motivo": "Extendimos el Cyber Monday: Cyber vencido"
+      }
+    ]
   }
 }
