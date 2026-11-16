@@ -1670,6 +1670,149 @@
       "gancho": "Lista para la fiesta 🎉",
       "musica": "la del video original",
       "evaluado": false
+    },
+    {
+      "fecha": "2026-11-16T18:30Z",
+      "plataforma": "metricool",
+      "cuenta": "metricool 7799818 Niko ar",
+      "id": "429535702",
+      "archivo_final": "videos/mica/mica_02_trabajaran.mp4",
+      "origen": "Editados Mica lv_0_20261108121308.mp4",
+      "tipo": "mica_editado",
+      "gancho": "¿Trabajarán o no trabajarán?",
+      "musica": "la del video original",
+      "evaluado": false,
+      "nota": "post extra 15:30 cargado a mano 16/11 (día 0 de la rotación)"
+    },
+    {
+      "fecha": "2026-11-16T18:30Z",
+      "plataforma": "metricool",
+      "cuenta": "metricool 7788943 Niko 6",
+      "id": "429535713",
+      "archivo_final": "videos/mica/mica_03_apoyando_equipo.mp4",
+      "origen": "Editados Mica lv_0_20261109012829.mp4",
+      "tipo": "mica_editado",
+      "gancho": "Apoyando a nuestro equipo",
+      "musica": "la del video original",
+      "evaluado": false,
+      "nota": "post extra 15:30 cargado a mano 16/11 (día 0 de la rotación)"
+    },
+    {
+      "fecha": "2026-11-16T18:30Z",
+      "plataforma": "metricool",
+      "cuenta": "metricool 7798880 Niko 5",
+      "id": "429535721",
+      "archivo_final": "videos/mica/mica_04_jefe_flexible.mp4",
+      "origen": "Editados Mica lv_0_20261110143539.mp4",
+      "tipo": "mica_editado",
+      "gancho": "Cuando tenés un jefe flexible",
+      "musica": "la del video original",
+      "evaluado": false,
+      "nota": "post extra 15:30 cargado a mano 16/11 (día 0 de la rotación)"
+    },
+    {
+      "fecha": "2026-11-16T18:30Z",
+      "plataforma": "nuelink",
+      "cuenta": "nuelink 325777 corp. (col 109587)",
+      "id": "5338738",
+      "archivo_final": "videos/mica/mica_05_atraco_1.mp4",
+      "origen": "Editados Mica lv_0_20261111234102.mp4",
+      "tipo": "mica_editado",
+      "gancho": "Planeación del atraco",
+      "musica": "la del video original",
+      "evaluado": false,
+      "nota": "post extra 15:30 cargado a mano 16/11 (día 0 de la rotación)"
+    },
+    {
+      "fecha": "2026-11-16T18:30Z",
+      "plataforma": "nuelink",
+      "cuenta": "nuelink 325785 Niko calzados (col 109607)",
+      "id": "5338739",
+      "archivo_final": "videos/mica/mica_06_atraco_2.mp4",
+      "origen": "Editados Mica lv_0_20261112170444.mp4",
+      "tipo": "mica_editado",
+      "gancho": "El atraco · segunda parte",
+      "musica": "la del video original",
+      "evaluado": false,
+      "nota": "post extra 15:30 cargado a mano 16/11 (día 0 de la rotación)"
+    },
+    {
+      "fecha": "2026-11-16T18:30Z",
+      "plataforma": "nuelink",
+      "cuenta": "nuelink 325823 SJ-SL-MZA (col 109608)",
+      "id": "5338740",
+      "archivo_final": "videos/mica/mica_07_locura_precios.mp4",
+      "origen": "Editados Mica lv_0_20261113094436.mp4",
+      "tipo": "mica_editado",
+      "gancho": "Locura de precios",
+      "musica": "la del video original",
+      "evaluado": false,
+      "nota": "post extra 15:30 cargado a mano 16/11 (día 0 de la rotación)"
+    },
+    {
+      "fecha": "2026-11-16T18:30Z",
+      "plataforma": "nuelink",
+      "cuenta": "nuelink 325831 Martin (col 109616)",
+      "id": "5338741",
+      "archivo_final": "videos/mica/mica_08_novedades_reclamos.mp4",
+      "origen": "Editados Mica lv_0_20261114151219.mp4",
+      "tipo": "mica_editado",
+      "gancho": "Novedades y reclamos",
+      "musica": "la del video original",
+      "evaluado": false,
+      "nota": "post extra 15:30 cargado a mano 16/11 (día 0 de la rotación)"
+    },
+    {
+      "fecha": "2026-11-16T18:30Z",
+      "plataforma": "nuelink",
+      "cuenta": "nuelink 327181 clips (col 110393)",
+      "id": "5338742",
+      "archivo_final": "videos/mica/mica_09_buscando_nombre.mp4",
+      "origen": "Editados Mica lv_0_20261115002723.mp4",
+      "tipo": "mica_editado",
+      "gancho": "Buscando un nombre",
+      "musica": "la del video original",
+      "evaluado": false,
+      "nota": "post extra 15:30 cargado a mano 16/11 (día 0 de la rotación)"
+    },
+    {
+      "fecha": "2026-11-16T18:30Z",
+      "plataforma": "nuelink",
+      "cuenta": "nuelink 327401 films (col 110478)",
+      "id": "5338744",
+      "archivo_final": "videos/mica/mica_02_trabajaran.mp4",
+      "origen": "Editados Mica lv_0_20261108121308.mp4",
+      "tipo": "mica_editado",
+      "gancho": "¿Trabajarán o no trabajarán?",
+      "musica": "la del video original",
+      "evaluado": false,
+      "nota": "post extra 15:30 cargado a mano 16/11 (día 0 de la rotación)"
+    },
+    {
+      "fecha": "2026-11-16T18:30Z",
+      "plataforma": "nuelink",
+      "cuenta": "nuelink 327402 reels (col 110479)",
+      "id": "5338745",
+      "archivo_final": "videos/mica/mica_03_apoyando_equipo.mp4",
+      "origen": "Editados Mica lv_0_20261109012829.mp4",
+      "tipo": "mica_editado",
+      "gancho": "Apoyando a nuestro equipo",
+      "musica": "la del video original",
+      "evaluado": false,
+      "nota": "post extra 15:30 cargado a mano 16/11 (día 0 de la rotación)"
+    },
+    {
+      "fecha": "2026-11-16T18:30Z",
+      "plataforma": "nuelink",
+      "cuenta": "nuelink 327441 capcut (col 110480)",
+      "id": "5338746",
+      "archivo_final": "videos/mica/mica_04_jefe_flexible.mp4",
+      "origen": "Editados Mica lv_0_20261110143539.mp4",
+      "tipo": "mica_editado",
+      "gancho": "Cuando tenés un jefe flexible",
+      "musica": "la del video original",
+      "evaluado": false,
+      "nota": "post extra 15:30 cargado a mano 16/11 (día 0 de la rotación)"
     }
   ],
   "trends": {
@@ -1908,56 +2051,130 @@
         "archivo": "lv_0_20261108121308.mp4",
         "gancho": "¿Trabajarán o no trabajarán?",
         "repo": "videos/mica/mica_02_trabajaran.mp4",
-        "publicado_en": []
+        "publicado_en": [
+          {
+            "fecha": "2026-11-16 15:30 ART",
+            "cuenta": "metricool 7799818 Niko ar",
+            "plataforma": "metricool",
+            "id": "429535702"
+          },
+          {
+            "fecha": "2026-11-16 15:30 ART",
+            "cuenta": "nuelink 327401 films (col 110478)",
+            "plataforma": "nuelink",
+            "id": "5338744"
+          }
+        ]
       },
       {
         "fileId": "1oK52Lq0BG_TXXNGRnjBOnymJQCoWBHSQ",
         "archivo": "lv_0_20261109012829.mp4",
         "gancho": "Apoyando a nuestro equipo",
         "repo": "videos/mica/mica_03_apoyando_equipo.mp4",
-        "publicado_en": []
+        "publicado_en": [
+          {
+            "fecha": "2026-11-16 15:30 ART",
+            "cuenta": "metricool 7788943 Niko 6",
+            "plataforma": "metricool",
+            "id": "429535713"
+          },
+          {
+            "fecha": "2026-11-16 15:30 ART",
+            "cuenta": "nuelink 327402 reels (col 110479)",
+            "plataforma": "nuelink",
+            "id": "5338745"
+          }
+        ]
       },
       {
         "fileId": "1Tka1VI8UwGdElUDMEHf9yVcLubEukCMC",
         "archivo": "lv_0_20261110143539.mp4",
         "gancho": "Cuando tenés un jefe flexible",
         "repo": "videos/mica/mica_04_jefe_flexible.mp4",
-        "publicado_en": []
+        "publicado_en": [
+          {
+            "fecha": "2026-11-16 15:30 ART",
+            "cuenta": "metricool 7798880 Niko 5",
+            "plataforma": "metricool",
+            "id": "429535721"
+          },
+          {
+            "fecha": "2026-11-16 15:30 ART",
+            "cuenta": "nuelink 327441 capcut (col 110480)",
+            "plataforma": "nuelink",
+            "id": "5338746"
+          }
+        ]
       },
       {
         "fileId": "1SGdW-dW51FDZW_L_8EomicRhaUAGXB9l",
         "archivo": "lv_0_20261111234102.mp4",
         "gancho": "Planeación del atraco",
         "repo": "videos/mica/mica_05_atraco_1.mp4",
-        "publicado_en": []
+        "publicado_en": [
+          {
+            "fecha": "2026-11-16 15:30 ART",
+            "cuenta": "nuelink 325777 corp. (col 109587)",
+            "plataforma": "nuelink",
+            "id": "5338738"
+          }
+        ]
       },
       {
         "fileId": "1pW1O1yun9iQDZRiRPLaZD9SIxhd8ugfn",
         "archivo": "lv_0_20261112170444.mp4",
         "gancho": "El atraco · segunda parte",
         "repo": "videos/mica/mica_06_atraco_2.mp4",
-        "publicado_en": []
+        "publicado_en": [
+          {
+            "fecha": "2026-11-16 15:30 ART",
+            "cuenta": "nuelink 325785 Niko calzados (col 109607)",
+            "plataforma": "nuelink",
+            "id": "5338739"
+          }
+        ]
       },
       {
         "fileId": "1PPdOwZGtHO-CTgIeBJ1InsA2zwz7nYnH",
         "archivo": "lv_0_20261113094436.mp4",
         "gancho": "Locura de precios",
         "repo": "videos/mica/mica_07_locura_precios.mp4",
-        "publicado_en": []
+        "publicado_en": [
+          {
+            "fecha": "2026-11-16 15:30 ART",
+            "cuenta": "nuelink 325823 SJ-SL-MZA (col 109608)",
+            "plataforma": "nuelink",
+            "id": "5338740"
+          }
+        ]
       },
       {
         "fileId": "1aFKRO6brEjICViJyTNO2g6CpNz4x2CNw",
         "archivo": "lv_0_20261114151219.mp4",
         "gancho": "Novedades y reclamos",
         "repo": "videos/mica/mica_08_novedades_reclamos.mp4",
-        "publicado_en": []
+        "publicado_en": [
+          {
+            "fecha": "2026-11-16 15:30 ART",
+            "cuenta": "nuelink 325831 Martin (col 109616)",
+            "plataforma": "nuelink",
+            "id": "5338741"
+          }
+        ]
       },
       {
         "fileId": "1yzeclrOksefMW2jnPQ8uSlQg6jjItW_j",
         "archivo": "lv_0_20261115002723.mp4",
         "gancho": "Buscando un nombre",
         "repo": "videos/mica/mica_09_buscando_nombre.mp4",
-        "publicado_en": []
+        "publicado_en": [
+          {
+            "fecha": "2026-11-16 15:30 ART",
+            "cuenta": "nuelink 327181 clips (col 110393)",
+            "plataforma": "nuelink",
+            "id": "5338742"
+          }
+        ]
       }
     ],
     "descartados": [
