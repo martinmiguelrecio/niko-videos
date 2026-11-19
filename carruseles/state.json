@@ -649,6 +649,78 @@
    "metricool_uuid": "-3725281883321316429",
    "metricool_fb_tt_id": 432260919,
    "metricool_fb_tt_uuid": "1291208535984524436"
+  },
+  {
+   "fecha_publicacion": "2026-11-19",
+   "hora": "20:45",
+   "marca": "vialola",
+   "formato": "TIPS ÚTILES '¿ES TU TALLE? 5 señales' (talón, dedos, tira, caminar, hebilla + tip probalas a la tarde), close-ups de producto puesto, guardable; CTA 'Comentá TALLE y te ayudamos a elegir por DM'; diseño banda negra arriba + foto entera con fondo desenfocado; carrusel mixto foto/video. Sin precio.",
+   "tendencia": "outlier @espaciomodach 'Cómo saber si el jean es tu talle' 61.5x (tip útil de talle AR); close-up puesta @indulac1 52.9x; guardados: el 14/11 tuvo 5",
+   "gancho": "¿ES TU TALLE? 5 señales para saber si la sandalia te queda bien · deslizá » / ¿DUDÁS ENTRE DOS TALLES? Comentá TALLE",
+   "fotos": [
+    "Luz lista#136 (portada, blanca taco)",
+    "Luz lista#140",
+    "Luz lista#39",
+    "Luz lista#144",
+    "Luz lista#70 (solo FB/TT slide 5)",
+    "Luz lista#124",
+    "Luz lista#148",
+    "Luz lista#151 (cierre)"
+   ],
+   "fotos_ids": {
+    "Luz lista#136": "1gPGRbNgPQzkQtNl-EIxEN0M4Gu2qURYY",
+    "Luz lista#140": "100MTUMysaxqWdxvTTcbgETuI0VRSstUV",
+    "Luz lista#39": "18sf96qGigAzFgzCLz--tsnvauyCxnWCT",
+    "Luz lista#144": "15BiIq3VKC6Oh6bn_tBRTRzCx9NxBS9Ne",
+    "Luz lista#70": "1CfLoaCsQOofn8ngoSzi67usuDaqqptHu",
+    "Luz lista#124": "10lo1G-5Y7pzPCyk4j72_Oh5ocpWAH9TL",
+    "Luz lista#148": "1eVNTEBtdhG1D-YvDheuVY7pTvl_AokYe",
+    "Luz lista#151": "13uyArJerET1yudeX4r2gR0nhgjlDF2uZ"
+   },
+   "videos": [
+    "Luz v0 1QH-mHIWmFKB1pm4P2e-7U7EgTiNKGiQg (3.0-9.5s, slide 5 IG, slide blanca puesta, encuadre completo sobre fondo desenfocado)"
+   ],
+   "promo": "envío gratis desde $100.000 (sin promos activas en Tiendanube)",
+   "evaluado": false,
+   "hecho_por": "tarea nocturna 18/11 (AR)",
+   "url_base": "https://github.com/martinmiguelrecio/niko-videos/raw/main/carruseles/2026-11-19/vialola/",
+   "metricool_id": 433652141,
+   "metricool_uuid": "-7720058061152107651",
+   "metricool_fb_tt_id": 433652310,
+   "metricool_fb_tt_uuid": "7285970583948313898"
+  },
+  {
+   "fecha_publicacion": "2026-11-19",
+   "hora": "20:00",
+   "marca": "niko",
+   "formato": "GUÍA 'UNA SANDALIA PARA CADA PLAN' (ofi, ciudad, finde, salir, vacaciones), 1 look por slide, guardable; CTA 'Comentá QUIERO: precio y link por DM'; diseño rojo con franja arriba + foto entera fondo desenfocado. Fotos sesión Luz (primera vez en Niko).",
+   "tendencia": "guía útil rinde mejor que votos en Niko (15/11 guía taco 1454 vs SÍ/NO 1251); palabra clave en comentarios",
+   "gancho": "UNA SANDALIA PARA CADA PLAN · ¿cuál es el tuyo? deslizá » / ¿CUÁL ES TU PLAN? Comentá QUIERO",
+   "fotos": [
+    "Luz lista#50 (portada)",
+    "Luz lista#132",
+    "Luz lista#108",
+    "Luz lista#61",
+    "Luz lista#57",
+    "Luz lista#30",
+    "Luz lista#55 (cierre)"
+   ],
+   "fotos_ids": {
+    "Luz lista#50": "1-qB2uPZCggimdA_PckAUOr3-8wX5oqiI",
+    "Luz lista#132": "1ukfCEKay-oSIyusF270AJmH1iidHvebg",
+    "Luz lista#108": "1Hh8gLU2vgwmE4PzP-G9DG_pyiwZkIinO",
+    "Luz lista#61": "1yR3P6G0DDWOvQSvrI6BHRcFbtUhlCR9I",
+    "Luz lista#57": "1svbcVgSS3jha6sySSZnSQYymO08YlOdN",
+    "Luz lista#30": "1-BPzwXB4rgNeuvqXRWaioK6R4nlnImYs",
+    "Luz lista#55": "1ARjCLfppwFN69wYQUj8IdZGnj2g__xLX"
+   },
+   "videos": [],
+   "promo": "envío gratis desde $100.000 + locales San Juan y San Luis",
+   "evaluado": false,
+   "hecho_por": "tarea nocturna 18/11 (AR)",
+   "url_base": "https://github.com/martinmiguelrecio/niko-videos/raw/main/carruseles/2026-11-19/niko/",
+   "metricool_id": 433652328,
+   "metricool_uuid": "4192316435426264689"
   }
  ],
  "instrucciones_martin": [
