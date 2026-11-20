@@ -546,14 +546,26 @@
    ],
    "promo": "envío gratis desde $100.000 (vialola.com.ar no devolvió contenido; sin promo confirmada)",
    "collaborators": "no",
-   "evaluado": false,
+   "evaluado": true,
    "hecho_por": "tarea nocturna 15/11",
    "url_base": "https://github.com/martinmiguelrecio/niko-videos/raw/main/carruseles/2026-11-16/vialola/",
    "metricool_id_ig": 429484243,
    "metricool_uuid_ig": "-8786896042855022025",
    "metricool_id_fb_tt": 429484255,
    "metricool_uuid_fb_tt": "-7825468621504229875",
-   "nota_agenda": "agencia: draft 'VLV 484 chatas' 20:30 (draft:true) → 20:45 según regla. Drive: videos de Luz con 'Quota exceeded' al bajar; fotos se bajan por drive.google.com/thumbnail?id=ID&sz=w1600 (resolución completa)."
+   "nota_agenda": "agencia: draft 'VLV 484 chatas' 20:30 (draft:true) → 20:45 según regla. Drive: videos de Luz con 'Quota exceeded' al bajar; fotos se bajan por drive.google.com/thumbnail?id=ID&sz=w1600 (resolución completa).",
+   "resultado": {
+    "fecha_eval": "2026-11-19",
+    "ig_alcance": 367,
+    "ig_interacciones": 13,
+    "comentarios": 0,
+    "guardados": 2,
+    "compartidos": null,
+    "mediana_vialola_ig_alcance": 678,
+    "veredicto": "FLOJO",
+    "cyber_ref": "Un par para cada plan 1586 / 5 sandalias 5432",
+    "nota": "0.54x mediana. Agencia mismo día 14:43 = 654. 17/11 combinaciones va 202 y 18/11 1 sandalia 3 looks 88 al día 1. Nuestros 20:45 siguen ~1/3 de los posts de la agencia a la tarde."
+   }
   },
   {
    "fecha_publicacion": "2026-11-17",
@@ -721,6 +733,33 @@
    "url_base": "https://github.com/martinmiguelrecio/niko-videos/raw/main/carruseles/2026-11-19/niko/",
    "metricool_id": 433652328,
    "metricool_uuid": "4192316435426264689"
+  },
+  {
+   "fecha_publicacion": "2026-11-20",
+   "hora": "20:45",
+   "marca": "vialola",
+   "formato": "LA ELEGIDA DEL FINDE: un solo modelo (sandalia negra tipo jaula, base blanca) estilo Sarkany con gancho POV + cierre ¿SÍ O NO? estilo Ganga (el SÍ/NO de un modelo tuvo 5 guardados el 14/11): portada modelo → video → producto → look jean → close-up puesta → cierre; diseño banda negra arriba + foto entera con fondo desenfocado; carrusel mixto foto/video. Sin precio.",
+   "tendencia": "un solo modelo = lo que mejor anda (agencia 14/11 2933; nuestro SÍ/NO 14/11 5 guardados); viernes → plan finde",
+   "gancho": "POV: ES VIERNES Y YA SABÉS QUÉ TE PONÉS / ¿SÍ O NO? Comentá LOLA y te pasamos el link por DM",
+   "fotos": [
+    "Luz 10sQYY84x9LasTF3k_Ly6N5fosSiGlC0Z (portada, jean + remera negra)",
+    "Luz 13Ii8TFg2DhoZENs6EDFSH5E0qFvzYfZx (producto)",
+    "Luz 1QZWTbSKSQ_J6acv3DrRwvgye2nMlnfDm (look jean; ya usada interna 17/11)",
+    "frames del video v14 (slide 5, cierre y FB/TT slide 2)"
+   ],
+   "videos": [
+    "Luz v14 1CWNST4jD7n1JBj8PHDl-Zx0YIbqEJbYx (2.0-9.0s, slide 2 IG, escalera → close-up jaula; crop 1080x1100 bajo la banda)"
+   ],
+   "promo": "envío gratis desde $100.000 (vialola.com.ar no se pudo leer; sin promo confirmada)",
+   "collaborators": "no",
+   "evaluado": false,
+   "hecho_por": "tarea nocturna 19/11 (AR)",
+   "url_base": "https://github.com/martinmiguelrecio/niko-videos/raw/main/carruseles/2026-11-20/vialola/",
+   "metricool_id": 435012251,
+   "metricool_uuid": "-6710402205810998156",
+   "metricool_fb_tt_id": 435012263,
+   "metricool_fb_tt_uuid": "-8652503699273792900",
+   "nota_agenda": "getScheduledPosts VL 20/11 vacío → 20:45. Ojo: 'lista#N' de notas viejas no coincide con el índice actual de embeddedfolderview (ej. lista#125 = índice 110); usar siempre fileIds. Modelo jaula negra con tiras lisas (133/v14) ≠ jaula con tira texturada (22/56)."
   }
  ],
  "instrucciones_martin": [
