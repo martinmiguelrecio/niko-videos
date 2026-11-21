@@ -1,9 +1,9 @@
 {
  "tendencias_semana": {
-  "fecha": "2026-11-18",
-  "nota": "Outliers AR/LatAm 10-18/11 (vidIQ): @indulac1 plataformas negras puestas close-up 893K (52.9x, sigue); @dinastiacompanytextil 'mismo pantalón en distintos looks' 341K (28.8x, 14/11); @espaciomodach 'Cómo saber si el jean es tu talle' 251K (61.5x, tip útil AR); @natalymendez 'Comenta RASHEL' 266K (14.6x); TikTok @itscandelarivera tendencias calzado PV 357K (11.1x, AR); @gabyratto97 Havaianas outfits 1.4M. Patrón: UN producto en uso + versatilidad/tips útiles + palabra clave. Tiendanube sin promos activas.",
-  "que_hacer": "Más carruseles de UN solo modelo (versatilidad: 1 sandalia/3 looks, cómo se ve puesta) y menos galerías de 5-6 pares (15/11 Qué opinan 207). Probar tips útiles tipo \"cómo elegir tu talle de sandalia\". Seguir CTA palabra clave LOLA/QUIERO. Horario: nuestros 20:45 mediana 346 vs agencia tarde 719 (14/11 13:52 = 2839) → sigue pendiente que Martín apruebe pasar a 12:30-15:00. Navidad/regalos desde ~25/11.",
-  "datos_nuestros": "VL mediana IG alcance 26/10-17/11: 674. Nuestros VL 20:45 mediana 346 (10 posts). Agencia VL tarde 13-16/11: 1768, 2839, 488. Niko mediana 1943; 15/11 guía taco 1454 (mejor de los nuestros desde el 09/11)."
+  "fecha": "2026-11-20",
+  "nota": "Outliers LatAm/AR 13-20/11 (vidIQ): @blishiii777 tips para combinar calzado con faldas/pantalones + 'comenta QUIERO' 178K (92.7x); @anatomiapink 'Reglas de moda: cuanto más corta la falda, más bajos los zapatos' 176K (16.4x, TikTok); @_manuelarr 'Formal sin tacones? tu que opinas?' 760K (14.4x); @dinastiacompanytextil mismo pantalón distintos looks 341K (28.8x); @itscandelarivera tendencias calzado PV 357K (11.1x, AR); @laruedaoutlet precio visible en la portada 118K (28.1x, AR). Patrón: educación/reglas de estilo + pregunta 'qué opinás' + palabra clave QUIERO/LINK. Tiendanube sin promos activas.",
+  "que_hacer": "Más guías útiles/reglas de estilo y UN tipo de producto (Niko: guía taco 15/11 terminó en 3827 = 1.96x mediana, el mejor nuestro). Menos galerías y votos 1-5 sin utilidad. Próximos a probar: 'Formal sin taco: sí se puede' (VL), 'Cuanto más corta la falda, más baja la sandalia'. Seguir palabra clave LOLA/QUIERO. Horario: nuestros VL 20:45 siguen en 139-403 (mediana ~250) vs agencia de día 689-1085 → sigue pendiente que Martín apruebe 12:30-15:00. Navidad/regalos desde ~25/11.",
+  "datos_nuestros": "VL mediana IG alcance 26/10-20/11: 689. Niko mediana 1953. VL 17/11 combinaciones 250 FLOJO; Niko 17/11 top 5 bajas 864 FLOJO; Niko 15/11 guía taco 3827."
  },
  "posts": [
   {
@@ -523,7 +523,8 @@
     "veredicto": "NORMAL",
     "nota": "0.75x mediana. Mejor que SÍ/NO 13/11 (1251) y test 11/11 (810). Guía útil rinde mejor que votos.",
     "cyber_ref": "¿Qué estilo sos? 3397 / Hacé la cuenta 3660"
-   }
+   },
+   "actualizacion_20_11": "alcance 3827, 31 interacciones, 2 coment, 5 guardados, 2 compartidos (1.96x mediana 1953)"
   },
   {
    "fecha_publicacion": "2026-11-16",
@@ -590,14 +591,26 @@
    ],
    "promo": "envío gratis desde $100.000 (Tiendanube sin promos activas)",
    "collaborators": "no",
-   "evaluado": false,
+   "evaluado": true,
    "hecho_por": "tarea nocturna 16/11",
    "url_base": "https://github.com/martinmiguelrecio/niko-videos/raw/main/carruseles/2026-11-17/vialola/",
    "metricool_id_ig": 430898012,
    "metricool_uuid_ig": "3170731782107709935",
    "metricool_id_fb_tt": 430898023,
    "metricool_uuid_fb_tt": "6119314213990647322",
-   "nota_agenda": "agencia: draft 'VLV 433 chatas' 20:30 (draft:true) → 20:45 según regla. Videos de Luz se volvieron a bajar bien."
+   "nota_agenda": "agencia: draft 'VLV 433 chatas' 20:30 (draft:true) → 20:45 según regla. Videos de Luz se volvieron a bajar bien.",
+   "resultado": {
+    "fecha_eval": "2026-11-20",
+    "ig_alcance": 250,
+    "ig_interacciones": 6,
+    "comentarios": 0,
+    "guardados": 0,
+    "compartidos": null,
+    "mediana_vialola_ig_alcance": 689,
+    "cyber_ref": "Un par para cada plan 1588 / 5 sandalias 5432",
+    "veredicto": "FLOJO",
+    "nota": "0.36x mediana. Agencia mismo día 12:36 = 840. Nuestros 20:45 VL últimos 7: 203-403."
+   }
   },
   {
    "fecha_publicacion": "2026-11-17",
@@ -617,11 +630,23 @@
    ],
    "videos": [],
    "promo": "envío gratis desde $100.000 + locales San Juan y San Luis",
-   "evaluado": false,
+   "evaluado": true,
    "hecho_por": "tarea nocturna 16/11",
    "url_base": "https://github.com/martinmiguelrecio/niko-videos/raw/main/carruseles/2026-11-17/niko/",
    "metricool_id": 430898036,
-   "metricool_uuid": "1748292744127924302"
+   "metricool_uuid": "1748292744127924302",
+   "resultado": {
+    "fecha_eval": "2026-11-20",
+    "ig_alcance": 864,
+    "ig_interacciones": 6,
+    "comentarios": 0,
+    "guardados": 1,
+    "compartidos": 1,
+    "mediana_niko_ig_alcance": 1953,
+    "cyber_ref": "¿Qué estilo sos? 3412 / Hacé la cuenta 3690",
+    "veredicto": "FLOJO",
+    "nota": "0.44x mediana. Ojo: guía taco 15/11 (evaluada NORMAL 1454 el 18/11) creció a 3827 alcance, 31 interacciones, 2 coment, 5 guardados, 2 compartidos = 1.96x mediana, el mejor carrusel nuestro de Niko desde el Cyber (casi GANADOR)."
+   }
   },
   {
    "fecha_publicacion": "2026-11-18",
@@ -760,6 +785,63 @@
    "metricool_fb_tt_id": 435012263,
    "metricool_fb_tt_uuid": "-8652503699273792900",
    "nota_agenda": "getScheduledPosts VL 20/11 vacío → 20:45. Ojo: 'lista#N' de notas viejas no coincide con el índice actual de embeddedfolderview (ej. lista#125 = índice 110); usar siempre fileIds. Modelo jaula negra con tiras lisas (133/v14) ≠ jaula con tira texturada (22/56)."
+  },
+  {
+   "fecha_publicacion": "2026-11-21",
+   "hora": "20:45",
+   "marca": "vialola",
+   "formato": "5 REGLAS PARA USAR SANDALIAS (guía educativa tipo 'reglas de moda', outlier @anatomiapink 16x): 1 regla por slide = prenda + sandalia (pantalón ancho+plataforma / mono o vestido largo+taco cuadrado / rayas+sandalia negra / bermuda+chata / total black+hebillas) + cierre CTA LOLA; banda negra arriba + foto entera fondo desenfocado; carrusel mixto (2 videos). Primera vez sesión Valentina Fontt. Sin precio.",
+   "tendencia": "reglas/tips de estilo (anatomiapink 16x, blishiii 'tips' 92x con Comenta QUIERO) + versatilidad",
+   "gancho": "5 REGLAS PARA USAR SANDALIAS Y NO FALLAR · deslizá, te cuento » / ¿CUÁL NO SABÍAS? Comentá LOLA",
+   "fotos": [
+    "Valentina V020 166YfoLojPmjM-iqsccKdv6Gq5yt4RP3X (portada)",
+    "Valentina V028 1U9XU5p_HOpqTukguuufvMJEqtFrQtyr7 (sólo FB/TT)",
+    "Valentina V000 1gVdSY2FbhSKzlp-G210n-Uuzw6M299iP",
+    "Valentina V048 1sguFYbVLbS_jGOHqV6NO901UuHcoQ5fm",
+    "Valentina V045 16h3rcItVDlIU1EOT1QS84v-eqvTbL3E3 (sólo FB/TT)",
+    "Valentina V014 1daT1WA1aep6_Kxr8hX5slr9eSHkO8rgF",
+    "Valentina V018 1D5EyEAwlLggI9NjJLgSzSd8nz3OSRgkt"
+   ],
+   "videos": [
+    "Valentina v08 1z_eSWPPR4FKuPzEZYIhaIQHFn6LU3llt (0-7s, slide 2 IG, pantalón rojo + plataforma dorada)",
+    "Valentina v09 1O8EO-mQJUwNk1gJAlaXn0cPzWOHfg2FP (1-8s, slide 5 IG, bermuda + chata negra)"
+   ],
+   "nota_indices": "Vxxx = índice entre los JPEG de la carpeta Valentina en embeddedfolderview (orden 20/11); vNN = índice entre los mp4. Videos WhatsApp 576x1024 (se usan enteros sobre fondo desenfocado).",
+   "promo": "envío gratis desde $100.000 (Tiendanube sin promos activas)",
+   "collaborators": "no",
+   "evaluado": false,
+   "hecho_por": "tarea nocturna 20/11 (AR)",
+   "url_base": "https://github.com/martinmiguelrecio/niko-videos/raw/main/carruseles/2026-11-21/vialola/",
+   "metricool_id": 436285831,
+   "metricool_uuid": "-5349572385488811740",
+   "metricool_fb_tt_id": 436285845,
+   "metricool_fb_tt_uuid": "2996246077757278462",
+   "nota_agenda": "getScheduledPosts VL y Niko 21/11 vacíos → 20:45 / 20:00."
+  },
+  {
+   "fecha_publicacion": "2026-11-21",
+   "hora": "20:00",
+   "marca": "niko",
+   "formato": "GUÍA 'SANDALIA BLANCA: ¿CUÁL ES LA TUYA?' 5 versiones (con taco / plataforma con hebillas / chata tejida / slide con tachas / deportiva plateada), 1 por slide close-up, guardable (sigue la guía útil que mejor rindió: taco 15/11); CTA 'Comentá QUIERO: precio y link por DM'; banda roja arriba + foto entera fondo desenfocado. Primera vez sesión Candela Jofre (fondos rojos). Sólo fotos.",
+   "tendencia": "guía útil (taco 15/11 = 1.96x mediana) + un color/tipo de producto",
+   "gancho": "SANDALIA BLANCA: ¿CUÁL ES LA TUYA? 5 versiones · deslizá » / ¿1, 2, 3, 4 O 5? Comentá QUIERO",
+   "fotos": [
+    "Candela C087 1DTRm9sWqkTny4QARFHO55jDRjrkgee7- (portada)",
+    "Candela C074 1RGuJtC97YFLbaTVqUxQwyZ-5kioCUqXz",
+    "Candela C084 16Rvpgl5J_wmExHWvXtY0U8DCNGyMPHRT",
+    "Candela C056 1DrfzTcwp95EC5I2JAPWaaWHPAdL0nbn-",
+    "Candela C091 1-xr24rW1TBMruNGxJCQl4qeLMjBjKCiq",
+    "Candela C103 1gaqQXY3Vv-hw01ZFJ4BRqld7CHTZ7Ms1",
+    "Candela C080 1zZSsz26jlC4zaqUa-2KyDKG72augDp9k"
+   ],
+   "videos": [],
+   "nota_indices": "Cxxx = índice entre los JPEG de la carpeta Candela en embeddedfolderview (orden 20/11).",
+   "promo": "envío gratis desde $100.000 + locales San Juan y San Luis (Tiendanube sin promos activas)",
+   "evaluado": false,
+   "hecho_por": "tarea nocturna 20/11 (AR)",
+   "url_base": "https://github.com/martinmiguelrecio/niko-videos/raw/main/carruseles/2026-11-21/niko/",
+   "metricool_id": 436285861,
+   "metricool_uuid": "-8046557291897861823"
   }
  ],
  "instrucciones_martin": [
@@ -771,11 +853,11 @@
   "20/11/2026 (Martín): la carpeta vacía 'Sesion snakers Candela Jofre' (1mdWUXyRzIjjoLAYjbyjAp6LJ4KzMiisZ) se elimina (era duplicada); ya no revisarla. La sesión de Candela Jofre es 'SESION PRIMAVERA CANDELA JOFRE'. También se mandó a la papelera la carpeta vacía 'Carruseles Cyber NUEVOS (subir acá)'."
  ],
  "referentes": {
-  "fecha": "2026-11-18",
+  "fecha": "2026-11-20",
   "rickysarkany": "Carruseles editoriales de UN producto (nombre del modelo + 'la elegida para este verano'), fotos de modelo + detalle de producto + clips de video mezclados en el mismo carrusel, poco texto sobre la imagen, promo en el copy. Comentarios piden 'precio'.",
   "ganga.home": "Ganchos con texto grande en cajas de color sobre la imagen: 'NECESITAMOS QUE NOS DIGAN SÍ O NO', 'Depende de ustedes, los leo', 'Comentá si querés que lo subamos a la web', 'DESLIZÁ, te cuento todo', 'POV:', 'Al fin llegó el día de contarles que…', 'Y bueno… salió ofertita'. Piden opinión/voto → miles de comentarios. Tono cercano, mayúsculas y emojis.",
-  "rickysarkany_ult": "Sin reels nuevos desde 04/11 (SARKANY x ZAIRA 30.5K). Mejor reciente sigue siendo close-up twister (111.8K, 22/10).",
-  "ganga.home_ult": "16-17/11: lives de lanzamientos en Mercado Libre. Mejores: reel '❤️‍🩹' 581.5K/235 coment.; '@ocalogistica' 379K/834 coment.; 'Tengan paciencia que estamos respondiendo TODOS los mensajes' 130K/109 coment.; 'Otra mesa navideña! Que opinan????' 43K/40 coment. Producto nuevo + pregunta corta + cercanía."
+  "rickysarkany_ult": "Sin reels nuevos desde 04/11 (SARKANY x ZAIRA 31.2K). Mejor reciente sigue close-up twister 112.8K (22/10).",
+  "ganga.home_ult": "18-20/11: reel denuncia logística @ocalogistica 2.2M / 4.4K coment (pide compartir); '🎄♥️' navideño 150K/174 coment; lives Mercado Libre 125-166K. Lo que explota: cercanía + pedido explícito de compartir/comentar; navidad ya arrancó."
  },
  "nota_indices": "Luz: 'lista#N' = posición en embeddedfolderview (0-14 videos); 'jpg idxN' = N-15. Usar fileIds como referencia.",
  "sesiones": {
