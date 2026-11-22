@@ -679,13 +679,25 @@
     "Luz v10 1AiH3R23dTR51-uXSMyrgvyvsOghPD3ZP (1.0-8.0s, slide 3 IG, short de jean + sandalia)"
    ],
    "promo": "envío gratis desde $100.000 (sin promos activas)",
-   "evaluado": false,
+   "evaluado": true,
    "hecho_por": "tarea nocturna 17/11 (AR)",
    "url_base": "https://github.com/martinmiguelrecio/niko-videos/raw/main/carruseles/2026-11-18/vialola/",
    "metricool_id": 432260909,
    "metricool_uuid": "-3725281883321316429",
    "metricool_fb_tt_id": 432260919,
-   "metricool_fb_tt_uuid": "1291208535984524436"
+   "metricool_fb_tt_uuid": "1291208535984524436",
+   "resultado": {
+    "fecha_eval": "2026-11-21",
+    "ig_alcance": 156,
+    "ig_interacciones": 4,
+    "comentarios": 0,
+    "guardados": 0,
+    "compartidos": null,
+    "mediana_vialola_ig_alcance": 688.0,
+    "cyber_ref": "Un par para cada plan 1923 / 5 sandalias 5432",
+    "veredicto": "FLOJO",
+    "nota": "0.22x mediana; el peor VL. Agencia mismo día 19:22 = 736. Últimos nuestros: 19/11 talle 301 (3 guardados), 20/11 POV 429 (agencia 20:09 ese día 531: la brecha se achica cuando la agencia publica de noche)."
+   }
   },
   {
    "fecha_publicacion": "2026-11-19",
@@ -842,6 +854,36 @@
    "url_base": "https://github.com/martinmiguelrecio/niko-videos/raw/main/carruseles/2026-11-21/niko/",
    "metricool_id": 436285861,
    "metricool_uuid": "-8046557291897861823"
+  },
+  {
+   "fecha_publicacion": "2026-11-22",
+   "hora": "20:45",
+   "marca": "vialola",
+   "formato": "¿ELEGANTE SIN TACO? 4 claves (pantalón largo que roce el piso / animal print en los pies / lino + slide negra / un solo color de pies a cabeza) + cierre voto '¿TACO O SIN TACO?' estilo Ganga + CTA LOLA; banda negra arriba + foto entera fondo desenfocado; carrusel mixto (1 video). Sesión Valentina Fontt (salón/jardín). Sin precio.",
+   "tendencia": "outlier @_manuelarr 'Formal sin tacones? tu que opinas?' 760K (14.4x) + guías/reglas de estilo (anatomiapink 16x); domingo",
+   "gancho": "DEPENDE DE USTEDES · ¿ELEGANTE SIN TACO? sí se puede · deslizá, te cuento » / ¿TACO O SIN TACO? Comentá LOLA",
+   "fotos": [
+    "Valentina V044 13PPwBy85vIDlg7LRt0TceFnWp4QLeGBQ (portada, lino + slide negra)",
+    "Valentina V080 14O9lAx2vF7V5FVu4JA2LzSDNYz9e4oez (sólo FB/TT slide 2)",
+    "Valentina V030 1FJhC6-t3MvJ06nOP9z0lGKsF8zPJEygv",
+    "Valentina V042 1EHStWxb4LFtHUmWgqOYN1v3CaYowl0Jc",
+    "Valentina V029 1nOsXrSZ5s7qwUwoQfibQcf189ylvU95b",
+    "Valentina V031 1YySmjXY9omacfc8f4yDHv60246UTaUSL (cierre)"
+   ],
+   "videos": [
+    "Valentina v11 1r-UB5XedzmBSwVUPiAObH7q8ha1NW1B8 (0-7s, slide 2 IG, pantalón rayado largo + plataforma negra hebillas)"
+   ],
+   "nota_indices": "Vxxx = índice entre JPEG de Valentina en embeddedfolderview; vNN = índice entre mp4. Ojo: la sandalia negra de cadenas del conjunto rayado azul (V046/V050/V052/V070/V072/V074, video v7) TIENE TACO: no usar como 'sin taco'.",
+   "promo": "envío gratis desde $100.000 (sin promo confirmada)",
+   "collaborators": "no",
+   "evaluado": false,
+   "hecho_por": "tarea nocturna 21/11 (AR)",
+   "url_base": "https://github.com/martinmiguelrecio/niko-videos/raw/main/carruseles/2026-11-22/vialola/",
+   "metricool_id": 437184485,
+   "metricool_uuid": "9131939172563963388",
+   "metricool_fb_tt_id": 437184492,
+   "metricool_fb_tt_uuid": "-2952546908660547236",
+   "nota_agenda": "getScheduledPosts VL 22/11 vacío → 20:45. Niko no toca (último 21/11)."
   }
  ],
  "instrucciones_martin": [
