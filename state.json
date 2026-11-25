@@ -6359,5 +6359,40 @@
     "motivo": "Extendimos el Cyber Monday: Cyber vencido"
    }
   ]
+ },
+ "reels_personales_china": {
+  "cuenta": "@tinchomiguel_ (Instagram, vía vidIQ)",
+  "fecha_render": "2026-11-25",
+  "origen": "carpeta China (Drive), clips VID-20250509-WA0125 / WA0135 / WA0091",
+  "posts": [
+   {
+    "archivo": "reels/china/china_01_cuero.mp4",
+    "segundos_usados": [
+     22,
+     42
+    ],
+    "texto": "Así se elige el cuero en China",
+    "publicado": null
+   },
+   {
+    "archivo": "reels/china/china_02_aviamentos.mp4",
+    "segundos_usados": [
+     37,
+     52
+    ],
+    "texto": "El pasillo de aviamentos",
+    "publicado": null
+   },
+   {
+    "archivo": "reels/china/china_03_muestrarios.mp4",
+    "segundos_usados": [
+     12,
+     30
+    ],
+    "texto": "Muestrarios de cuero",
+    "publicado": null
+   }
+  ],
+  "nota": "Revisión a 7 días (2026-12-02): comparar vistas, retención y guardados; los mejores pasan a TikTok y YouTube. Sin mención de qué producto vino de China."
  }
 }
