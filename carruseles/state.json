@@ -3,7 +3,7 @@
   "fecha": "2026-11-24",
   "nota": "Outliers 20-24/11 (vidIQ, LatAm es): @quotidiano_co 'Aprendé estas combinaciones… ¿cuál te gustó más? Te leo' 3.4M (141x); @michsnchez split '¿Podés encontrar la diferencia?' 1.2M (14x); @isadiazosorio 7 looks para Navidad 106K (6.3x); @bygenex 'lo que pedí vs lo que recibí' calzado 78K; TikTok @emma_collection.pe 'Hablemos de' sandalias marrón chocolate 104K. Patrón: guía/regla corta + 'te leo' + comparación A/B; fiestas ya pegan. Black Friday 27/11 (sin promo nuestra confirmada).",
   "que_hacer": "VL: alternar 'LA elegida' (20/11 ya 1813) y 'reglas' (21/11 1238); menos looks/combinaciones genéricas. Ángulo fiestas hasta fin de año. Ojo horario: VL 12:30 viene más bajo (22/11 357 a 2 días, 23/11 665 a 1 día) vs 20:45 (1238, 1813): seguir midiendo y avisar a Martín. Niko: probar 'esto o esto' A/B y guías; últimos Niko flojos (21/11 1129, 23/11 657 a 1 día). Probar marrón chocolate si hay foto.",
-  "datos_nuestros": "VL mediana IG ~688; nuestros 20/11 1813, 21/11 1238, 22/11 357, 23/11 665 (1 día). Niko mediana ~1953; 19/11 1995, 21/11 1129, 23/11 657 (1 día).",
+  "datos_nuestros": "VL mediana IG ~688; nuestros 20/11 1813, 21/11 1238, 22/11 357, 23/11 665 (1 día). Niko mediana ~1953; 19/11 1995, 21/11 1129, 23/11 657 (1 día). | 25/11: VL 12:30 22/11 404 (FLOJO), 23/11 1085, 24/11 567 vs 20:45 1943/1345. Black Friday 27/11, Tiendanube sin promos.",
   "anterior": {
    "fecha": "2026-11-22",
    "nota": "Outliers AR/LatAm 18-22/11 (vidIQ): @_manuelarr 'Formal sin tacones? tú qué opinás' subió a 305K (39.9x); @valegallom combinaciones de color 186K (16.5x, '¿cuál fue tu favorita?'); @noesunacopia 'la regla del chupín' 172K (6.6x, AR, regla de estilo); @aixabarboza18 tour de calzados con PRECIO en pantalla 99K (13.6x, AR); @ivannapimentel 'comenten LINKS y les paso al DM' 51K (8.1x). Patrón sigue: regla/guía útil + pregunta + palabra clave. Navidad/fiestas ya arrancó. Lunes 23/11 feriado. Tiendanube sin promos.",
@@ -942,14 +942,26 @@
    "nota_indices": "Vxxx = índice entre JPEG de Valentina en embeddedfolderview; vNN = índice entre mp4. Ojo: la sandalia negra de cadenas del conjunto rayado azul (V046/V050/V052/V070/V072/V074, video v7) TIENE TACO: no usar como 'sin taco'.",
    "promo": "envío gratis desde $100.000 (sin promo confirmada)",
    "collaborators": "no",
-   "evaluado": false,
+   "evaluado": true,
    "hecho_por": "tarea nocturna 21/11 (AR)",
    "url_base": "https://github.com/martinmiguelrecio/niko-videos/raw/main/carruseles/2026-11-22/vialola/",
    "metricool_id": 437218616,
    "metricool_uuid": "9131939172563963388",
    "metricool_fb_tt_id": 437218621,
    "metricool_fb_tt_uuid": "-2952546908660547236",
-   "nota_agenda": "getScheduledPosts VL 22/11 vacío → 20:45. Niko no toca (último 21/11). Movido a 12:30/12:31 por pedido de Martín (21/11), primer carrusel VL al mediodía."
+   "nota_agenda": "getScheduledPosts VL 22/11 vacío → 20:45. Niko no toca (último 21/11). Movido a 12:30/12:31 por pedido de Martín (21/11), primer carrusel VL al mediodía.",
+   "resultado": {
+    "fecha_eval": "2026-11-25",
+    "ig_alcance": 404,
+    "ig_interacciones": 4,
+    "comentarios": 0,
+    "guardados": 0,
+    "compartidos": 0,
+    "mediana_vl_ig_alcance": 688,
+    "cyber_ref": "Un par para cada plan / 5 sandalias",
+    "veredicto": "FLOJO",
+    "nota": "0.59x mediana. Primer VL a las 12:30. Comparativa horario al 25/11: 12:30 → 22/11 404, 23/11 1085, 24/11 567 (1 día); 20:45 → 20/11 1943, 21/11 1345. Agencia a las 14-17 h: 1069-1796."
+   }
   },
   {
    "fecha_publicacion": "2026-11-23",
@@ -1096,6 +1108,36 @@
    "metricool_id": 441143426,
    "metricool_uuid": "2632741267500847030",
    "nota_agenda": "Niko último 23/11 → toca 25/11; getScheduledPosts vacío."
+  },
+  {
+   "fecha_publicacion": "2026-11-26",
+   "hora": "12:30",
+   "marca": "vialola",
+   "formato": "POV + LA ELEGIDA (un solo modelo estilo Sarkany): sandalia de plataforma con tiras con brillo (strass), ángulo fiestas; portada modelo → detalle brillo → video → plataforma → con pantalón ancho → fiestas → cierre ¿SÍ O NO? + LOLA. Banda negra arriba + foto (04 y 07 foto entera con fondo desenfocado). Mixto (1 video de 3 tramos). Sin precio (no confirmado en Tiendanube).",
+   "tendencia": "POV + un modelo = mejor VL (20/11 1943); fiestas; Black Friday 27/11 sin promo nuestra (no se menciona)",
+   "gancho": "POV: QUERÉS BRILLAR EN LAS FIESTAS Y BAILAR HASTA LAS 6 / NECESITAMOS SABER ¿SÍ O NO? Comentá LOLA",
+   "fotos": [
+    "Candela C48 1cmsywzlgS3QXTlpaRtqgNZ4p05Bet3Vl (portada)",
+    "Candela C49 1xIPz8Et_BpN5YS2zNCYVU52lt_BU2lwl",
+    "Candela C53 1hLDb40Rsx6d5QaeIlYrWslaYXZJGiiD2 (sólo FB/TT slide 3)",
+    "Candela C47 1v1pTHGNdhDGFq-HH16rw5PUetzhWtAG4",
+    "Candela C56 1AHUR3gQ1-BSt9FXQr8TacPrD4JpqX0ik",
+    "Candela C50 1uiQzqL_RH1T3GDewK8I0Mr9I6lQAZ46r",
+    "Candela C51 1ka5eNm7TIZ2iCLusb2A8ax9_MshVHxz1 (cierre)"
+   ],
+   "videos": [
+    "Candela c12 IMG_9173.MOV 1kwKVErCZxIGaxmn8Sb1UkFfEZ7UmL5hG (2.0-4.8s + 6.8-8.2s + 11.9-13.9s, slide 3 IG)"
+   ],
+   "promo": "envío gratis desde $100.000 (Tiendanube sin promos activas)",
+   "collaborators": "no",
+   "evaluado": false,
+   "hecho_por": "tarea nocturna 25/11 (AR)",
+   "url_base": "https://github.com/martinmiguelrecio/niko-videos/raw/main/carruseles/2026-11-26/vialola/",
+   "metricool_id": 442546384,
+   "metricool_uuid": "-4501976045772910701",
+   "metricool_fb_tt_id": 442546397,
+   "metricool_fb_tt_uuid": "3283390913827652524",
+   "nota_agenda": "getScheduledPosts VL y Niko 26/11 vacíos → VL 12:30/12:31 (pedido Martín 21/11). Niko no toca (último 25/11); próximo Niko 27/11."
   }
  ],
  "instrucciones_martin": [
