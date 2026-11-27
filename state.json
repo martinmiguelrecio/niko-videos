@@ -123,6 +123,594 @@
    },
    "editado": "2026-11-07 a mano en el chat",
    "nota": "Archivos 8K; se bajan por drive.usercontent.google.com (con link compartido). Sin usar: Elon/Marte resto (451-510), balance/equilibrio (285-300), 'saludar al irte' (907-924)."
+  },
+  {
+   "fileId": "14mjp8LAoelKfSVlLZ-U2dlqrebN9IXDb",
+   "archivo": "14mjp8LAoelKfSVlLZ-U2dlqrebN9IXDb",
+   "rangos": [
+    [
+     1.14,
+     9.8
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko 4"
+  },
+  {
+   "fileId": "1HoKtknIaK4e-qsisJ5ozIc1R6fQr9eGU",
+   "archivo": "1HoKtknIaK4e-qsisJ5ozIc1R6fQr9eGU",
+   "rangos": [
+    [
+     0.59,
+     10.2
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko 3"
+  },
+  {
+   "fileId": "1Z9asCuT70NoVWoay0REl-c5WR4ODtwe9",
+   "archivo": "1Z9asCuT70NoVWoay0REl-c5WR4ODtwe9",
+   "rangos": [
+    [
+     0.24,
+     14.5
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko 3"
+  },
+  {
+   "fileId": "1jR64KQdVzEyvntLqkM--pCJ4vflnsvzo",
+   "archivo": "1jR64KQdVzEyvntLqkM--pCJ4vflnsvzo",
+   "rangos": [
+    [
+     0.0,
+     14.3
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko Rocky"
+  },
+  {
+   "fileId": "1RjH9r_ZZ_LRRxCFS8qeC7az7RxwV40yd",
+   "archivo": "1RjH9r_ZZ_LRRxCFS8qeC7az7RxwV40yd",
+   "rangos": [
+    [
+     0.0,
+     13.8
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko Rocky"
+  },
+  {
+   "fileId": "13CHv9CupmKKB1-TMk_-zieC_gz4cQiVw",
+   "archivo": "13CHv9CupmKKB1-TMk_-zieC_gz4cQiVw",
+   "rangos": [
+    [
+     10.38,
+     20.7
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko Rocky"
+  },
+  {
+   "fileId": "1OIMQVGuKDQldGhA-lfqoedWmXzqefwWV",
+   "archivo": "1OIMQVGuKDQldGhA-lfqoedWmXzqefwWV",
+   "rangos": [
+    [
+     0.05,
+     19.3
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko 3"
+  },
+  {
+   "fileId": "1ULcR9bd8vKRYWWc8y9dqSDwo1aIyt15n",
+   "archivo": "1ULcR9bd8vKRYWWc8y9dqSDwo1aIyt15n",
+   "rangos": [
+    [
+     4.29,
+     18.9
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko 4"
+  },
+  {
+   "fileId": "1JWbUIZwh5wcJc7u9Ov31EdanDKCPiNeq",
+   "archivo": "1JWbUIZwh5wcJc7u9Ov31EdanDKCPiNeq",
+   "rangos": [
+    [
+     7.74,
+     16.2
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko 4"
+  },
+  {
+   "fileId": "1-8qeMo7uv3iy2kGQRwDB358mtV6m23JO",
+   "archivo": "1-8qeMo7uv3iy2kGQRwDB358mtV6m23JO",
+   "rangos": [
+    [
+     0.5,
+     16.1
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko 4"
+  },
+  {
+   "fileId": "1MF3i017-vUzqQKpcaloJvCdNvS1rggfX",
+   "archivo": "1MF3i017-vUzqQKpcaloJvCdNvS1rggfX",
+   "rangos": [
+    [
+     1.01,
+     17.8
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko 3"
+  },
+  {
+   "fileId": "1OvGn31E_OOQtI7vPUOQSyzAHzO74It6Q",
+   "archivo": "1OvGn31E_OOQtI7vPUOQSyzAHzO74It6Q",
+   "rangos": [
+    [
+     0.75,
+     11.8
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko 3"
+  },
+  {
+   "fileId": "1O7bjB2qjrHaBTqdL_SVSmtQjRMHUNFG6",
+   "archivo": "1O7bjB2qjrHaBTqdL_SVSmtQjRMHUNFG6",
+   "rangos": [
+    [
+     0.66,
+     20.66
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko Rocky"
+  },
+  {
+   "fileId": "1hpDM1K_PzNlwoEd81BIq6QnW3Bnq2Fbn",
+   "archivo": "1hpDM1K_PzNlwoEd81BIq6QnW3Bnq2Fbn",
+   "rangos": [
+    [
+     0.0,
+     20.0
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko 4"
+  },
+  {
+   "fileId": "1FRNG-dpqcEC-R21GUKsk2idEquENgkJq",
+   "archivo": "1FRNG-dpqcEC-R21GUKsk2idEquENgkJq",
+   "rangos": [
+    [
+     0.0,
+     13.5
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko 4"
+  },
+  {
+   "fileId": "1lQteC91ia2hWPiaFX8ro-7qZYBIA1M5B",
+   "archivo": "1lQteC91ia2hWPiaFX8ro-7qZYBIA1M5B",
+   "rangos": [
+    [
+     0.0,
+     15.8
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko 4"
+  },
+  {
+   "fileId": "11-WyUwFwfef1hc0K_saNLv-Z4F1Z5T1Z",
+   "archivo": "11-WyUwFwfef1hc0K_saNLv-Z4F1Z5T1Z",
+   "rangos": [
+    [
+     18.5,
+     30.8
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko 3"
+  },
+  {
+   "fileId": "1an2aG_q66ltvSBptPwjX1CMv3Pzn12is",
+   "archivo": "1an2aG_q66ltvSBptPwjX1CMv3Pzn12is",
+   "rangos": [
+    [
+     0.37,
+     14.1
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko 4"
+  },
+  {
+   "fileId": "1nMQQYL4nwxoWqufL0XnM9hIyX5UzyC3R",
+   "archivo": "1nMQQYL4nwxoWqufL0XnM9hIyX5UzyC3R",
+   "rangos": [
+    [
+     0.43,
+     20.43
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko 4"
+  },
+  {
+   "fileId": "18Imy9TYjRTzvsUQM2kaJz6PaCNjrN6ft",
+   "archivo": "18Imy9TYjRTzvsUQM2kaJz6PaCNjrN6ft",
+   "rangos": [
+    [
+     4.8,
+     17.0
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko Rocky"
+  },
+  {
+   "fileId": "1xSOuWn6c8w2RoeVXzYpontfDmUU_HnHJ",
+   "archivo": "1xSOuWn6c8w2RoeVXzYpontfDmUU_HnHJ",
+   "rangos": [
+    [
+     21.28,
+     30.2
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko 4"
+  },
+  {
+   "fileId": "1k1gU1NRUJqG9JNb9gNwFGn3Xm6OAwcKz",
+   "archivo": "1k1gU1NRUJqG9JNb9gNwFGn3Xm6OAwcKz",
+   "rangos": [
+    [
+     0.14,
+     18.7
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko Rocky"
+  },
+  {
+   "fileId": "1mEMfNDa160JuJunXFXb-86yUXIlQEW94",
+   "archivo": "1mEMfNDa160JuJunXFXb-86yUXIlQEW94",
+   "rangos": [
+    [
+     0.43,
+     20.43
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko 3"
+  },
+  {
+   "fileId": "1xWkqNenr08h3a2MfEhmhSxf6kjrsjcXW",
+   "archivo": "1xWkqNenr08h3a2MfEhmhSxf6kjrsjcXW",
+   "rangos": [
+    [
+     0.0,
+     18.5
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko 3"
+  },
+  {
+   "fileId": "1WCDTrgqj3TuCeXgWlr7R09hYzMvOUGQP",
+   "archivo": "1WCDTrgqj3TuCeXgWlr7R09hYzMvOUGQP",
+   "rangos": [
+    [
+     0.11,
+     18.5
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko 3"
+  },
+  {
+   "fileId": "1o67rkd8ckU7AA4lVXOTbql1HoIVVjlDz",
+   "archivo": "1o67rkd8ckU7AA4lVXOTbql1HoIVVjlDz",
+   "rangos": [
+    [
+     1.23,
+     18.8
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko 3"
+  },
+  {
+   "fileId": "15HDgkomVLTYB-yXUYguVkXeL1UlEmbSs",
+   "archivo": "15HDgkomVLTYB-yXUYguVkXeL1UlEmbSs",
+   "rangos": [
+    [
+     0.43,
+     19.2
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko 3"
+  },
+  {
+   "fileId": "1aBn4Jyb4H4kVAFRxNMDU7P-rc8x9WwkW",
+   "archivo": "1aBn4Jyb4H4kVAFRxNMDU7P-rc8x9WwkW",
+   "rangos": [
+    [
+     0.21,
+     19.6
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko 3"
+  },
+  {
+   "fileId": "1wHMLPmE98x1Hkq4veLnkvykxzmA0K0oN",
+   "archivo": "1wHMLPmE98x1Hkq4veLnkvykxzmA0K0oN",
+   "rangos": [
+    [
+     5.4,
+     20.0
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko 3"
+  },
+  {
+   "fileId": "1qyWIGmn1OMswNwFsde_LSAQe2dFYuFi2",
+   "archivo": "1qyWIGmn1OMswNwFsde_LSAQe2dFYuFi2",
+   "rangos": [
+    [
+     0.24,
+     20.2
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko 3"
+  },
+  {
+   "fileId": "1hoIUAkWJQK5ryIx8ffS9glSjLtFOojeN",
+   "archivo": "1hoIUAkWJQK5ryIx8ffS9glSjLtFOojeN",
+   "rangos": [
+    [
+     0.62,
+     20.62
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko 3"
+  },
+  {
+   "fileId": "1T9hXfCu5glBoWX7ag85bQIUu4mXoiQwp",
+   "archivo": "1T9hXfCu5glBoWX7ag85bQIUu4mXoiQwp",
+   "rangos": [
+    [
+     0.14,
+     20.14
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko 3"
+  },
+  {
+   "fileId": "1owoAfoFrqRXVrSyP__3gzrtTiUgdoLUV",
+   "archivo": "1owoAfoFrqRXVrSyP__3gzrtTiUgdoLUV",
+   "rangos": [
+    [
+     0.0,
+     12.9
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko 3"
+  },
+  {
+   "fileId": "1JBjfQjBiFsMCyq0TZsLpXcDm9NsUOm6A",
+   "archivo": "1JBjfQjBiFsMCyq0TZsLpXcDm9NsUOm6A",
+   "rangos": [
+    [
+     0.18,
+     15.2
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko 3"
+  },
+  {
+   "fileId": "1ImjkGKDhEwGUI1CCINmPnGgi7_ZwxKZd",
+   "archivo": "1ImjkGKDhEwGUI1CCINmPnGgi7_ZwxKZd",
+   "rangos": [
+    [
+     0.21,
+     12.5
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko Rocky"
+  },
+  {
+   "fileId": "1bkn9IPNLzTzuui95CwMoTyD2Khf4nhkD",
+   "archivo": "1bkn9IPNLzTzuui95CwMoTyD2Khf4nhkD",
+   "rangos": [
+    [
+     1.78,
+     16.3
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko 3"
+  },
+  {
+   "fileId": "1XFbAXQ8drED4p_aQprXQ0zomxTjp2Y9D",
+   "archivo": "1XFbAXQ8drED4p_aQprXQ0zomxTjp2Y9D",
+   "rangos": [
+    [
+     0.05,
+     13.9
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko Rocky"
+  },
+  {
+   "fileId": "13bJbRXuU_WsCFth5p73fvuE-Epy7vkdA",
+   "archivo": "13bJbRXuU_WsCFth5p73fvuE-Epy7vkdA",
+   "rangos": [
+    [
+     0,
+     9.9
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko 4"
+  },
+  {
+   "fileId": "1MGNgI9CmrqWhWfA97v6ZCORuB4GW2j0u",
+   "archivo": "1MGNgI9CmrqWhWfA97v6ZCORuB4GW2j0u",
+   "rangos": [
+    [
+     0,
+     9.9
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko 3"
+  },
+  {
+   "fileId": "1Vrb5dgerZIAlr0zzCBBQK_KIRmMBF0jR",
+   "archivo": "1Vrb5dgerZIAlr0zzCBBQK_KIRmMBF0jR",
+   "rangos": [
+    [
+     0,
+     10.9
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko 4"
+  },
+  {
+   "fileId": "1mNZzRrBq0-tH7QguPT1yKbmGLw7oSeUL",
+   "archivo": "1mNZzRrBq0-tH7QguPT1yKbmGLw7oSeUL",
+   "rangos": [
+    [
+     0,
+     12.2
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko 4"
+  },
+  {
+   "fileId": "1kgzzcAvOJ67rpQzF5sDQTb0aHggok7Bt",
+   "archivo": "1kgzzcAvOJ67rpQzF5sDQTb0aHggok7Bt",
+   "rangos": [
+    [
+     0,
+     15
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko 4"
+  },
+  {
+   "fileId": "1jUoVzCd2CCirpnBYv2O-O5UYmU4nECJk",
+   "archivo": "1jUoVzCd2CCirpnBYv2O-O5UYmU4nECJk",
+   "rangos": [
+    [
+     0,
+     15
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko 4"
+  },
+  {
+   "fileId": "1HsY_ITaT8ndpLIQVuo7EOJ4rXp8EB5b5",
+   "archivo": "1HsY_ITaT8ndpLIQVuo7EOJ4rXp8EB5b5",
+   "rangos": [
+    [
+     0,
+     8.3
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko Rocky"
+  },
+  {
+   "fileId": "1Rj44PD0YHq-5yY8EuYNRmt-K12dD76lU",
+   "archivo": "1Rj44PD0YHq-5yY8EuYNRmt-K12dD76lU",
+   "rangos": [
+    [
+     0,
+     14.2
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko Rocky"
+  },
+  {
+   "fileId": "1FogVg_FfRzQXvwu61mY1bi9nh0NmJckJ",
+   "archivo": "1FogVg_FfRzQXvwu61mY1bi9nh0NmJckJ",
+   "rangos": [
+    [
+     0,
+     10.5
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko 7"
+  },
+  {
+   "fileId": "1sW6TUNsl4XSnJ1o99Cmybk_XqlwDoi-A",
+   "archivo": "1sW6TUNsl4XSnJ1o99Cmybk_XqlwDoi-A",
+   "rangos": [
+    [
+     0,
+     11.1
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko 7"
+  },
+  {
+   "fileId": "14U_tCyTAtQ-Afgm4VhYx_VrDF89DUEog",
+   "archivo": "14U_tCyTAtQ-Afgm4VhYx_VrDF89DUEog",
+   "rangos": [
+    [
+     0,
+     15.0
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko 7"
+  },
+  {
+   "fileId": "1idCl82hunKLe558yt3loFXUSXnZV1BSC",
+   "archivo": "1idCl82hunKLe558yt3loFXUSXnZV1BSC",
+   "rangos": [
+    [
+     0,
+     12.6
+    ]
+   ],
+   "fecha": "2026-11-28",
+   "origen": "Drive local Niko 7"
   }
  ],
  "descartados": [
@@ -135,6 +723,10 @@
    "fileId": "1wTR_nARev_EVs-bT9Xaxug_xvWnUEpnQ",
    "archivo": "VID-20261026-WA0009",
    "motivo": "Cyber/2x50 vencido"
+  },
+  {
+   "fechas": "2026-11-28",
+   "motivo": "n46/n47/n49 no publicados: flyer NaranjaX / Cyber Monday / Via Lola a la vista; 1I0ONJ... ver notas"
   }
  ],
  "notas_material": [
@@ -155,7 +747,8 @@
   "21/11 (corrida 22:45 ART): 22/11 ya estaba completo (Metricool 12/12, Nuelink 40/40 creados). El canal 'films' 327401 desapareció de Nuelink y apareció 'Niko calzados post' 328528 (21/11 23:28); la colección films 110478 quedó sin canal y sus 4 posts del 22/11 no iban a salir. Se agregó 328528 a la colección 110478 (no a 109544 para no duplicar shorts). Sin material nuevo editable (whisper sin modelo, HF 403): no se programó 23/11.",
   "23/11 (corrida 22:45 ART): 24/11 estaba vacío en Nuelink y Metricool (22 y 23/11 sin registrar). Se programaron 52 posts para el 24/11 (Metricool 12 + Nuelink 40), todos reuso de videos ya editados no usados antes por cada cuenta (sin promos vencidas). Whisper sigue sin modelo (HF 403): sin edición nueva. Canal post 328528 sigue en col 110478. Pool sin usar por cuenta ~45-55 archivos: alcanza ~1 semana de reuso, pero conviene material nuevo. Mica/17-11 (25 crudos 8K) sigue sin usar.",
   "24/11 noche (corrida): 25/11 y 26/11 estaban vacíos. Se programaron 52 posts para cada día (Metricool 12 + Nuelink 40 c/u), todo reuso sin promos vencidas; canal post 328528 sigue en col 110478. Niko 5 quedó corto de contenido de tienda online (se reusaron looks de otras cuentas en otro día). Whisper sin modelo (HF 403): sin edición nueva. Pool sin usar por cuenta casi agotado: PEDIR MATERIAL NUEVO. ids Nuelink 26/11: 5405942-5406003; 25/11: 5406004-5406046.",
-  "26/11 noche: 27/11 estaba vacío; se programaron 52 posts (Metricool 12 + Nuelink 40), 52 archivos distintos, todo reuso sin promos vencidas (excluidos mochilas/útiles 2x50, mica_11_b, cyber). Nuelink ids 5411691-5411739. Whisper sigue sin instalar/modelo: sin edición nueva. Pool sin usar por cuenta casi agotado (~1 día más): PEDIR MATERIAL NUEVO. Niko 5 sin contenido de tienda online nuevo. Evaluación de viralidad a 3 días no corrida esta noche."
+  "26/11 noche: 27/11 estaba vacío; se programaron 52 posts (Metricool 12 + Nuelink 40), 52 archivos distintos, todo reuso sin promos vencidas (excluidos mochilas/útiles 2x50, mica_11_b, cyber). Nuelink ids 5411691-5411739. Whisper sigue sin instalar/modelo: sin edición nueva. Pool sin usar por cuenta casi agotado (~1 día más): PEDIR MATERIAL NUEVO. Niko 5 sin contenido de tienda online nuevo. Evaluación de viralidad a 3 días no corrida esta noche.",
+  "28/11 (corrida 27/11 11:45 ART, manual): 49 cortes NUEVOS de fuentes sin usar (Niko 2/3/4/7 y Niko 1; Drive 86 bajados, transcritos con faster-whisper). Metricool 12/12 (7799818, 7788943, 7798880) y Nuelink 37/40 programados (ids 5419893-5419956). Faltan 3 Nuelink: shorts 13:15 y 17:45, post 10:00 (cortes descartados por promo/Via Lola visibles). Whisper ya funciona (HF accesible desde 27/11). Pool sin usar: quedan ~35 fuentes Niko chicas + Mica 17-11 (25 crudos 8K, pesados) y Mica 11-11/06-11 sin usar."
  ],
  "posts": [
   {
@@ -6560,6 +7153,692 @@
    "gancho": "COMPRALAS ONLINE - ENVIO A TODO EL PAIS",
    "musica": "la del video original",
    "evaluado": false
+  },
+  {
+   "fecha": "2026-11-28 10:00 ART",
+   "plataforma": "metricool",
+   "cuenta": "7799818",
+   "archivo_final": "videos/2026-11-28/n01_14mjp8.mp4",
+   "origen": "fuente nueva sin usar: Niko 4 (Drive 14mjp8LAoelKfSVlLZ-U2dlqrebN9IXDb)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "¿Qué llegó nuevo al depósito?",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t1)",
+   "fileId": "14mjp8LAoelKfSVlLZ-U2dlqrebN9IXDb",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 13:15 ART",
+   "plataforma": "metricool",
+   "cuenta": "7799818",
+   "archivo_final": "videos/2026-11-28/n02_1HoKtk.mp4",
+   "origen": "fuente nueva sin usar: Niko 3 (Drive 1HoKtknIaK4e-qsisJ5ozIc1R6fQr9eGU)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "Así arranca el día en Niko",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t2)",
+   "fileId": "1HoKtknIaK4e-qsisJ5ozIc1R6fQr9eGU",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 17:45 ART",
+   "plataforma": "metricool",
+   "cuenta": "7799818",
+   "archivo_final": "videos/2026-11-28/n03_1Z9asC.mp4",
+   "origen": "fuente nueva sin usar: Niko 3 (Drive 1Z9asCuT70NoVWoay0REl-c5WR4ODtwe9)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "¿Propina o no propina?",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t1)",
+   "fileId": "1Z9asCuT70NoVWoay0REl-c5WR4ODtwe9",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 20:30 ART",
+   "plataforma": "metricool",
+   "cuenta": "7799818",
+   "archivo_final": "videos/2026-11-28/n04_1jR64K.mp4",
+   "origen": "fuente nueva sin usar: Niko Rocky (Drive 1jR64KQdVzEyvntLqkM--pCJ4vflnsvzo)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "Cuando el cliente se cree el jefe",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t2)",
+   "fileId": "1jR64KQdVzEyvntLqkM--pCJ4vflnsvzo",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 10:00 ART",
+   "plataforma": "metricool",
+   "cuenta": "7788943",
+   "archivo_final": "videos/2026-11-28/n05_1RjH9r.mp4",
+   "origen": "fuente nueva sin usar: Niko Rocky (Drive 1RjH9r_ZZ_LRRxCFS8qeC7az7RxwV40yd)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "Así se toma un pedido",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t1)",
+   "fileId": "1RjH9r_ZZ_LRRxCFS8qeC7az7RxwV40yd",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 13:15 ART",
+   "plataforma": "metricool",
+   "cuenta": "7788943",
+   "archivo_final": "videos/2026-11-28/n06_13CHv9.mp4",
+   "origen": "fuente nueva sin usar: Niko Rocky (Drive 13CHv9CupmKKB1-TMk_-zieC_gz4cQiVw)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "¿Así se atiende un cliente?",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t2)",
+   "fileId": "13CHv9CupmKKB1-TMk_-zieC_gz4cQiVw",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 17:45 ART",
+   "plataforma": "metricool",
+   "cuenta": "7788943",
+   "archivo_final": "videos/2026-11-28/n07_1OIMQV.mp4",
+   "origen": "fuente nueva sin usar: Niko 3 (Drive 1OIMQVGuKDQldGhA-lfqoedWmXzqefwWV)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "Cuando tu mujer te pide algo",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t1)",
+   "fileId": "1OIMQVGuKDQldGhA-lfqoedWmXzqefwWV",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 20:30 ART",
+   "plataforma": "metricool",
+   "cuenta": "7788943",
+   "archivo_final": "videos/2026-11-28/n08_1ULcR9.mp4",
+   "origen": "fuente nueva sin usar: Niko 4 (Drive 1ULcR9bd8vKRYWWc8y9dqSDwo1aIyt15n)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "Tu talle también existe acá",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t2)",
+   "fileId": "1ULcR9bd8vKRYWWc8y9dqSDwo1aIyt15n",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 10:00 ART",
+   "plataforma": "metricool",
+   "cuenta": "7798880",
+   "archivo_final": "videos/2026-11-28/n09_1JWbUI.mp4",
+   "origen": "fuente nueva sin usar: Niko 4 (Drive 1JWbUIZwh5wcJc7u9Ov31EdanDKCPiNeq)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "Sandalias de fiesta: ¿cuál elegís?",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t1)",
+   "fileId": "1JWbUIZwh5wcJc7u9Ov31EdanDKCPiNeq",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 13:15 ART",
+   "plataforma": "metricool",
+   "cuenta": "7798880",
+   "archivo_final": "videos/2026-11-28/n10_1-8qeM.mp4",
+   "origen": "fuente nueva sin usar: Niko 4 (Drive 1-8qeMo7uv3iy2kGQRwDB358mtV6m23JO)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "¿Para nena o para varón?",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t2)",
+   "fileId": "1-8qeMo7uv3iy2kGQRwDB358mtV6m23JO",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 17:45 ART",
+   "plataforma": "metricool",
+   "cuenta": "7798880",
+   "archivo_final": "videos/2026-11-28/n11_1MF3i0.mp4",
+   "origen": "fuente nueva sin usar: Niko 3 (Drive 1MF3i017-vUzqQKpcaloJvCdNvS1rggfX)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "Talles de nena que no encontrabas",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t1)",
+   "fileId": "1MF3i017-vUzqQKpcaloJvCdNvS1rggfX",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 20:30 ART",
+   "plataforma": "metricool",
+   "cuenta": "7798880",
+   "archivo_final": "videos/2026-11-28/n12_1OvGn3.mp4",
+   "origen": "fuente nueva sin usar: Niko 3 (Drive 1OvGn31E_OOQtI7vPUOQSyzAHzO74It6Q)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "Botines nuevos: adulto y niño",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t2)",
+   "fileId": "1OvGn31E_OOQtI7vPUOQSyzAHzO74It6Q",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 10:00 ART",
+   "plataforma": "nuelink",
+   "cuenta": "325777 (col 109587)",
+   "archivo_final": "videos/2026-11-28/n13_1O7bjB.mp4",
+   "origen": "fuente nueva sin usar: Niko Rocky (Drive 1O7bjB2qjrHaBTqdL_SVSmtQjRMHUNFG6)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "¿Terminaste tu parte o no?",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t1)",
+   "fileId": "1O7bjB2qjrHaBTqdL_SVSmtQjRMHUNFG6",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 13:15 ART",
+   "plataforma": "nuelink",
+   "cuenta": "325777 (col 109587)",
+   "archivo_final": "videos/2026-11-28/n14_1hpDM1.mp4",
+   "origen": "fuente nueva sin usar: Niko 4 (Drive 1hpDM1K_PzNlwoEd81BIq6QnW3Bnq2Fbn)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "Llegó el verano en chancletas",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t2)",
+   "fileId": "1hpDM1K_PzNlwoEd81BIq6QnW3Bnq2Fbn",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 17:45 ART",
+   "plataforma": "nuelink",
+   "cuenta": "325777 (col 109587)",
+   "archivo_final": "videos/2026-11-28/n15_1FRNG-.mp4",
+   "origen": "fuente nueva sin usar: Niko 4 (Drive 1FRNG-dpqcEC-R21GUKsk2idEquENgkJq)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "Lo nuevo que llegó hoy",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t1)",
+   "fileId": "1FRNG-dpqcEC-R21GUKsk2idEquENgkJq",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 20:30 ART",
+   "plataforma": "nuelink",
+   "cuenta": "325777 (col 109587)",
+   "archivo_final": "videos/2026-11-28/n16_1lQteC.mp4",
+   "origen": "fuente nueva sin usar: Niko 4 (Drive 1lQteC91ia2hWPiaFX8ro-7qZYBIA1M5B)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "Deportivas nuevas: ¿las querés?",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t2)",
+   "fileId": "1lQteC91ia2hWPiaFX8ro-7qZYBIA1M5B",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 10:00 ART",
+   "plataforma": "nuelink",
+   "cuenta": "325785 (col 109607)",
+   "archivo_final": "videos/2026-11-28/n17_11-WyU.mp4",
+   "origen": "fuente nueva sin usar: Niko 3 (Drive 11-WyUwFwfef1hc0K_saNLv-Z4F1Z5T1Z)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "Las que más nos pidieron",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t1)",
+   "fileId": "11-WyUwFwfef1hc0K_saNLv-Z4F1Z5T1Z",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 13:15 ART",
+   "plataforma": "nuelink",
+   "cuenta": "325785 (col 109607)",
+   "archivo_final": "videos/2026-11-28/n18_1an2aG.mp4",
+   "origen": "fuente nueva sin usar: Niko 4 (Drive 1an2aG_q66ltvSBptPwjX1CMv3Pzn12is)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "¿Zapatillas con luces? Mirá",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t2)",
+   "fileId": "1an2aG_q66ltvSBptPwjX1CMv3Pzn12is",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 17:45 ART",
+   "plataforma": "nuelink",
+   "cuenta": "325785 (col 109607)",
+   "archivo_final": "videos/2026-11-28/n19_1nMQQY.mp4",
+   "origen": "fuente nueva sin usar: Niko 4 (Drive 1nMQQYL4nwxoWqufL0XnM9hIyX5UzyC3R)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "¿Dónde están mis calzados?",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t1)",
+   "fileId": "1nMQQYL4nwxoWqufL0XnM9hIyX5UzyC3R",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 20:30 ART",
+   "plataforma": "nuelink",
+   "cuenta": "325785 (col 109607)",
+   "archivo_final": "videos/2026-11-28/n20_18Imy9.mp4",
+   "origen": "fuente nueva sin usar: Niko Rocky (Drive 18Imy9TYjRTzvsUQM2kaJz6PaCNjrN6ft)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "¿Tenés talle 40 o más?",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t2)",
+   "fileId": "18Imy9TYjRTzvsUQM2kaJz6PaCNjrN6ft",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 10:00 ART",
+   "plataforma": "nuelink",
+   "cuenta": "325823 (col 109608)",
+   "archivo_final": "videos/2026-11-28/n21_1xSOuW.mp4",
+   "origen": "fuente nueva sin usar: Niko 4 (Drive 1xSOuWn6c8w2RoeVXzYpontfDmUU_HnHJ)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "Diadoras que no viste en otro lado",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t1)",
+   "fileId": "1xSOuWn6c8w2RoeVXzYpontfDmUU_HnHJ",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 13:15 ART",
+   "plataforma": "nuelink",
+   "cuenta": "325823 (col 109608)",
+   "archivo_final": "videos/2026-11-28/n22_1k1gU1.mp4",
+   "origen": "fuente nueva sin usar: Niko Rocky (Drive 1k1gU1NRUJqG9JNb9gNwFGn3Xm6OAwcKz)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "Qué le pasó al depósito",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t2)",
+   "fileId": "1k1gU1NRUJqG9JNb9gNwFGn3Xm6OAwcKz",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 17:45 ART",
+   "plataforma": "nuelink",
+   "cuenta": "325823 (col 109608)",
+   "archivo_final": "videos/2026-11-28/n23_1mEMfN.mp4",
+   "origen": "fuente nueva sin usar: Niko 3 (Drive 1mEMfNDa160JuJunXFXb-86yUXIlQEW94)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "Sandalias de fiesta: mirá esto",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t1)",
+   "fileId": "1mEMfNDa160JuJunXFXb-86yUXIlQEW94",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 20:30 ART",
+   "plataforma": "nuelink",
+   "cuenta": "325823 (col 109608)",
+   "archivo_final": "videos/2026-11-28/n24_1xWkqN.mp4",
+   "origen": "fuente nueva sin usar: Niko 3 (Drive 1xWkqNenr08h3a2MfEhmhSxf6kjrsjcXW)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "¿Cómo armás tu look deportivo?",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t2)",
+   "fileId": "1xWkqNenr08h3a2MfEhmhSxf6kjrsjcXW",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 10:00 ART",
+   "plataforma": "nuelink",
+   "cuenta": "325831 (col 109616)",
+   "archivo_final": "videos/2026-11-28/n25_1WCDTr.mp4",
+   "origen": "fuente nueva sin usar: Niko 3 (Drive 1WCDTrgqj3TuCeXgWlr7R09hYzMvOUGQP)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "Lo que nos pidieron muchísimo",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t1)",
+   "fileId": "1WCDTrgqj3TuCeXgWlr7R09hYzMvOUGQP",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 13:15 ART",
+   "plataforma": "nuelink",
+   "cuenta": "325831 (col 109616)",
+   "archivo_final": "videos/2026-11-28/n26_1o67rk.mp4",
+   "origen": "fuente nueva sin usar: Niko 3 (Drive 1o67rkd8ckU7AA4lVXOTbql1HoIVVjlDz)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "Para los más chiquitos: mirá",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t2)",
+   "fileId": "1o67rkd8ckU7AA4lVXOTbql1HoIVVjlDz",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 17:45 ART",
+   "plataforma": "nuelink",
+   "cuenta": "325831 (col 109616)",
+   "archivo_final": "videos/2026-11-28/n27_15HDgk.mp4",
+   "origen": "fuente nueva sin usar: Niko 3 (Drive 15HDgkomVLTYB-yXUYguVkXeL1UlEmbSs)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "¿Por qué vuelven las sojotas?",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t1)",
+   "fileId": "15HDgkomVLTYB-yXUYguVkXeL1UlEmbSs",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 20:30 ART",
+   "plataforma": "nuelink",
+   "cuenta": "325831 (col 109616)",
+   "archivo_final": "videos/2026-11-28/n28_1aBn4J.mp4",
+   "origen": "fuente nueva sin usar: Niko 3 (Drive 1aBn4Jyb4H4kVAFRxNMDU7P-rc8x9WwkW)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "¿Qué marca llegó hoy?",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t2)",
+   "fileId": "1aBn4Jyb4H4kVAFRxNMDU7P-rc8x9WwkW",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 10:00 ART",
+   "plataforma": "nuelink",
+   "cuenta": "327181 (col 110393)",
+   "archivo_final": "videos/2026-11-28/n29_1wHMLP.mp4",
+   "origen": "fuente nueva sin usar: Niko 3 (Drive 1wHMLPmE98x1Hkq4veLnkvykxzmA0K0oN)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "Chatitas: ¿te las llevás?",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t1)",
+   "fileId": "1wHMLPmE98x1Hkq4veLnkvykxzmA0K0oN",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 13:15 ART",
+   "plataforma": "nuelink",
+   "cuenta": "327181 (col 110393)",
+   "archivo_final": "videos/2026-11-28/n30_1qyWIG.mp4",
+   "origen": "fuente nueva sin usar: Niko 3 (Drive 1qyWIGmn1OMswNwFsde_LSAQe2dFYuFi2)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "Así quedó el trabajo de hoy",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t2)",
+   "fileId": "1qyWIGmn1OMswNwFsde_LSAQe2dFYuFi2",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 17:45 ART",
+   "plataforma": "nuelink",
+   "cuenta": "327181 (col 110393)",
+   "archivo_final": "videos/2026-11-28/n31_1hoIUA.mp4",
+   "origen": "fuente nueva sin usar: Niko 3 (Drive 1hoIUAkWJQK5ryIx8ffS9glSjLtFOojeN)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "Lucas y Enzo tienen algo que contar",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t1)",
+   "fileId": "1hoIUAkWJQK5ryIx8ffS9glSjLtFOojeN",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 20:30 ART",
+   "plataforma": "nuelink",
+   "cuenta": "327181 (col 110393)",
+   "archivo_final": "videos/2026-11-28/n32_1T9hXf.mp4",
+   "origen": "fuente nueva sin usar: Niko 3 (Drive 1T9hXfCu5glBoWX7ag85bQIUu4mXoiQwp)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "Cuando hay cositas nuevas en Niko",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t2)",
+   "fileId": "1T9hXfCu5glBoWX7ag85bQIUu4mXoiQwp",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 10:00 ART",
+   "plataforma": "nuelink",
+   "cuenta": "327402 (col 110479)",
+   "archivo_final": "videos/2026-11-28/n33_1owoAf.mp4",
+   "origen": "fuente nueva sin usar: Niko 3 (Drive 1owoAfoFrqRXVrSyP__3gzrtTiUgdoLUV)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "¿Tu gimnasio en casa? Cómo",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t1)",
+   "fileId": "1owoAfoFrqRXVrSyP__3gzrtTiUgdoLUV",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 13:15 ART",
+   "plataforma": "nuelink",
+   "cuenta": "327402 (col 110479)",
+   "archivo_final": "videos/2026-11-28/n34_1JBjfQ.mp4",
+   "origen": "fuente nueva sin usar: Niko 3 (Drive 1JBjfQjBiFsMCyq0TZsLpXcDm9NsUOm6A)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "Para fans de Reical: mirá",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t2)",
+   "fileId": "1JBjfQjBiFsMCyq0TZsLpXcDm9NsUOm6A",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 17:45 ART",
+   "plataforma": "nuelink",
+   "cuenta": "327402 (col 110479)",
+   "archivo_final": "videos/2026-11-28/n35_1ImjkG.mp4",
+   "origen": "fuente nueva sin usar: Niko Rocky (Drive 1ImjkGKDhEwGUI1CCINmPnGgi7_ZwxKZd)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "¿Lo pensamos o lo hacemos?",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t1)",
+   "fileId": "1ImjkGKDhEwGUI1CCINmPnGgi7_ZwxKZd",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 20:30 ART",
+   "plataforma": "nuelink",
+   "cuenta": "327402 (col 110479)",
+   "archivo_final": "videos/2026-11-28/n36_1bkn9I.mp4",
+   "origen": "fuente nueva sin usar: Niko 3 (Drive 1bkn9IPNLzTzuui95CwMoTyD2Khf4nhkD)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "Llegó algo nuevo al local",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t2)",
+   "fileId": "1bkn9IPNLzTzuui95CwMoTyD2Khf4nhkD",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 10:00 ART",
+   "plataforma": "nuelink",
+   "cuenta": "327441 (col 110480)",
+   "archivo_final": "videos/2026-11-28/n37_1XFbAX.mp4",
+   "origen": "fuente nueva sin usar: Niko Rocky (Drive 1XFbAXQ8drED4p_aQprXQ0zomxTjp2Y9D)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "¿Qué hacen con los pegaditos?",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t1)",
+   "fileId": "1XFbAXQ8drED4p_aQprXQ0zomxTjp2Y9D",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 13:15 ART",
+   "plataforma": "nuelink",
+   "cuenta": "327441 (col 110480)",
+   "archivo_final": "videos/2026-11-28/n38_13bJbR.mp4",
+   "origen": "fuente nueva sin usar: Niko 4 (Drive 13bJbRXuU_WsCFth5p73fvuE-Epy7vkdA)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "Mirá antes de que se vaya",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t2)",
+   "fileId": "13bJbRXuU_WsCFth5p73fvuE-Epy7vkdA",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 17:45 ART",
+   "plataforma": "nuelink",
+   "cuenta": "327441 (col 110480)",
+   "archivo_final": "videos/2026-11-28/n39_1MGNgI.mp4",
+   "origen": "fuente nueva sin usar: Niko 3 (Drive 1MGNgI9CmrqWhWfA97v6ZCORuB4GW2j0u)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "Esto pasa en Niko todos los días",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t1)",
+   "fileId": "1MGNgI9CmrqWhWfA97v6ZCORuB4GW2j0u",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 20:30 ART",
+   "plataforma": "nuelink",
+   "cuenta": "327441 (col 110480)",
+   "archivo_final": "videos/2026-11-28/n40_1Vrb5d.mp4",
+   "origen": "fuente nueva sin usar: Niko 4 (Drive 1Vrb5dgerZIAlr0zzCBBQK_KIRmMBF0jR)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "Lo que pasa cuando llega mercadería",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t2)",
+   "fileId": "1Vrb5dgerZIAlr0zzCBBQK_KIRmMBF0jR",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 10:00 ART",
+   "plataforma": "nuelink",
+   "cuenta": "327723 (col 110670)",
+   "archivo_final": "videos/2026-11-28/n41_1mNZzR.mp4",
+   "origen": "fuente nueva sin usar: Niko 4 (Drive 1mNZzRrBq0-tH7QguPT1yKbmGLw7oSeUL)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "Mirá el detalle de esto",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t1)",
+   "fileId": "1mNZzRrBq0-tH7QguPT1yKbmGLw7oSeUL",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 13:15 ART",
+   "plataforma": "nuelink",
+   "cuenta": "327723 (col 110670)",
+   "archivo_final": "videos/2026-11-28/n42_1kgzzc.mp4",
+   "origen": "fuente nueva sin usar: Niko 4 (Drive 1kgzzcAvOJ67rpQzF5sDQTb0aHggok7Bt)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "¿Qué tiene de especial?",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t2)",
+   "fileId": "1kgzzcAvOJ67rpQzF5sDQTb0aHggok7Bt",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 17:45 ART",
+   "plataforma": "nuelink",
+   "cuenta": "327723 (col 110670)",
+   "archivo_final": "videos/2026-11-28/n43_1jUoVz.mp4",
+   "origen": "fuente nueva sin usar: Niko 4 (Drive 1jUoVzCd2CCirpnBYv2O-O5UYmU4nECJk)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "¿Viste lo que llegó?",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t1)",
+   "fileId": "1jUoVzCd2CCirpnBYv2O-O5UYmU4nECJk",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 20:30 ART",
+   "plataforma": "nuelink",
+   "cuenta": "327723 (col 110670)",
+   "archivo_final": "videos/2026-11-28/n44_1HsY_I.mp4",
+   "origen": "fuente nueva sin usar: Niko Rocky (Drive 1HsY_ITaT8ndpLIQVuo7EOJ4rXp8EB5b5)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "Así se ve en el local",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t2)",
+   "fileId": "1HsY_ITaT8ndpLIQVuo7EOJ4rXp8EB5b5",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 10:00 ART",
+   "plataforma": "nuelink",
+   "cuenta": "327761 (col 109544)",
+   "archivo_final": "videos/2026-11-28/n45_1Rj44P.mp4",
+   "origen": "fuente nueva sin usar: Niko Rocky (Drive 1Rj44PD0YHq-5yY8EuYNRmt-K12dD76lU)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "Esto no lo viste en otro lado",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t1)",
+   "fileId": "1Rj44PD0YHq-5yY8EuYNRmt-K12dD76lU",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 20:30 ART",
+   "plataforma": "nuelink",
+   "cuenta": "327761 (col 109544)",
+   "archivo_final": "videos/2026-11-28/n48_1FogVg.mp4",
+   "origen": "fuente nueva sin usar: Niko 7 (Drive 1FogVg_FfRzQXvwu61mY1bi9nh0NmJckJ)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "El cliente que pregunta y no compra",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t2)",
+   "fileId": "1FogVg_FfRzQXvwu61mY1bi9nh0NmJckJ",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 13:15 ART",
+   "plataforma": "nuelink",
+   "cuenta": "328528 (col 110478)",
+   "archivo_final": "videos/2026-11-28/n50_1sW6TU.mp4",
+   "origen": "fuente nueva sin usar: Niko 7 (Drive 1sW6TUNsl4XSnJ1o99Cmybk_XqlwDoi-A)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "Cuando vendés todo el día",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t2)",
+   "fileId": "1sW6TUNsl4XSnJ1o99Cmybk_XqlwDoi-A",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 17:45 ART",
+   "plataforma": "nuelink",
+   "cuenta": "328528 (col 110478)",
+   "archivo_final": "videos/2026-11-28/n51_14U_tC.mp4",
+   "origen": "fuente nueva sin usar: Niko 7 (Drive 14U_tCyTAtQ-Afgm4VhYx_VrDF89DUEog)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "¿Te pasó esto en un local?",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t1)",
+   "fileId": "14U_tCyTAtQ-Afgm4VhYx_VrDF89DUEog",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-28 20:30 ART",
+   "plataforma": "nuelink",
+   "cuenta": "328528 (col 110478)",
+   "archivo_final": "videos/2026-11-28/n52_1idCl8.mp4",
+   "origen": "fuente nueva sin usar: Niko 7 (Drive 1idCl82hunKLe558yt3loFXUSXnZV1BSC)",
+   "tipo": "nuevo (Heras 28/11)",
+   "gancho": "Mirá cómo lo hacemos",
+   "estructura": "gancho 3s + subtitulos por frase + cierre niko.ar (version corta)",
+   "musica": "original instrumental vidIQ (t2)",
+   "fileId": "1idCl82hunKLe558yt3loFXUSXnZV1BSC",
+   "evaluado": false,
+   "version": "nueva"
   }
  ],
  "trends": {
@@ -6571,7 +7850,8 @@
   "2026-11-10": "Sin investigacion nueva (ahorro). Metricool 7 dias: lo que mas rinde son charlas/humor de vendedores y promos de local; producto solo ~80-150 vistas. Nuelink: max 542.",
   "2026-11-11": "WebSearch sin datos utiles de TikTok AR calzado (ahorro). Se uso: gancho texto rojo 3s, cierre local/liquidacion, musica original cumbia-trap / tropical house, test A-B-C-D en slideshow. Nuelink: ninguno >=3 dias supera 585 vistas (max charla Mati/infancia fabrica); sin virales.",
   "2026-11-12": "Sin investigacion nueva (ahorro). Videos mudos con musica original y gancho de texto 3s, cierre niko.ar. Nuelink 8-9/11: max 526 vistas, sin virales, sin FAILED. Pendientes sin usar: Niko 3 125602 (vendedor hablando, sin whisper en el entorno), 20261111_*, carpetas 20261110_* en 1ApfGZ..., POR EL PAIS.",
-  "2026-11-13": "Sin investigacion nueva (ahorro). Serie Viaje al norte Parte 1 en las 7 cuentas: 3 clips de ruta, versiones con otro gancho/orden/zoom/color/musica; texto 3s + cierre 'seguinos para la parte 2'."
+  "2026-11-13": "Sin investigacion nueva (ahorro). Serie Viaje al norte Parte 1 en las 7 cuentas: 3 clips de ruta, versiones con otro gancho/orden/zoom/color/musica; texto 3s + cierre 'seguinos para la parte 2'.",
+  "2026-11-28": "Metodo Victor Heras aplicado en version corta: gancho en 3 s (pregunta o identificacion), subtitulos por frase con palabras clave en rojo, cierre niko.ar/local. Sin investigacion nueva de tendencias (ahorro de uso). Reuso NO aplicado (regla 26/11)."
  },
  "carpetas_locales": {
   "Niko 1": "1JqOiITCP-pgDfyrXAB7lAWA0G1ykQeAI",
@@ -6609,6 +7889,9 @@
     "nota": "10/11: 5 videos nuevos en subcarpeta NIKO 2 10 / 11 (todos verticales, 13-27s) -> validos >=5 (conteo semanal completo sin verificar)"
    },
    "nota_14_11": "Cierre sábado NO verificado en esta corrida (sin acceso a conteo por createdTime)."
+  },
+  "2026-11-23": {
+   "nota": "Semana 23-28/11 pendiente: conteo por fecha de subida no verificado en esta corrida (Friday check no completado)."
   }
  },
  "ig_marketing": {
@@ -6746,6 +8029,11 @@
   "2026-11-14": [
    {
     "nota": "Nuelink 10-11/11 max 479 vistas (corp, mocasines). Sin VIRAL/PROMETEDOR; sin FAILED. Metricool no evaluado."
+   }
+  ],
+  "2026-11-27": [
+   {
+    "nota": "Evaluacion a 3 dias de posts del 24/11 NO corrida esta noche (pendiente proxima corrida)."
    }
   ]
  },
