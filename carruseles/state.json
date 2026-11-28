@@ -1063,14 +1063,26 @@
    ],
    "promo": "envío gratis desde $100.000",
    "collaborators": "no",
-   "evaluado": false,
+   "evaluado": true,
    "hecho_por": "tarea nocturna 23/11 (AR)",
    "url_base": "https://github.com/martinmiguelrecio/niko-videos/raw/main/carruseles/2026-11-24/vialola/",
    "metricool_id": 439691534,
    "metricool_uuid": "-3546345973488989969",
    "metricool_fb_tt_id": 439691553,
    "metricool_fb_tt_uuid": "1030702185867068911",
-   "nota_agenda": "getScheduledPosts VL 24/11 vacío → 12:30/12:31. Niko no toca (último 23/11)."
+   "nota_agenda": "getScheduledPosts VL 24/11 vacío → 12:30/12:31. Niko no toca (último 23/11).",
+   "resultado": {
+    "fecha_eval": "2026-11-27",
+    "ig_alcance": 743,
+    "ig_interacciones": 7,
+    "comentarios": 0,
+    "guardados": 0,
+    "compartidos": 0,
+    "mediana_vl_ig_alcance": 688,
+    "cyber_ref": "Un par para cada plan / 5 sandalias",
+    "veredicto": "NORMAL",
+    "nota": "1.08x mediana. 12:30 sigue abajo de 20:45: 22/11 431, 23/11 1194, 24/11 743, 25/11 1402, 26/11 683 vs 20/11 1990, 21/11 1420. Agencia mismos días 565-1808 (24/11 agencia 1808 a las 14:12)."
+   }
   },
   {
    "fecha_publicacion": "2026-11-25",
@@ -1215,6 +1227,38 @@
    "url_base": "https://github.com/martinmiguelrecio/niko-videos/raw/main/carruseles/2026-11-27/niko/",
    "metricool_id": 443838132,
    "metricool_uuid": "9194006714095455628"
+  },
+  {
+   "fecha_publicacion": "2026-11-28",
+   "hora": "12:30",
+   "marca": "vialola",
+   "formato": "UN PAR PARA CADA PLAN DEL FINDE (variante del ganador Cyber 'Un par para cada plan', sábado): 1 sábado de plaza y mates = blanca plataforma con hebilla / 2 sábado a la noche = negra con hebillas (video) / 3 domingo de asado = nude con tachas; cada una look + detalle; cierre '¿1, 2 O 3? TE LEO' + LOLA. Banda negra arriba + foto (looks foto entera fondo desenfocado). Mixto (1 video). Sin precio.",
+   "tendencia": "3 opciones + voto (Yanbal 35.7x) aplicado a planes del finde; cortar un día el ángulo fiestas",
+   "gancho": "UN PAR PARA CADA PLAN DEL FINDE · ¿Cuál es el tuyo? Deslizá » / ¿1, 2 O 3? TE LEO · Comentá LOLA",
+   "fotos": [
+    "Candela C94 1o1rJYAa8tuzw8bHruSTDnoA5HV7y1SV8 (portada)",
+    "Candela C96 1-jjGnkUfoxf3YmtYC8hUKzGXx5w446JJ",
+    "Candela C101 1D9zF04Xh7AbucxDgPiQ26-9MX4NPV4At",
+    "Candela C111 1SfGvPtmTEAnY8P7kpEYxBkV0agv80FCO (sólo FB/TT slide 4)",
+    "Candela C113 1Z9NCd4LUQ7wljJYzsxcJrGTxJJNGh_Kk",
+    "Candela C123 1zEPV-iFxF9Y39oSQAwenl0OjVpg3vuQ4",
+    "Candela C126 1WhcYxUdlgI42snJa5SvIukZq-fw8-sLM",
+    "Candela C125 1Wcz1sa2mqhL59ZTACmYVUv4IJe2hqCQ5 (cierre)"
+   ],
+   "videos": [
+    "Candela IMG_9160.MOV 12g7M0sfRseFiaGZiVImj2KjCvbLPimOO (1-8s, slide 4 IG, top pañuelo + short + negra hebillas)"
+   ],
+   "nota_indices": "Cxx = índice en embeddedfolderview de la carpeta Candela (incluye los 15 MOV al principio). OJO: la nude de C123-C128/C132 es CON TACHAS, no tejida.",
+   "promo": "envío gratis desde $100.000 (vialola.com.ar no se pudo leer; Tiendanube conectado es Niko: Black Friday 30% off 27-29/11 sólo confirmado en Niko)",
+   "collaborators": "no",
+   "evaluado": false,
+   "hecho_por": "tarea nocturna 27/11 (AR)",
+   "url_base": "https://github.com/martinmiguelrecio/niko-videos/raw/main/carruseles/2026-11-28/vialola/",
+   "metricool_id": 445059827,
+   "metricool_uuid": "7792005608389627649",
+   "metricool_fb_tt_id": 445059847,
+   "metricool_fb_tt_uuid": "6203101289701460474",
+   "nota_agenda": "getScheduledPosts VL 28/11 vacío → 12:30/12:31 (pedido Martín 21/11). Niko no toca (último 27/11); el 29/11 Niko puede usar Black Friday 30% off (vence 29/11 23:59) si sigue activo."
   }
  ],
  "instrucciones_martin": [
