@@ -837,7 +837,8 @@
   "24/11 noche (corrida): 25/11 y 26/11 estaban vacíos. Se programaron 52 posts para cada día (Metricool 12 + Nuelink 40 c/u), todo reuso sin promos vencidas; canal post 328528 sigue en col 110478. Niko 5 quedó corto de contenido de tienda online (se reusaron looks de otras cuentas en otro día). Whisper sin modelo (HF 403): sin edición nueva. Pool sin usar por cuenta casi agotado: PEDIR MATERIAL NUEVO. ids Nuelink 26/11: 5405942-5406003; 25/11: 5406004-5406046.",
   "26/11 noche: 27/11 estaba vacío; se programaron 52 posts (Metricool 12 + Nuelink 40), 52 archivos distintos, todo reuso sin promos vencidas (excluidos mochilas/útiles 2x50, mica_11_b, cyber). Nuelink ids 5411691-5411739. Whisper sigue sin instalar/modelo: sin edición nueva. Pool sin usar por cuenta casi agotado (~1 día más): PEDIR MATERIAL NUEVO. Niko 5 sin contenido de tienda online nuevo. Evaluación de viralidad a 3 días no corrida esta noche.",
   "28/11 (corrida 27/11 11:45 ART, manual): 49 cortes NUEVOS de fuentes sin usar (Niko 2/3/4/7 y Niko 1; Drive 86 bajados, transcritos con faster-whisper). Metricool 12/12 (7799818, 7788943, 7798880) y Nuelink 37/40 programados (ids 5419893-5419956). Faltan 3 Nuelink: shorts 13:15 y 17:45, post 10:00 (cortes descartados por promo/Via Lola visibles). Whisper ya funciona (HF accesible desde 27/11). Pool sin usar: quedan ~35 fuentes Niko chicas + Mica 17-11 (25 crudos 8K, pesados) y Mica 11-11/06-11 sin usar.",
-  "28/11 noche (corrida): para 29/11 solo 11/52 programados (Metricool 2/12: Niko ar, Niko 6; Nuelink 9/40). Pool real casi agotado: lo demas de locales es promo vencida (2x50, 2x70, 3x80, Cyber, mochilas), skits sin contenido o Via Lola a la vista (descartados n03/n08/n11/n12 del render: flyer/cajas Vialola). Mica 06-11/11-11/14-11/17-11 son 8K HEVC (7680x4320, 1-1.7 GB): no se pueden procesar en 2 CPUs a ritmo de 52/dia. Niko 5 sin contenido de tienda online. Reuso no aplicado (regla 26/11). Whisper: HF_HUB_DISABLE_XET=1 para bajar el modelo. Repo ~3 GB (.git 2.8G): sin borrar nada (todo <30 dias). Evaluacion 3/7 dias NO corrida esta noche."
+  "28/11 noche (corrida): para 29/11 solo 11/52 programados (Metricool 2/12: Niko ar, Niko 6; Nuelink 9/40). Pool real casi agotado: lo demas de locales es promo vencida (2x50, 2x70, 3x80, Cyber, mochilas), skits sin contenido o Via Lola a la vista (descartados n03/n08/n11/n12 del render: flyer/cajas Vialola). Mica 06-11/11-11/14-11/17-11 son 8K HEVC (7680x4320, 1-1.7 GB): no se pueden procesar en 2 CPUs a ritmo de 52/dia. Niko 5 sin contenido de tienda online. Reuso no aplicado (regla 26/11). Whisper: HF_HUB_DISABLE_XET=1 para bajar el modelo. Repo ~3 GB (.git 2.8G): sin borrar nada (todo <30 dias). Evaluacion 3/7 dias NO corrida esta noche.",
+  "28/11 noche (corrida manual): 29/11 queda en 22/52 (Metricool 10/12: Niko 5 sin 17:45 y 20:30; Nuelink 12/40). Se subieron 11 videos nuevos (videos/2026-11-29/v01..v11). NO se usaron los Editados Mica libres de 150 MB a 1 GB (8K, inviables en 2 CPU) ni las promos vencidas (2x70, 3x80, 3x90, cajas sorpresa, liquidaciones) ni las menciones a Vía Lola. Whisper OK (faster-whisper instalado, modelo en /opt/whisper-small). Pool local sin usar casi agotado: falta material nuevo de locales (con promos vigentes) y versiones cortas o proxies 1080p de los Mica 8K."
  ],
  "posts": [
   {
@@ -8148,6 +8149,239 @@
    "musica": "original instrumental vidIQ m2",
    "evaluado": false,
    "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-29 13:15 ART",
+   "plataforma": "metricool",
+   "cuenta": "7799818",
+   "post_id": "(ver Metricool/Nuelink)",
+   "archivo_final": "videos/2026-11-29/v01_pov_tiktok.mp4",
+   "origen": "Niko 2 / NIKO 2 10-11 (VID-20261114-WA0012)",
+   "fileId": "1aftLxzCF1TvdzXO91hB5fQxAQkX-BavM",
+   "tramo": [
+    0,
+    15.4
+   ],
+   "tipo": "nuevo (Heras)",
+   "gancho": "pov: cuando elegís qué tik tok va a sacar adelante a la empresa",
+   "tipo_gancho": "pov (identificación)",
+   "estructura": "gancho + contexto (skit) + giro; sin subtítulos nuevos",
+   "musica": "original del skit (sin música agregada)",
+   "version": "primera"
+  },
+  {
+   "fecha": "2026-11-29 17:45 ART",
+   "plataforma": "metricool",
+   "cuenta": "7799818",
+   "post_id": "(ver Metricool/Nuelink)",
+   "archivo_final": "videos/2026-11-29/v10_navidad_niko.mp4",
+   "origen": "Niko 3 / Semana del 16 - 21 de noviembre (20261120_123905)",
+   "fileId": "1ypLMOCuthxKi3H0G_-5cbn4lhkDjUAYQ",
+   "tramo": [
+    0.4,
+    14.8
+   ],
+   "tipo": "nuevo (Heras)",
+   "gancho": "¿Así arranca la Navidad en Niko?",
+   "tipo_gancho": "curiosidad (navidad)",
+   "estructura": "gancho + contexto (skit) + giro; sin subtítulos nuevos",
+   "musica": "original del skit (sin música agregada)",
+   "version": "primera"
+  },
+  {
+   "fecha": "2026-11-29 20:30 ART",
+   "plataforma": "metricool",
+   "cuenta": "7799818",
+   "post_id": "(ver Metricool/Nuelink)",
+   "archivo_final": "videos/2026-11-29/v06_ultimas_horas.mp4",
+   "origen": "n1 (VID_20261126_193205085~3)",
+   "fileId": "1cwGGjEiBj4nGFaor-DNpWwd2jmrKVXzw",
+   "tramo": [
+    0,
+    16.1
+   ],
+   "tipo": "nuevo (Heras)",
+   "gancho": "Últimas horas del día y vos tipo",
+   "tipo_gancho": "identificación",
+   "estructura": "gancho + contexto (skit) + giro; sin subtítulos nuevos",
+   "musica": "original del skit (sin música agregada)",
+   "version": "primera"
+  },
+  {
+   "fecha": "2026-11-29 10:00 ART",
+   "plataforma": "metricool",
+   "cuenta": "7788943",
+   "post_id": "(ver Metricool/Nuelink)",
+   "archivo_final": "videos/2026-11-29/v07_pov_jefe_otro_ano.mp4",
+   "origen": "n1 (lv_7591084897545047349_20261124190446)",
+   "fileId": "1mqBDxBnh2Q5b_L-5bdW-Ewph9_JkKyUX",
+   "tramo": [
+    0,
+    17.7
+   ],
+   "tipo": "nuevo (Heras)",
+   "gancho": "pov: cuando te reta el jefe",
+   "tipo_gancho": "pov (identificación)",
+   "estructura": "gancho + contexto (skit) + giro; sin subtítulos nuevos",
+   "musica": "original del skit (sin música agregada)",
+   "version": "primera"
+  },
+  {
+   "fecha": "2026-11-29 17:45 ART",
+   "plataforma": "metricool",
+   "cuenta": "7788943",
+   "post_id": "(ver Metricool/Nuelink)",
+   "archivo_final": "videos/2026-11-29/v09_conozca_debilidad.mp4",
+   "origen": "Carpeta 26/11 (VID-20261126-WA0013)",
+   "fileId": "1bU_AKPI5MtIIy-fhuRmhJjX0Pdy9Znps",
+   "tramo": [
+    0,
+    11.5
+   ],
+   "tipo": "nuevo (Heras)",
+   "gancho": "Conozca tu debilidad!",
+   "tipo_gancho": "curiosidad",
+   "estructura": "gancho + contexto (skit) + giro; sin subtítulos nuevos",
+   "musica": "original del skit (sin música agregada)",
+   "version": "primera"
+  },
+  {
+   "fecha": "2026-11-29 20:30 ART",
+   "plataforma": "metricool",
+   "cuenta": "7788943",
+   "post_id": "(ver Metricool/Nuelink)",
+   "archivo_final": "videos/2026-11-29/v11_mica_editado.mp4",
+   "origen": "Editados Mica (1Oly4FBHdOg3IDAX8hj_f5ylUYbf7eWRW, 15 s ya editado)",
+   "fileId": "1Oly4FBHdOg3IDAX8hj_f5ylUYbf7eWRW",
+   "tramo": [
+    0,
+    15
+   ],
+   "tipo": "mica_editado",
+   "gancho": "Así se vive Niko por dentro",
+   "tipo_gancho": "sin gancho nuevo (Mica editado tal cual)",
+   "estructura": "gancho + contexto (skit) + giro; sin subtítulos nuevos",
+   "musica": "original del skit (sin música agregada)",
+   "version": "primera"
+  },
+  {
+   "fecha": "2026-11-29 10:00 ART",
+   "plataforma": "metricool",
+   "cuenta": "7798880",
+   "post_id": "(ver Metricool/Nuelink)",
+   "archivo_final": "videos/2026-11-29/v08_wake_ingreso.mp4",
+   "origen": "n1 (VID_20261125_201023474~3)",
+   "fileId": "16EUXfRJoeSXqGiAyFelsjkyTeRkr46cl",
+   "tramo": [
+    0,
+    15
+   ],
+   "tipo": "nuevo (Heras)",
+   "gancho": "¿Ya viste el nuevo ingreso de Wake?",
+   "tipo_gancho": "curiosidad (producto)",
+   "estructura": "gancho + contexto (skit) + giro; sin subtítulos nuevos",
+   "musica": "original del skit (sin música agregada)",
+   "version": "primera"
+  },
+  {
+   "fecha": "2026-11-29 13:15 ART",
+   "plataforma": "metricool",
+   "cuenta": "7798880",
+   "post_id": "(ver Metricool/Nuelink)",
+   "archivo_final": "videos/2026-11-29/v05_pista_negras.mp4",
+   "origen": "Carpeta 26/11 (VID-20261128-WA0009 + WA0001)",
+   "fileId": "1ibHqOPCppu6JkNaU1U9yF3QDwOi2L6bP+14Nqgl4Wd3YCZ4bmYX0TNunlzyvQKwgRU",
+   "tramo": [
+    [
+     0,
+     7.5
+    ],
+    [
+     0,
+     5.5
+    ]
+   ],
+   "tipo": "nuevo (Heras)",
+   "gancho": "Zapatillas negras: ¿cuál elegís?",
+   "tipo_gancho": "pregunta (producto)",
+   "estructura": "gancho + contexto (skit) + giro; sin subtítulos nuevos",
+   "musica": "original del skit (sin música agregada)",
+   "version": "primera"
+  },
+  {
+   "fecha": "2026-11-29 10:00 ART",
+   "plataforma": "nuelink",
+   "cuenta": "109587",
+   "post_id": "(ver Metricool/Nuelink)",
+   "archivo_final": "videos/2026-11-29/v02_pov_cajas.mp4",
+   "origen": "Carpeta 26/11 (VID-20261126-WA0015 + WA0044 27/11)",
+   "fileId": "1CLyvx8rAoyZMF8aMPX9krKnF70vxi2oH+1Cm9AeVhV6tP9IB9hnMvUQ1VU6Xs1r7mW",
+   "tramo": [
+    [
+     0,
+     5.5
+    ],
+    [
+     0,
+     5.7
+    ]
+   ],
+   "tipo": "nuevo (Heras)",
+   "gancho": "pov: te dicen que no te sientes en las cajas",
+   "tipo_gancho": "pov (identificación)",
+   "estructura": "gancho + contexto (skit) + giro; sin subtítulos nuevos",
+   "musica": "original del skit (sin música agregada)",
+   "version": "primera"
+  },
+  {
+   "fecha": "2026-11-29 17:45 ART",
+   "plataforma": "nuelink",
+   "cuenta": "109607",
+   "post_id": "(ver Metricool/Nuelink)",
+   "archivo_final": "videos/2026-11-29/v03_pov_jefe_tiktok.mp4",
+   "origen": "Carpeta 26/11 (VID-20261116-WA0124 + VID-20261128-WA0007)",
+   "fileId": "1FNfqugaYj3E_3Up-XIV9FnwZeO8nAjO0+1FTvOE-IdIXLuv7XjMVrPKQjBjOHRiLtP",
+   "tramo": [
+    [
+     0,
+     6.5
+    ],
+    [
+     0,
+     6.0
+    ]
+   ],
+   "tipo": "nuevo (Heras)",
+   "gancho": "pov: cuando te reta el jefe",
+   "tipo_gancho": "pov (identificación)",
+   "estructura": "gancho + contexto (skit) + giro; sin subtítulos nuevos",
+   "musica": "original del skit (sin música agregada)",
+   "version": "primera"
+  },
+  {
+   "fecha": "2026-11-29 13:15 ART",
+   "plataforma": "nuelink",
+   "cuenta": "109608",
+   "post_id": "(ver Metricool/Nuelink)",
+   "archivo_final": "videos/2026-11-29/v04_y_el_vendedor.mp4",
+   "origen": "Carpeta 26/11 (VID-20261128-WA0010 + VID-20261127-WA0018)",
+   "fileId": "1iZFrxiQ46ZvKUTOA45e6ZwGjbOGKWeFi+1r9SObOvLevZ2iio95qgTjEB3d4OKPHfv",
+   "tramo": [
+    [
+     0,
+     4.9
+    ],
+    [
+     0,
+     4.3
+    ]
+   ],
+   "tipo": "nuevo (Heras)",
+   "gancho": "¿Y el vendedor?",
+   "tipo_gancho": "curiosidad",
+   "estructura": "gancho + contexto (skit) + giro; sin subtítulos nuevos",
+   "musica": "original del skit (sin música agregada)",
+   "version": "primera"
   }
  ],
  "trends": {
