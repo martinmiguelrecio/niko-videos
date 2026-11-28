@@ -711,6 +711,94 @@
    ],
    "fecha": "2026-11-28",
    "origen": "Drive local Niko 7"
+  },
+  {
+   "fileId": "1-nF8mI4yemOK7903pOt5mmpuGeGZ8WgC",
+   "archivo": "20261116_181947.mp4",
+   "desde": 0.6,
+   "hasta": 18.3,
+   "origen": "local",
+   "editado": "2026-11-28"
+  },
+  {
+   "fileId": "15DKqe-0VBZZ-S0Rjc7_EYfufcYz7EHtM",
+   "archivo": "20261119_095421.mp4",
+   "desde": 1.1,
+   "hasta": 10.6,
+   "origen": "local",
+   "editado": "2026-11-28"
+  },
+  {
+   "fileId": "1-_A3_HGzgiWfKHaASH5--T2aLLkeE5gW",
+   "archivo": "20261119_181205.mp4",
+   "desde": 0.3,
+   "hasta": 14.5,
+   "origen": "local",
+   "editado": "2026-11-28"
+  },
+  {
+   "fileId": "1CCVWAPRh42dU3M-EO9y2vKBECwcMPzzB",
+   "archivo": "20261121_192300.mp4",
+   "desde": 0.6,
+   "hasta": 14.6,
+   "origen": "local",
+   "editado": "2026-11-28"
+  },
+  {
+   "fileId": "1CCVWAPRh42dU3M-EO9y2vKBECwcMPzzB",
+   "archivo": "20261121_192300.mp4",
+   "desde": 14.6,
+   "hasta": 25.0,
+   "origen": "local",
+   "editado": "2026-11-28"
+  },
+  {
+   "fileId": "1Iwk-5swiy6iC90AfeIvdk2qG5C94DJJk",
+   "archivo": "20261121_210123.mp4",
+   "desde": 0.4,
+   "hasta": 22.2,
+   "origen": "local",
+   "editado": "2026-11-28"
+  },
+  {
+   "fileId": "1rTkFc5SPsX5RBxbnC1u3wiU4p3Mfc8ki",
+   "archivo": "20261126_112730.mp4",
+   "desde": 0.3,
+   "hasta": 25.0,
+   "origen": "local",
+   "editado": "2026-11-28"
+  },
+  {
+   "fileId": "14KyF0Ye6QktnqM1RqghFrvMHd_vASI_a",
+   "archivo": "lv_0_20261126111821.mp4",
+   "desde": 0.3,
+   "hasta": 13.7,
+   "origen": "local",
+   "editado": "2026-11-28"
+  },
+  {
+   "fileId": "14KyF0Ye6QktnqM1RqghFrvMHd_vASI_a",
+   "archivo": "lv_0_20261126111821.mp4",
+   "desde": 14.8,
+   "hasta": 37.2,
+   "origen": "local",
+   "editado": "2026-11-28"
+  },
+  {
+   "fileId": "1oY21QpSs3knJJl28DO76OxmPKQ2Rpvus",
+   "archivo": "20261104_205153.mp4",
+   "desde": 0.3,
+   "hasta": 13.6,
+   "origen": "local",
+   "editado": "2026-11-28"
+  },
+  {
+   "fileId": "1oY21QpSs3knJJl28DO76OxmPKQ2Rpvus",
+   "archivo": "20261104_205153.mp4",
+   "desde": 13.6,
+   "hasta": 31.6,
+   "origen": "local",
+   "editado": "2026-11-28"
   }
  ],
  "descartados": [
@@ -748,7 +836,8 @@
   "23/11 (corrida 22:45 ART): 24/11 estaba vacío en Nuelink y Metricool (22 y 23/11 sin registrar). Se programaron 52 posts para el 24/11 (Metricool 12 + Nuelink 40), todos reuso de videos ya editados no usados antes por cada cuenta (sin promos vencidas). Whisper sigue sin modelo (HF 403): sin edición nueva. Canal post 328528 sigue en col 110478. Pool sin usar por cuenta ~45-55 archivos: alcanza ~1 semana de reuso, pero conviene material nuevo. Mica/17-11 (25 crudos 8K) sigue sin usar.",
   "24/11 noche (corrida): 25/11 y 26/11 estaban vacíos. Se programaron 52 posts para cada día (Metricool 12 + Nuelink 40 c/u), todo reuso sin promos vencidas; canal post 328528 sigue en col 110478. Niko 5 quedó corto de contenido de tienda online (se reusaron looks de otras cuentas en otro día). Whisper sin modelo (HF 403): sin edición nueva. Pool sin usar por cuenta casi agotado: PEDIR MATERIAL NUEVO. ids Nuelink 26/11: 5405942-5406003; 25/11: 5406004-5406046.",
   "26/11 noche: 27/11 estaba vacío; se programaron 52 posts (Metricool 12 + Nuelink 40), 52 archivos distintos, todo reuso sin promos vencidas (excluidos mochilas/útiles 2x50, mica_11_b, cyber). Nuelink ids 5411691-5411739. Whisper sigue sin instalar/modelo: sin edición nueva. Pool sin usar por cuenta casi agotado (~1 día más): PEDIR MATERIAL NUEVO. Niko 5 sin contenido de tienda online nuevo. Evaluación de viralidad a 3 días no corrida esta noche.",
-  "28/11 (corrida 27/11 11:45 ART, manual): 49 cortes NUEVOS de fuentes sin usar (Niko 2/3/4/7 y Niko 1; Drive 86 bajados, transcritos con faster-whisper). Metricool 12/12 (7799818, 7788943, 7798880) y Nuelink 37/40 programados (ids 5419893-5419956). Faltan 3 Nuelink: shorts 13:15 y 17:45, post 10:00 (cortes descartados por promo/Via Lola visibles). Whisper ya funciona (HF accesible desde 27/11). Pool sin usar: quedan ~35 fuentes Niko chicas + Mica 17-11 (25 crudos 8K, pesados) y Mica 11-11/06-11 sin usar."
+  "28/11 (corrida 27/11 11:45 ART, manual): 49 cortes NUEVOS de fuentes sin usar (Niko 2/3/4/7 y Niko 1; Drive 86 bajados, transcritos con faster-whisper). Metricool 12/12 (7799818, 7788943, 7798880) y Nuelink 37/40 programados (ids 5419893-5419956). Faltan 3 Nuelink: shorts 13:15 y 17:45, post 10:00 (cortes descartados por promo/Via Lola visibles). Whisper ya funciona (HF accesible desde 27/11). Pool sin usar: quedan ~35 fuentes Niko chicas + Mica 17-11 (25 crudos 8K, pesados) y Mica 11-11/06-11 sin usar.",
+  "28/11 noche (corrida): para 29/11 solo 11/52 programados (Metricool 2/12: Niko ar, Niko 6; Nuelink 9/40). Pool real casi agotado: lo demas de locales es promo vencida (2x50, 2x70, 3x80, Cyber, mochilas), skits sin contenido o Via Lola a la vista (descartados n03/n08/n11/n12 del render: flyer/cajas Vialola). Mica 06-11/11-11/14-11/17-11 son 8K HEVC (7680x4320, 1-1.7 GB): no se pueden procesar en 2 CPUs a ritmo de 52/dia. Niko 5 sin contenido de tienda online. Reuso no aplicado (regla 26/11). Whisper: HF_HUB_DISABLE_XET=1 para bajar el modelo. Repo ~3 GB (.git 2.8G): sin borrar nada (todo <30 dias). Evaluacion 3/7 dias NO corrida esta noche."
  ],
  "posts": [
   {
@@ -7839,6 +7928,226 @@
    "fileId": "1idCl82hunKLe558yt3loFXUSXnZV1BSC",
    "evaluado": false,
    "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-29 10:00 ART",
+   "plataforma": "metricool",
+   "cuenta": "7799818",
+   "post_id": "445074416",
+   "archivo_final": "videos/2026-11-29/n01_c00.mp4",
+   "origen": "local Niko 3: Niko 3/Semana del 16 - 21 de noviembre /20261116_181947.mp4",
+   "fileId": "1-nF8mI4yemOK7903pOt5mmpuGeGZ8WgC",
+   "tramo": [
+    0.6,
+    18.3
+   ],
+   "tipo": "nuevo (Heras)",
+   "gancho": "¿Por qué ya se siente la Navidad en Niko?",
+   "tipo_gancho": "pregunta por qué",
+   "estructura": "gancho 3s + subtitulos por palabra (clave en rojo) + cierre niko.ar, voz 1.1x",
+   "musica": "original instrumental vidIQ m0",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-29 13:15 ART",
+   "plataforma": "metricool",
+   "cuenta": "7788943",
+   "post_id": "445074429",
+   "archivo_final": "videos/2026-11-29/n02_c01.mp4",
+   "origen": "local Niko 3: Niko 3/Semana del 16 - 21 de noviembre /20261119_095421.mp4",
+   "fileId": "15DKqe-0VBZZ-S0Rjc7_EYfufcYz7EHtM",
+   "tramo": [
+    1.1,
+    10.6
+   ],
+   "tipo": "nuevo (Heras)",
+   "gancho": "Algo se viene en Niko… ¿adivinás?",
+   "tipo_gancho": "curiosidad",
+   "estructura": "gancho 3s + subtitulos por palabra (clave en rojo) + cierre niko.ar, voz 1.1x",
+   "musica": "original instrumental vidIQ m1",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-29 17:45 ART",
+   "plataforma": "nuelink",
+   "cuenta": "325777 (col 109587)",
+   "post_id": "5423164",
+   "archivo_final": "videos/2026-11-29/n03_c02.mp4",
+   "origen": "local Niko 3: Niko 3/Semana del 16 - 21 de noviembre /20261119_181205.mp4",
+   "fileId": "1-_A3_HGzgiWfKHaASH5--T2aLLkeE5gW",
+   "tramo": [
+    0.3,
+    14.5
+   ],
+   "tipo": "nuevo (Heras)",
+   "gancho": "¿Cómo llega la mercadería nueva a Niko?",
+   "tipo_gancho": "pregunta cómo",
+   "estructura": "gancho 3s + subtitulos por palabra (clave en rojo) + cierre niko.ar, voz 1.1x",
+   "musica": "original instrumental vidIQ m2",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-29 20:30 ART",
+   "plataforma": "nuelink",
+   "cuenta": "325785 (col 109607)",
+   "post_id": "5423165",
+   "archivo_final": "videos/2026-11-29/n04_c04.mp4",
+   "origen": "local Niko 3: Niko 3/Semana del 16 - 21 de noviembre /20261121_192300.mp4",
+   "fileId": "1CCVWAPRh42dU3M-EO9y2vKBECwcMPzzB",
+   "tramo": [
+    0.6,
+    14.6
+   ],
+   "tipo": "nuevo (Heras)",
+   "gancho": "Del 1 al 10: ¿qué nota le ponés a esta vidriera?",
+   "tipo_gancho": "pregunta",
+   "estructura": "gancho 3s + subtitulos por palabra (clave en rojo) + cierre niko.ar, voz 1.1x",
+   "musica": "original instrumental vidIQ m3",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-29 10:00 ART",
+   "plataforma": "nuelink",
+   "cuenta": "325823 (col 109608)",
+   "post_id": "5423166",
+   "archivo_final": "videos/2026-11-29/n05_c05.mp4",
+   "origen": "local Niko 3: Niko 3/Semana del 16 - 21 de noviembre /20261121_192300.mp4",
+   "fileId": "1CCVWAPRh42dU3M-EO9y2vKBECwcMPzzB",
+   "tramo": [
+    14.6,
+    25.0
+   ],
+   "tipo": "nuevo (Heras)",
+   "gancho": "Nos pediste ideas y las hicimos",
+   "tipo_gancho": "identificación",
+   "estructura": "gancho 3s + subtitulos por palabra (clave en rojo) + cierre niko.ar, voz 1.1x",
+   "musica": "original instrumental vidIQ m0",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-29 13:15 ART",
+   "plataforma": "nuelink",
+   "cuenta": "325831 (col 109616)",
+   "post_id": "5423167",
+   "archivo_final": "videos/2026-11-29/n06_c06.mp4",
+   "origen": "local Niko 3: Niko 3/Semana del 16 - 21 de noviembre /20261121_210123.mp4",
+   "fileId": "1Iwk-5swiy6iC90AfeIvdk2qG5C94DJJk",
+   "tramo": [
+    0.4,
+    22.2
+   ],
+   "tipo": "nuevo (Heras)",
+   "gancho": "¿Cómo elegir un buen botín de trabajo?",
+   "tipo_gancho": "pregunta cómo",
+   "estructura": "gancho 3s + subtitulos por palabra (clave en rojo) + cierre niko.ar, voz 1.1x",
+   "musica": "original instrumental vidIQ m1",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-29 17:45 ART",
+   "plataforma": "nuelink",
+   "cuenta": "327181 (col 110393)",
+   "post_id": "5423169",
+   "archivo_final": "videos/2026-11-29/n07_c07.mp4",
+   "origen": "local Niko 3: Niko 3/Semana del 23 al 28 de noviembre /20261126_112730.mp4",
+   "fileId": "1rTkFc5SPsX5RBxbnC1u3wiU4p3Mfc8ki",
+   "tramo": [
+    0.3,
+    25.0
+   ],
+   "tipo": "nuevo (Heras)",
+   "gancho": "¿Zapatilla o zapato? Mirá las opciones",
+   "tipo_gancho": "pregunta",
+   "estructura": "gancho 3s + subtitulos por palabra (clave en rojo) + cierre niko.ar, voz 1.1x",
+   "musica": "original instrumental vidIQ m2",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-29 20:30 ART",
+   "plataforma": "nuelink",
+   "cuenta": "327402 (col 110479)",
+   "post_id": "5423171",
+   "archivo_final": "videos/2026-11-29/n08_c09.mp4",
+   "origen": "local Niko 3: Niko 3/Semana del 23 al 28 de noviembre /lv_0_20261126111821.mp4",
+   "fileId": "14KyF0Ye6QktnqM1RqghFrvMHd_vASI_a",
+   "tramo": [
+    0.3,
+    13.7
+   ],
+   "tipo": "nuevo (Heras)",
+   "gancho": "¿Por qué nos pidieron tanto esto?",
+   "tipo_gancho": "pregunta por qué",
+   "estructura": "gancho 3s + subtitulos por palabra (clave en rojo) + cierre niko.ar, voz 1.1x",
+   "musica": "original instrumental vidIQ m3",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-29 10:00 ART",
+   "plataforma": "nuelink",
+   "cuenta": "327441 (col 110480)",
+   "post_id": "5423173",
+   "archivo_final": "videos/2026-11-29/n09_c10.mp4",
+   "origen": "local Niko 3: Niko 3/Semana del 23 al 28 de noviembre /lv_0_20261126111821.mp4",
+   "fileId": "14KyF0Ye6QktnqM1RqghFrvMHd_vASI_a",
+   "tramo": [
+    14.8,
+    37.2
+   ],
+   "tipo": "nuevo (Heras)",
+   "gancho": "¿Cómo vestirte para un casamiento?",
+   "tipo_gancho": "pregunta cómo",
+   "estructura": "gancho 3s + subtitulos por palabra (clave en rojo) + cierre niko.ar, voz 1.1x",
+   "musica": "original instrumental vidIQ m0",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-29 13:15 ART",
+   "plataforma": "nuelink",
+   "cuenta": "327723 (col 110670)",
+   "post_id": "5423174",
+   "archivo_final": "videos/2026-11-29/n10_c13.mp4",
+   "origen": "local Niko 3: Niko 3/20261104_205153.mp4",
+   "fileId": "1oY21QpSs3knJJl28DO76OxmPKQ2Rpvus",
+   "tramo": [
+    0.3,
+    13.6
+   ],
+   "tipo": "nuevo (Heras)",
+   "gancho": "¿Buscabas chinelas y hojotas?",
+   "tipo_gancho": "identificación",
+   "estructura": "gancho 3s + subtitulos por palabra (clave en rojo) + cierre niko.ar, voz 1.1x",
+   "musica": "original instrumental vidIQ m1",
+   "evaluado": false,
+   "version": "nueva"
+  },
+  {
+   "fecha": "2026-11-29 17:45 ART",
+   "plataforma": "nuelink",
+   "cuenta": "327761 (col 109544)",
+   "post_id": "5423175",
+   "archivo_final": "videos/2026-11-29/n11_c14.mp4",
+   "origen": "local Niko 3: Niko 3/20261104_205153.mp4",
+   "fileId": "1oY21QpSs3knJJl28DO76OxmPKQ2Rpvus",
+   "tramo": [
+    13.6,
+    31.6
+   ],
+   "tipo": "nuevo (Heras)",
+   "gancho": "Lo nuevo en chinelas ya llegó a Niko",
+   "tipo_gancho": "curiosidad",
+   "estructura": "gancho 3s + subtitulos por palabra (clave en rojo) + cierre niko.ar, voz 1.1x",
+   "musica": "original instrumental vidIQ m2",
+   "evaluado": false,
+   "version": "nueva"
   }
  ],
  "trends": {
@@ -7851,7 +8160,8 @@
   "2026-11-11": "WebSearch sin datos utiles de TikTok AR calzado (ahorro). Se uso: gancho texto rojo 3s, cierre local/liquidacion, musica original cumbia-trap / tropical house, test A-B-C-D en slideshow. Nuelink: ninguno >=3 dias supera 585 vistas (max charla Mati/infancia fabrica); sin virales.",
   "2026-11-12": "Sin investigacion nueva (ahorro). Videos mudos con musica original y gancho de texto 3s, cierre niko.ar. Nuelink 8-9/11: max 526 vistas, sin virales, sin FAILED. Pendientes sin usar: Niko 3 125602 (vendedor hablando, sin whisper en el entorno), 20261111_*, carpetas 20261110_* en 1ApfGZ..., POR EL PAIS.",
   "2026-11-13": "Sin investigacion nueva (ahorro). Serie Viaje al norte Parte 1 en las 7 cuentas: 3 clips de ruta, versiones con otro gancho/orden/zoom/color/musica; texto 3s + cierre 'seguinos para la parte 2'.",
-  "2026-11-28": "Metodo Victor Heras aplicado en version corta: gancho en 3 s (pregunta o identificacion), subtitulos por frase con palabras clave en rojo, cierre niko.ar/local. Sin investigacion nueva de tendencias (ahorro de uso). Reuso NO aplicado (regla 26/11)."
+  "2026-11-28": "Metodo Victor Heras aplicado en version corta: gancho en 3 s (pregunta o identificacion), subtitulos por frase con palabras clave en rojo, cierre niko.ar/local. Sin investigacion nueva de tendencias (ahorro de uso). Reuso NO aplicado (regla 26/11).",
+  "2026-11-29": "Metodo Heras aplicado (gancho 3s pregunta/por qué/cómo/identificación, subtitulos por palabra con claves en rojo, cierre niko.ar). Sin investigacion de tendencias."
  },
  "carpetas_locales": {
   "Niko 1": "1JqOiITCP-pgDfyrXAB7lAWA0G1ykQeAI",
